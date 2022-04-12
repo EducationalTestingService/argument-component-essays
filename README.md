@@ -6,14 +6,12 @@ This repository contains 145 argument essays written by students. These essays w
 ## Citation
 @inproceedings{alhindi-ghosh-2021-sharks,  
     title = "{``}Sharks are not the threat humans are{''}: Argument Component Segmentation in School Student Essays",  
-    author = "Alhindi, Tariq  and
-      Ghosh, Debanjan",
-    booktitle = "Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications",
-    month = apr,
-    year = "2021",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.bea-1.22",
-    pages = "210--222",
-}
+    author = "Alhindi, Tariq  and Ghosh, Debanjan",  
+    booktitle = "Proceedings of the 16th Workshop on Innovative Use of NLP for Building Educational Applications",  
+    month = apr,  
+    year = "2021",  
+    publisher = "Association for Computational Linguistics",  
+    url = "https://aclanthology.org/2021.bea-1.22",  
+    pages = "210--222",  
+}  
 
