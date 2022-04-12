@@ -1,0 +1,26 @@
+T1	Claim 37 135	A good father cares for his children and does everything he can to raise them into better humans .
+T2	Claim 149 185	your father should teach you respect
+T3	Claim 196 206	be abusive
+T4	Claim 220 306	they were abusive or treated you wrong then you would think that is ok in a partener .
+T5	Claim 307 378	Atticus Finch , in the book to Kill a Mockingbird , was a good father .
+T6	Claim 517 589	Being a good father means that , you do not only provide the necessities
+T7	Claim 592 615	but also provide love .
+T8	Claim 644 757	Atticus Finch is a good father by teaching them fairness , notices their differences , and teaches them empathy .
+T9	Claim 1303 1402	always follow your heart and do what you know is right , even if other people look down on you it .
+T10	Claim 1432 1457	Tom Robinson was innocent
+T11	Claim 1616 1678	let people scare you from what 's right which shows fairness .
+T12	Claim 1700 1719	he is a fair person
+T13	Claim 1785 1832	if he was not there to represent Tom robinson .
+T14	Claim 2050 2150	When you are a father of one son , and one daughter you have to realize that each kid is different .
+T15	Claim 2151 2294	You never really understand a person until you consider things from their point of view - until you climb into their skin and walk around in it
+T16	Claim 2320 2404	let each kid discover who they are as a person and not force who you are onto them .
+T17	Claim 2938 3013	Letting your children be themselves is a very important part of parenting .
+T18	Claim 3197 3282	You never really understand a person until you consider things from his point of view
+T19	Claim 3331 3343	judge people
+T20	Claim 3356 3426	see it from their point of view before you can start to marshal them .
+T21	Claim 3495 3558	Not only is he wise , but he sets a good example for his kids .
+T22	Claim 3591 3632	educate your kids about right and wrong .
+T23	Claim 3803 3829	Atticus is a good father .
+T24	Claim 4265 4338	most fathers were like Atticus , the world would be a much better place .
+T25	Premise 1728 1759	people know he is a good lawyer
+R1	Support Arg1:T25 Arg2:T12	

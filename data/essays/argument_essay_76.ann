@@ -1,0 +1,20 @@
+T1	Claim 275 298	we should n't harm them
+T2	Claim 339 388	Boo , Tom , and Atticus symbolize the mockingbird
+T3	Claim 623 638	Tom is innocent
+T4	Claim 700 727	He symbolizes a Mockingbird
+T5	Claim 1272 1368	Similar to a Mockingbird Atticus is defenseless against the jury 's predigest during the trial .
+T6	Claim 1434 1462	Tom symbolizes a mockingbird
+T7	Claim 2447 2475	Boo symbolizes a mockingbird
+T8	Claim 3316 3374	All in all Atticus , Boo , and Tom symbolize a mockingbird
+T9	Premise 307 336	all they do is sing to people
+R1	Support Arg1:T9 Arg2:T1
+T10	Premise 422 484	they are all admirable characters who only want to help people
+R2	Support Arg1:T10 Arg2:T2
+T11	Premise 736 766	he wants the best for everyone
+R3	Support Arg1:T11 Arg2:T4
+T12	Premise 1471 1492	he never harms anyone
+R4	Support Arg1:T12 Arg2:T6
+T13	Premise 2484 2552	he does nothing but mind his own business throughout the entire book
+R5	Support Arg1:T13 Arg2:T7
+T14	Premise 3383 3432	they are all harmless throughout the entire novel
+R6	Support Arg1:T14 Arg2:T8

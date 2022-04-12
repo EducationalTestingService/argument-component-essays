@@ -1,0 +1,22 @@
+T16	Claim 280 382	Racial discrimination with police officers is a very relevant and important issue in the United States
+T23	Claim 385 499	Policemen in the United States handle situations differently depending on the race of the people they are handling
+T24	Claim 502 593	Policemen are generally more violent with African Americans than white people during arrest
+T25	Claim 596 681	African Americans are twice as likely to be killed by police officers than whites are
+T26	Claim 684 760	All police officers in the United States must be held accountable for racism
+T27	Claim 764 860	Policemen are generally more violent with African Americans than with white people during arrest
+T28	Premise 889 988	racism plays a part in causing police to pull the trigger more quickly on African American suspects
+R1	Support Arg1:T28 Arg2:T27	
+T29	Claim 1063 1133	the process for African American arrest is more aggressive than whites
+T30	Claim 1141 1218	Black Americans are more than twice as likely to be killed by police officers
+T31	Claim 1267 1368	for every 5 white people killed by policemen , there are 10 African Americans are killed by policemen
+T32	Claim 1515 1634	generally , the police are too quick to use deadly force and that they are more likely to use it against a black person
+T33	Claim 1672 1759	policemen handle arrest situations differently for African Americans rather than whites
+T34	Claim 1882 1912	police bias may be responsible
+T35	Claim 2475 2515	a black person was killed every 28 hours
+T36	Claim 2549 2631	more black people have been killed throughout the last ten years than white people
+T37	Opinion 2714 2792	Some people say that the policemen do not recognize when they are being racist
+T38	Claim 2811 2862	the police officers are trained to be racially bias
+T39	Opinion 2880 2943	it is never okay to discriminate people according to their race
+T40	Claim 2946 3007	Color of skin should not determine the way people are treated
+T41	Claim 3010 3076	In the United States , this is a very relevant and important issue
+T42	Claim 3079 3160	The policemen of America must be brought to justice for racial bias during arrest

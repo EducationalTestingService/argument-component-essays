@@ -1,0 +1,57 @@
+T1	Claim 174 283	The veterans that you might see at the grocery store our the nearby diner might be going something terrible .
+T2	Claim 284 339	We can not let these veterans keep committing suicide .
+T3	Claim 340 370	All veterans must have support
+T4	Claim 438 484	Health issues is a big problem in our states .
+T5	Claim 485 522	It has changed many people 's lives .
+T6	Claim 553 655	many veterans that come back from war with a disorder called Post Traumatic Stress Disorder ( PTSD ) .
+T7	Claim 871 898	These grants are not enough
+T8	Claim 898 938	 there are still how many veterans dying
+T9	Claim 1193 1237	The costs for these veterans are very high .
+T10	Claim 1538 1583	Mr. Donald Trump is supporting our veterans .
+T11	Claim 1584 1758	This request an increase of $ 12.1 billion over 2018 will ensure the Nation 's Veterans receive high - quality health care and timely access to benefits and services ( VA ) .
+T12	Claim 1787 1888	our country sees that there is a problem in our country with these veterans and we are helping them .
+T13	Claim 2243 2302	our veterans can appreciate what they did for our country .
+T14	Claim 2356 2383	we could never repay them .
+T15	Claim 2763 2850	one in every five United States service members have Post Deployment Syndrome ( PDS ) .
+T16	Claim 2851 3016	Traumatic Brain Injury ( TBI ) may occur anytime the head is shaken or hit causing concussion or closed head injury ( War Related illness and Injury Study Center ) .
+T17	Claim 3017 3095	This is another disorder that happens to veterans after coming home from war .
+T18	Claim 3096 3176	Veterans with more severe TBIs are at greater risk for long term complications .
+T19	Claim 3322 3434	you were in the war and you where a gunner or someone who handles the guns here is a higher chance to have TBI .
+T20	Claim 3436 3532	All veterans must have support because of the financial and brain disorders that come from war .
+T21	Claim 3554 3611	America does not have enough money to fund our veterans .
+T22	Claim 3612 3679	We must use the money on funding schools and feeding the homeless .
+T23	Claim 3680 3694	They are wrong
+T24	Claim 3695 3734	we must find the money for our veterans
+T25	Premise 382 434	the financial and brain disorder that comes from war
+T26	Premise 950 968	these health rates
+R1	Support Arg1:T26 Arg2:T8
+T27	Premise 3743 3770	they fought for our freedom
+R2	Support Arg1:T27 Arg2:T24
+T28	Claim 555 655	many veterans that come back from war with a disorder called Post Traumatic Stress Disorder ( PTSD )
+T29	Claim 885 912	These grants are not enough
+T30	Claim 915 954	there are still how many veterans dying
+T31	Premise 968 986	these health rates
+R3	Support Arg1:T31 Arg2:T30	
+T32	Claim 1221 1263	The costs for these veterans are very high
+T33	Claim 1570 1613	Mr. Donald Trump is supporting our veterans
+T34	Premise 1422 1543	In the FY 2019 Budget , President Trump proposes a total of $ 198.6 billion for the Department of Veterans Affairs ( VA )
+R4	Support Arg1:T34 Arg2:T33	
+T35	Claim 1616 1792	This request , an increase of $ 12.1 billion over 2018 , will ensure the Nation 's Veterans receive high - quality health care and timely access to benefits and services ( VA )
+T36	Claim 1823 1924	our country sees that there is a problem in our country with these veterans , and we are helping them
+T37	Claim 2293 2350	our veterans can appreciate what they did for our country
+T38	Premise 2221 2282	Mr. Donald Trump os raising the budget for all of these costs
+R5	Support Arg1:T38 Arg2:T37	
+T39	Claim 2406 2431	we could never repay them
+T40	Claim 2813 2898	one in every five United States service members have Post Deployment Syndrome ( PDS )
+T41	Claim 2901 3084	Traumatic Brain Injury ( TBI ) may occur anytime the head is shaken or hit , causing `` concussion '' or `` closed head injury '' ( `` War Related illness and Injury Study Center '' )
+T42	Claim 3087 3165	This is another disorder that happens to veterans , after coming home from war
+T43	Claim 3168 3246	Veterans with more severe TBIs are at greater risk for long term complications
+T44	Claim 3394 3504	you were in the war and you where a gunner or someone who handles the guns here is a higher chance to have TBI
+T46	Claim 3605 3681	Some people say that America does not have enough money to fund our veterans
+T47	Claim 3684 3749	We must use the money on funding schools and feeding the homeless
+T48	Claim 3769 3808	we must find the money for our veterans
+T49	Premise 3817 3844	they fought for our freedom
+R6	Support Arg1:T49 Arg2:T48	
+T45	Claim 3508 3538	All veterans must have support
+T50	Premise 3554 3602	financial and brain disorders that come from war
+R7	Support Arg1:T50 Arg2:T45	

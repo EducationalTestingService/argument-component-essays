@@ -1,0 +1,27 @@
+T1	Claim 118 232	Captain Charles B McVay should not have been charged for the sinking of the ship even though it was the Japanese .
+T2	Claim 288 342	it should have monitored much closer by the military .
+T3	Claim 343 403	The Indianapolis should have had better and more lifeboats .
+T4	Claim 404 467	McVay was also a well - honored Captain with an incredible crew
+T5	Claim 482 549	have put those men through what they went through with the sharks .
+T6	Claim 551 642	The Indianapolis should have had better lifeboats and more to accommodate all the sailors .
+T7	Claim 1183 1343	these safety precautions had been taken with better lifeboats , more of the sailors might have been alive when they were picked up four days after the sinking .
+T9	Claim 1623 1721	the Indianapolis had bigger lifeboats more people could have been saved and less would have died .
+T12	Claim 1734 1809	the Indianapolis should have had larger lifeboats to help save more lives .
+T13	Claim 1810 1906	If not as many people had died it is possible the McVay would not have been charged as harshly .
+T15	Claim 1949 2060	was n't being monitored as closely as it should have been if it was holding the world 's first atomic weapons .
+T16	Claim 3126 3186	it is the government 's fault that the Indianapolis was sunk
+T18	Claim 3191 3265	if they had a destroyer the submarine would have probably been destroyed .
+T19	Claim 3326 3356	have brought harm to his men .
+T21	Claim 3372 3433	if the ship had an escort it probably never would have sunk .
+T23	Claim 5074 5211	If Captain McVay had been told that submarines had been detected he would possibly have been able to avoid them and keep his crew alive .
+T24	Claim 5213 5319	Captain Charles B. McVay should not have been charged for the deaths and the sinking of the Indianapolis .
+T25	Claim 5343 5373	McVay should have been charged
+T27	Claim 5448 5461	That is wrong
+T28	Claim 5633 5654	McVay was a scapegoat
+T29	Claim 5791 5850	The military should never cause something like this again .
+T31	Premise 5382 5445	he was not doing the zigzag pattern he was supposed to be doing
+R2	Support Arg1:T31 Arg2:T26
+T32	Premise 5470 5563	the military knew that the submarines were there and that McVay was denied a destroyer escort
+R3	Support Arg1:T32 Arg2:T27
+T8	Premise 253 285	Indianapolis had no safety boats
+R1	Support Arg1:T8 Arg2:T1	

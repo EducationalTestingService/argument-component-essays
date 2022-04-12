@@ -1,0 +1,14 @@
+T1	Claim 261 296	in Mexico drugs are a big problem .
+T2	Claim 1047 1152	Mexico 's education system is failing so parents in Mexico are sending their children across the border .
+T3	Claim 1184 1267	the parents are trying to give their children better education then they ever had .
+T4	Claim 1268 1350	The parents are just trying to do there best so their children have a great life .
+T5	Claim 2207 2275	crossing the border has been going on for longer than people think .
+T6	Claim 2494 2511	punish everyone .
+T7	Premise 185 215	some need to escape drug gangs
+R1	Support Arg1:T7 Arg2:T1
+T8	Premise 882 990	A great deal of Mexican families are sending their children across the Mexican border into the United States
+R2	Support Arg1:T8 Arg2:T2
+T9	Premise 1587 1672	It began over 150 years ago , when many Mexican Latinos say , the border crossed them
+R3	Support Arg1:T9 Arg2:T5
+T10	Premise 2406 2466	some people in Mexico that came to US brought drugs and guns
+R4	Attack Arg1:T10 Arg2:T6

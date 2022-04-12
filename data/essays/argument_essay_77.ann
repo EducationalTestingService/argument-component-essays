@@ -1,0 +1,18 @@
+T1	Claim 176 235	it 's just and act of violence to be held behind the bars .
+T2	Claim 563 689	twenty nine U.S. states have allowed the usage of medical marijuana to those who have unbearable pain to end their suffering .
+T3	Claim 898 922	the start of addiction .
+T4	Claim 999 1088	Those are the most common name for marijuana also known as the scientific term Cannabis .
+T5	Claim 1451 1592	it is safer than alcohol , which is legal , and that medical cannabis provides a safe and natural treatment for a variety of chronic issues .
+T6	Claim 1593 1658	Prescription drugs are also addictive and can lead to addiction .
+T7	Claim 1973 2027	These medications can substitute for medical marijuana
+T8	Claim 2056 2275	The biggest concern of those against medical marijuana is that prescription medication would be abused either by the patient legally purchasing the drug or by those who would steal or purchase the medication illegally .
+T9	Claim 2317 2458	There is also concern that many who do n't need marijuana prescriptions will lie to doctors in order to procure a medication marijuana card .
+T10	Claim 3196 3266	long - term exposure can damage the bronchial passages and the lungs .
+T11	Claim 3687 3727	individuals are still at risk for them .
+T12	Claim 4144 4213	medical marijuana can treat different sickness to help the patients .
+T13	Claim 4739 4823	medical cannabis benefits for people who have a type of sickness or mental illness .
+T14	Claim 5197 5272	medical marijuana should not be legalized in the United States of America .
+T15	Premise 3075 3193	Since that medical marijuana sometimes consist of a number of toxic chemicals ( such as ammonia and hydrogen cyanide )
+R1	Support Arg1:T15 Arg2:T10
+T16	Premise 3954 4127	A synthetic formulation of THC has been approved by the federal government to treat nausea , prevent sickness , and vomiting from chemotherapy in cancer patients ( Joffe ) .
+R2	Support Arg1:T16 Arg2:T12

@@ -1,0 +1,43 @@
+T36	Claim 252 272	this is n't just you
+T47	Claim 275 315	Many Students feel essentially powerless
+T48	Claim 389 468	This problem of students having no power pain cause students to feel disengaged
+T49	Claim 469 514	the welfare of students also greatly affected
+T50	Claim 515 601	most children also feel got some stuff they learn is not practically used in real life
+T51	Claim 602 666	this can cause students to misbehave me and missed opportunities
+T52	Claim 684 737	students should have a greater say in what they learn
+T53	Claim 741 831	they will be more engaged , learn something useful and have an overall better well - being
+T54	Claim 1018 1082	your voice is very important and a valuable piece of information
+T55	Claim 1500 1568	half of our students are n't really learning to their full potential
+T56	Claim 1605 1708	when students feel worthwhile , they are five times more likely to feel more motivated toward academics
+T57	Claim 1827 1910	students should feel respected and have a sense of control over what they are doing
+T58	Claim 2252 2324	Teachers and administrators control students so much they feel powerless
+T59	Claim 2330 2438	students were to have a little more power and control over what they learned , they would be greatly engaged
+T60	Claim 2623 2683	in reality , many things they learn are completely pointless
+T61	Claim 2833 3013	such flexibility , which allows students to tailor a general cause to their individual passions and gives them an opportunity to take increased responsibility in their own learning
+T62	Claim 3039 3182	teachers keep on controlling what their students are learning , students may never learn what they want to learn or never learn anything useful
+T63	Claim 3185 3228	Basically , they are learning useless stuff
+T64	Claim 3402 3535	students need to learn stuff that `` relates to experience ideals invitations values creative thinking emotions skills attitudes . ''
+T65	Claim 3546 3624	students do n't only need to learn,  math , ELA , science , and social studies
+T66	Claim 3627 3692	They should learn things that are practical for them in real life
+T67	Claim 3695 3736	Students are n't learning practical stuff
+T68	Claim 3743 3785	this will affect their real - life success
+T69	Claim 3824 3872	this could also affect their mental well - being
+T70	Claim 3885 3958	many may argue that students can just take a side class outside of school
+T71	Claim 3961 3980	this idea is flawed
+T72	Premise 3989 4092	evidence shows that student well - being in school is really what affects their health in the long term
+R3	Support Arg1:T72 Arg2:T70	
+T73	Claim 4177 4260	making students time at school enjoyable and worthwhile supports their well - being
+T74	Claim 4291 4378	what is happening at school is directly connected to their mental and physical wellness
+T75	Claim 4381 4429	They need a good healthy lifestyle and wellbeing
+T76	Claim 4606 4662	Clearly students have to enjoy school to learn something
+T77	Claim 4689 4726	the student wants to learn that topic
+T78	Claim 4745 4790	students should have a say in what they learn
+T79	Claim 4793 4831	Students need to actually enjoy school
+T80	Claim 4834 4949	No academic progression could lead to stress and health problems which will affect a child 's well - being directly
+T81	Claim 4953 5006	Students should have a greater say in what they learn
+T82	Premise 5007 5096	so they will be more engaged and learn practical stuff and have good health and lifestyle
+R4	Support Arg1:T82 Arg2:T81	
+T83	Claim 5099 5189	Students should actually know what the teacher is saying and their engagement in the topic
+T84	Claim 5192 5260	They should learn something that they will actually use in real life
+T85	Claim 5344 5398	Principals and teachers need to make students a factor
+T86	Claim 5401 5451	their schools will perform better across the board

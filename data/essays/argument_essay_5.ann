@@ -1,0 +1,11 @@
+T1	Claim 153 214	Americans could become more than just the jobs they provide .
+T3	Claim 392 486	American scholars to bring new , American ideas into the world instead of old , English ones .
+T4	Claim 613 675	Emerson 's plan is even stronger today than when he wrote it .
+T5	Claim 915 1002	it is easy to feel more like a cog in a machine and less like an organ in an organism .
+T6	Claim 1023 1064	there are two states within a man working
+T7	Claim 1067 1115	One which is divided and one which is elevated .
+T8	Claim 1363 1446	This mindset can help people from feeling that what they are doing is meaningless .
+T9	Claim 1532 1566	Any person could be a Man Thinking
+T10	Claim 1572 1645	 only some take on that role and that is their contribution to humanity .
+T11	Premise 676 841	In today 's world , jobs and careers are highly specific , new ideas have difficulty gaining traction , and nature is becoming increasingly difficult to connect with
+R1	Support Arg1:T11 Arg2:T4

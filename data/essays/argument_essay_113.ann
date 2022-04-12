@@ -1,0 +1,47 @@
+T1	Claim 217 277	The ocean causes many positives and negatives in the world .
+T2	Claim 278 372	Human 's can make the ocean and also marine life suffer and possibly lead to horrible events .
+T3	Claim 373 466	There are also several ways humans could help keep marine life and the ocean clean and safe .
+T4	Claim 467 521	The ocean helps us by giving us food and entertainment
+T5	Claim 524 585	but can also cause disasters to happen all around the world .
+T6	Claim 788 855	oceans are used for waste which leads to bad things for our ocean .
+T7	Claim 1691 1726	Large numbers of organisms will die
+T8	Claim 1729 1759	and can reduce oxygen levels .
+T9	Claim 2324 2463	Some fishing techniques such as dredging and trawling can cause widespread damage to marine habitats and organisms living on the seafloor .
+T10	Claim 2673 2785	People could reduce certain products contributing to the harming of fragile coral reefs and marine populations .
+T11	Claim 2786 2918	Avoid purchasing items such as coral jewelry , tortoiseshell hair accessories ( made from hawksbill turtles ) , and shark products .
+T12	Claim 2926 2954	travel the ocean responsibly
+T13	Claim 3042 3072	Never throw anything overboard
+T14	Claim 3079 3125	be aware of marine life in the waters around .
+T15	Claim 3126 3167	People can also make safe seafood choices
+T16	Claim 3170 3285	fish populations are rapidly being depleted due to demand , loss of habitat , and unsustainable fishing practices .
+T17	Claim 3286 3366	When shopping or dining out , help reduce the demand for overexploited species .
+T18	Claim 3376 3418	humans need to use less plastic products .
+T19	Claim 3789 3854	Helping the ocean and marine life is what keeps the ocean alive .
+T20	Claim 4882 4920	The ocean could save someone 's life .
+T21	Claim 5122 5163	The ocean can cause very dangerous events
+T22	Claim 5164 5185	and can cause death .
+T23	Claim 5186 5219	The ocean can be very dangerous .
+T24	Claim 5885 5912	The ocean is very dangerous
+T25	Claim 5917 5946	could possibly kill someone .
+T26	Claim 6133 6159	the ocean can cause danger
+T27	Claim 6162 6235	but it also does n't help when humans are throwing waste into the ocean .
+T28	Claim 6236 6313	Humans have a big impact on the ocean , and cause some of the worst damages .
+T29	Claim 6314 6376	There are ways people can help make the ocean safe and clean .
+T30	Claim 6377 6432	The ocean also can cause danger like natural disaster .
+T31	Claim 6433 6531	There are some positives about the ocean like traveling , finding new cures , and giving us food .
+T32	Claim 6532 6601	The ocean has negatives that we ca n't control like natural disasters
+T33	Claim 6608 6671	by throwing waste in the ocean it does not help with anything .
+T34	Claim 6672 6713	The ocean gives us food and entertainment
+T35	Claim 6714 6745	and can make the world better .
+T36	Premise 958 1077	The ocean does not have the infinite capacity to absorb so much waste which threatens life in the ocean at all levels .
+R1	Support Arg1:T36 Arg2:T6
+T37	Premise 1529 1594	eutrophication , and is caused by the release of excess nutrients
+R2	Support Arg1:T37 Arg2:T7
+T38	Premise 2464 2565	These techniques also often capture non - target species ( known as bycatch ) that are then discarded
+R3	Support Arg1:T38 Arg2:T9
+T39	Premise 4773 4879	The ocean provides ingredients to help fight cancer , arthritis , Alzheimer 's disease , and heart disease
+R4	Support Arg1:T39 Arg2:T20
+T40	Premise 5220 5298	The ocean can pull people under water when people are just swimming or surfing
+R5	Support Arg1:T40 Arg2:T23
+T41	Premise 5788 5832	The currents in the ocean can be very strong
+R6	Support Arg1:T41 Arg2:T24

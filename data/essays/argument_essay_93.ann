@@ -1,0 +1,16 @@
+T1	Claim 57 88	guns can be bad for our country
+T2	Claim 342 371	for the people to bear arms .
+T3	Claim 458 532	A well regulated Militia , being necessary to the security of a free State
+T4	Claim 535 607	the right of the people to keep and bear Arms , shall not be infringed .
+T5	Claim 724 779	the individual right to have a firearm for self defense
+T7	Claim 815 878	If our leaders agree to having firearms we should accept that .
+T8	Claim 1321 1344	Guns do n't kill people
+T9	Claim 1347 1358	people do .
+T10	Claim 1549 1639	People with a bad background should have their guns taken away not mentally healthy people
+T11	Claim 1680 1741	have a system where guns should be given to the responsible .
+T12	Claim 1881 1900	us to keep our arms
+T13	Claim 1903 2008	so many people in America will be devastated when there guns are taken away when they did nothing wrong .
+T16	Claim 2015 2127	if these shooters have the guns to actually cause these shootings we should take guns away so everyone is safe .
+T18	Claim 2135 2312	if we can create a system where the people that will start these shootings have their guns taken away , and everyone else can keep their guns , that would be the best solution .
+T19	Premise 95 145	there are more to guns than just death and despair
+R1	Attack Arg1:T19 Arg2:T1

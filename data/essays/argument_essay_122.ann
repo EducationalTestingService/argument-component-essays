@@ -1,0 +1,26 @@
+T1	Claim 357 491	During pregnancy , the mother and child are completely different human beings , thus making abortion murder of a small , innocent life
+T2	Claim 494 563	In addition , abortion may take a toll on the mother 's mental health
+T3	Claim 1101 1181	Just because the human does not have a name yet , does not mean it is not murder
+T4	Claim 1184 1285	The practice of abortion needs to be murdered not the precious lives that are not fully developed yet
+T5	Claim 1289 1427	Abortion is not like killing off some growth disease , or cyst in the female 's body , abortion is killing a separate , living human being
+T6	Claim 1492 1526	it is a completely separate person
+T7	Claim 1708 1814	both bodies ran off of the same blood and circulatory systems , then would it be okay to kill off the baby
+T8	Premise 1825 1857	it is part of the mother 's body
+R1	Support Arg1:T8 Arg2:T7	
+T9	Claim 2033 2108	she does n't want to have a baby , she should put her child up for adoption
+T10	Premise 2117 2230	there are people who can not have their own children , and the mother may fall in love when she sees her creation
+R2	Support Arg1:T10 Arg2:T9	
+T11	Claim 2233 2312	Abortion is not a practice that should be legal in the United States of America
+T12	Premise 2321 2365	the mother and child are not the same person
+R3	Support Arg1:T12 Arg2:T11	
+T13	Claim 2369 2448	Another reason abortion should be outlawed is the health concerns of the mother
+T14	Claim 2825 2872	Abortion obviously is hard on the woman 's body
+T15	Premise 2885 2947	more than 81 % would n't slide into post - abortion depression
+R4	Support Arg1:T15 Arg2:T14	
+T16	Claim 2951 2980	Abortion is an awful practice
+T17	Premise 2989 3151	it is murder since the moment the ovum and sperm cell met in the Fallopian tube , the mother and child are not the one in the same , they are two different people
+T18	Premise 3167 3233	t has a lasting impact on the mother 's mental and physical health
+R5	Support Arg1:T18 Arg2:T16	
+T19	Claim 3236 3320	Abortion is not a bad practice if the mother 's health and well - being is in danger
+T20	Matter_of_fact 3323 3477	Well , during pregnancy the mother 's physical health is never in jeopardy , the American Life League states in an article on post - abortion expectations
+T21	Claim 3480 3604	You could never imagine of going and killing someone who is out of the womb , then why kill someone who still is in the womb

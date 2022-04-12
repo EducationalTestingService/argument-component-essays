@@ -1,0 +1,30 @@
+T1	Claim 170 197	that they should get paid .
+T4	Claim 284 340	college athletes should get paid for playing their sport
+T5	Claim 421 445	they should n't get paid
+T7	Claim 532 564	College athletes should get paid
+T8	Claim 644 680	college athletes make a lot of money
+T9	Claim 695 795	all , of the money that the school gets from the athlete playing there goes straight to the school .
+T10	Claim 1434 1583	they get paid a little bit of the money that comes into the school from them trying their hardest , and spending all that time trying to get better .
+T11	Claim 1753 1833	an athlete gets severely injured that worries teams that it could happen again .
+T13	Claim 1834 1899	So they might not want to take the risk of drafting that player .
+T14	Claim 1908 2029	they could get hurt and not have a future in that sport any more why should n't they get paid for risking their futures .
+T16	Claim 233 265	college athletes should get paid
+T18	Claim 2208 2255	pay them when they are getting a free education
+T19	Claim 2270 2303	they school give them even more .
+T20	Claim 2375 2395	the schools pay them
+T21	Claim 2573 2602	they should get paid to do so
+T23	Claim 2634 2676	college athletes should get paid to play .
+T25	Premise 139 159	they are still young
+R1	Attack Arg1:T25 Arg2:T1
+T26	Premise 349 400	they bring in billions of dollars for their schools
+R2	Support Arg1:T26 Arg2:T4
+T27	Premise 454 488	they already have a free education
+R3	Support Arg1:T27 Arg2:T5
+T28	Premise 573 618	they bring in so much money for their schools
+R4	Support Arg1:T28 Arg2:T7
+T29	Premise 980 1045	college athletes are n't allowed to be paid any part of the money
+R5	Attack Arg1:T29 Arg2:T8
+T30	Premise 2166 2198	they get mostly a free education
+R6	Support Arg1:T30 Arg2:T18
+T31	Premise 2499 2523	they put in all the work
+R7	Support Arg1:T31 Arg2:T21

@@ -1,0 +1,4 @@
+T1	Claim 2159 2213	African - Americans ' only purpose was to be a slave .
+T2	Claim 4123 4173	they should consider themselves above other humans
+T4	Premise 4190 4248	they feel the need to look down on them , and torture them
+R1	Support Arg1:T4 Arg2:T2

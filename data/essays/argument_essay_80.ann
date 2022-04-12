@@ -1,0 +1,9 @@
+T1	Claim 1653 1688	The chain gang was a horrible thing
+T2	Claim 1693 1741	what they did for the prisoners was surprising .
+T3	Claim 1766 1807	better transportation for the chain gangs
+T4	Claim 1941 1972	they should be treated humanely
+T7	Claim 2803 2895	The chain gang was a horrible thing that should never be brought back to the United States .
+T8	Premise 1811 1850	they were not tired when they got there
+R1	Support Arg1:T8 Arg2:T3
+T9	Premise 2533 2591	The chain gang was used to terrorize the people of Georgia
+R2	Support Arg1:T9 Arg2:T7

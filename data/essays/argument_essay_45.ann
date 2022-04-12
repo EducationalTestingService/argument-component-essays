@@ -1,0 +1,18 @@
+T1	Claim 325 414	The women wanting a man only for the name of Ernest indicates their social expectations .
+T2	Claim 415 502	The name of someone should not indicate the personality or expectations of the person .
+T3	Claim 504 577	A name should not characterize someone 's personality and their beliefs .
+T4	Claim 859 943	Jack 's lies and ways to get some fun does not show how earnest he truly should be .
+T6	Claim 1384 1425	a name should not characterize a person .
+T7	Claim 1426 1528	Social expectations should not be defined by someone 's name however for their actions and sincerity .
+T8	Claim 1530 1596	Expectations over a person should never be defined by their name .
+T9	Claim 1879 1945	Ernest was not as earnest as he should have been due to his name .
+T10	Claim 1946 2011	One 's name can mean anything or nothing compared to the person .
+T11	Claim 2496 2561	Expectations should be never put on someone based on their name .
+T12	Claim 2562 2660	Indications should be based on the person 's personality instead of their name and it 's meaning .
+T13	Claim 2662 2748	The name of person should not indicate the personality or expectations of the person .
+T14	Claim 2765 2826	there should not be an importance behind earnest and Ernest .
+T15	Claim 2827 2880	One 's name can mean anything and/or nothing at all .
+T16	Claim 2881 2961	A person 's actions should indicate their personality and not their birth name .
+T17	Claim 2962 3069	Social expectations on a person should not be defined by their name however by their action and sincerity .
+T18	Premise 1227 1282	Gwendolen does not know is that it is not his real name
+R1	Support Arg1:T18 Arg2:T6

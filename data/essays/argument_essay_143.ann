@@ -1,0 +1,37 @@
+T1	Claim 144 189	they are an essential part of our childhood .
+T2	Claim 231 279	all children must be encouraged to participate .
+T3	Claim 503 599	All elementary and middle school students must play a sport because it teaches lifelong traits .
+T4	Claim 676 725	Perseverance is necessary in countless situations
+T5	Claim 732 763	is needed to accomplish tasks .
+T6	Claim 1001 1049	Perseverance can help with more than just sports
+T7	Claim 1051 1110	 it can assist you with your school assignments , or jobs .
+T8	Claim 1111 1168	By persevering , kids are showing a sense of commitment .
+T9	Claim 1169 1260	When an athlete is committed to a sport , it opens up many more competitive opportunities .
+T10	Claim 1424 1488	Commitment creates good leadership experience and strong teams .
+T11	Claim 1489 1615	Perseverance and commitment are two basic skills that are provided by sports , and create outstanding lifelong opportunities .
+T12	Claim 1617 1673	Playing sports also enforces common goals and teamwork .
+T13	Claim 1674 1746	Teamwork is an important trait for future careers and leadership roles .
+T14	Claim 1912 1970	Teamwork builds strong teams , schools , and communities .
+T15	Claim 1978 2013	teamwork is necessary for success .
+T16	Claim 2014 2132	Since teams are working together to achieve a common goal , it can be more successfully reached because of the support
+T17	Claim 2461 2528	This skill will transfer over to an athlete 's studies and career .
+T18	Claim 2529 2631	Common goals and teamwork creates strong leadership and helps organizations reach their goals faster .
+T19	Claim 2640 2705	sports create remarkable social skills and career opportunities .
+T20	Claim 2976 3024	businesses crave former athletes for employees .
+T21	Claim 3025 3128	While competing , not only is the sense of commitment formed , but also self - respect and leadership .
+T22	Claim 3129 3175	Sports also create confidence and motivation .
+T23	Claim 3388 3451	Playing sports creates a greater potential for young athletes .
+T24	Claim 3452 3522	When kids play sports , more opportunities will arrive in the future .
+T25	Claim 3557 3616	sports can be harmful to children physically and mentally .
+T26	Claim 3617 3701	Sometimes parents can be too serious about pushing their kids to compete in sports .
+T27	Claim 4061 4088	kids must not participate .
+T28	Claim 4401 4446	children can benefit from physical activity .
+T29	Claim 4447 4511	Exercise alone is mandatory in the daily lives of all children .
+T30	Claim 4513 4606	Since sports teach lifelong traits , all elementary and middle school students must compete .
+T31	Claim 4607 4659	Sports provide a confident and committed lifestyle .
+T32	Claim 4660 4728	Businesses also prefer employees that have had athletic experience .
+T34	Claim 4729 4833	While cooperating on a team , kids develop a sense of teamwork and learn to work towards a common goal .
+T33	Premise 196 228	sports create strong individuals
+R1	Support Arg1:T33 Arg2:T2	
+T35	Premise 2896 2973	sports provide many exceptional traits , for example leadership and hard work
+R2	Support Arg1:T35 Arg2:T20	

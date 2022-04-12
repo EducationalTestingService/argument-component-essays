@@ -1,0 +1,32 @@
+T1	Claim 542 657	To make it less dangerous , every football league should change the most dangerous play in football , the kickoff .
+T2	Claim 658 719	The National Football League must change kickoffs in football
+T3	Claim 789 813	Kickoffs must be changed
+T4	Claim 1094 1139	a person has to hold their breath on kickoffs
+T5	Claim 1173 1282	The easiest way to change the youth and high school leagues would be to change the National Football League .
+T6	Claim 1304 1395	If the NFL led the way , college , high school and youth football would quickly follow suit
+T7	Claim 1582 1604	it should be changed .
+T8	Claim 2248 2277	the kickoff must be changed .
+T10	Claim 2322 2423	Kickoffs must be interesting if people want to keep them in the game even though they are dangerous .
+T11	Claim 2597 2717	kickoffs are not normally entertaining plays and they are dangerous , the National Football League should replace them .
+T13	Claim 2867 2957	there does n't seem to be much of a reason to bother lining everybody up to run the play .
+T14	Claim 3102 3209	kickoffs make the game worse , the National Football League must change them to something more entertaining
+T16	Claim 3624 3682	the National Football League should continue looking at it
+T18	Claim 3685 3711	the rest of this statement
+T19	Claim 3838 3890	the National Football League should keep the kickoff
+T20	Claim 3986 4027	There are many ways to make the NFL safer
+T21	Claim 4030 4112	Eliminating one of the most exciting parts of the game should not be one of them .
+T22	Claim 4443 4514	The National Football League must change its kickoff for many reasons .
+T29	Premise 2182 2221	There are too many injuries in football
+R5	Support Arg1:T29 Arg2:T8
+T30	Premise 3899 3958	the kickoff is a play that creates a great deal of momentum
+R6	Support Arg1:T30 Arg2:T19
+T9	Premise 728 785	they hurt the players , and they make games hard to watch
+R1	Support Arg1:T9 Arg2:T2	
+T12	Premise 822 860	it hurts youth and high school players
+R2	Support Arg1:T12 Arg2:T3	
+T15	Premise 1148 1170	kickoffs are dangerous
+R3	Support Arg1:T15 Arg2:T4	
+T17	Premise 1539 1579	the kickoff hurts young football players
+R4	Support Arg1:T17 Arg2:T7	
+T23	Premise 4549 4665	they hurt young players , kickoffs injure professional and college players , and they make the games harder to watch
+R7	Support Arg1:T23 Arg2:T22	

@@ -1,0 +1,10 @@
+T1	Claim 248 287	war does not only affect you physically
+T2	Claim 294 338	it also takes a toll on your mental health .
+T3	Claim 371 415	the physically affects of war can be treated
+T4	Claim 424 467	the emotionally affects are harder to fix .
+T5	Claim 503 596	in a big country one side could be in total chaos , while the other is living a normal life .
+T6	Claim 620 682	people can not truly understand war until it happens to them .
+T8	Claim 1009 1118	Its importance to the text is that in this statement it tells that war can complety destroy peoples ' lives .
+T10	Claim 1171 1220	war is something that should be the last option .
+T11	Premise 68 116	they had seen something that plagued their minds
+R1	Support Arg1:T11 Arg2:T1

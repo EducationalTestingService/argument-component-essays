@@ -1,0 +1,9 @@
+T1	Claim 212 297	If anything , they should have more respect , and be thanked for all they have done .
+T2	Claim 345 484	they should be taken into a type of camp where they are fed and taken care of instead of being dumped onto the streets , homeless , alone .
+T3	Claim 485 578	The veterans that have to go to war must not be criticized , especially for doing their job .
+T4	Claim 580 707	They have kept the country strong and full of pride , giving us a good strong government that listens to what the people want .
+T5	Claim 1043 1123	We would most likely be nowhere as a country without them , and/or not a country
+T6	Claim 1411 1512	They must not be criticized for doing their jobs , even if it means they have to use weapons to do it
+T7	Claim 1925 2006	they must not be criticized for doing what our government is telling them to do .
+T8	Premise 1856 1914	The soldiers are doing what they 're told for the military
+R1	Support Arg1:T8 Arg2:T7

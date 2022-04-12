@@ -1,0 +1,42 @@
+T41	Claim 83 166	There are many different theories as to why , one of them being violent video games
+T42	Claim 263 321	violent video games have played a part in school shootings
+T43	Claim 473 531	They also help release anger and violence , not produce it
+T44	Claim 534 624	Violent video games do not affect what a person is already wanting to do or their feelings
+T1	Claim 21 80	School shootings have become more prominent in recent years
+T45	Claim 628 678	Nowadays there are many violent games in our world
+T46	Claim 769 853	Games like Mario , Sonic , and Pac - Man are quite violent if looked at more closely
+T47	Claim 934 974	those other games do not seem as violent
+T48	Claim 975 1025	even though they are at the same level of violence
+T49	Claim 1294 1330	That is the same in most video games
+T50	Claim 1333 1370	there is always some sort of violence
+T51	Claim 1386 1452	violence and anger in people is taken out when playing these games
+T52	Claim 1455 1542	People naturally need to let out frustrations ; the most common way is through violence
+T53	Claim 1545 1673	When we were not an evolved species and were instead like cavemen , we could randomly commit acts of aggression through violence
+T54	Claim 1677 1701	t is part of being human
+T55	Claim 1738 1774	people can not just take out of them
+T56	Claim 2025 2093	some people just think differently and thus causes different actions
+T57	Claim 2100 2157	it is in no way caused by outside forces like video games
+T58	Claim 2203 2234	that of course is just a theory
+T59	Claim 2316 2376	Violent video games in today 's world are much more gruesome
+T60	Claim 2379 2468	Technology has advanced , causing the graphics of video games to look that much more real
+T61	Claim 2471 2584	This may have a relation to people who are still impressionable and do not yet know how to control their emotions
+T62	Claim 2720 2787	they may search their brains for some way to alleviate this feeling
+T63	Claim 2790 2867	Then when they think of the video games , to them it may be the only solution
+T64	Claim 2876 2901	this can not be confirmed
+T65	Premise 2908 3005	almost everyone who plays these types of games , do not go on to commit hateful or violent crimes
+R5	Support Arg1:T65 Arg2:T64	
+T66	Claim 3025 3102	there are many theories of why violent video games can cause school shootings
+T67	Claim 3109 3156	there are also many theories of why they do not
+T68	Claim 3202 3244	some sort of violence in almost every game
+T69	Claim 3308 3382	Violence comes from within , not from something obviously fake on a screen
+T70	Claim 3446 3487	They never got the idea from a video game
+T71	Claim 3490 3524	They got the idea from their minds
+T72	Claim 3544 3593	this can not be determined by simple conversation
+T73	Claim 3596 3656	We need to do thorough tests on people to discover the truth
+T74	Premise 860 931	because of games like Call of Duty , Grand Theft Auto , and Blue Estate
+R6	Support Arg1:T74 Arg2:T47	
+T75	Claim 1827 1916	we have invented new ways to let out our frustrations ; one way being violent video games
+T76	Premise 1788 1824	violence has now been considered bad
+R7	Support Arg1:T76 Arg2:T75	
+T77	Premise 2240 2313	it has not yet been discovered why these shootings are actually occurring
+R8	Support Arg1:T77 Arg2:T58	

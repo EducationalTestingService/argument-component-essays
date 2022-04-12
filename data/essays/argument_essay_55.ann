@@ -1,0 +1,28 @@
+T1	Claim 627 653	SeaWorld must be shut down
+T2	Claim 704 742	It 's cruel and harmful to the animals
+T3	Claim 747 787	is not safe for the public or trainers .
+T4	Claim 789 825	Keeping any wild animal in captivity
+T5	Claim 837 905	They deserve to live out their entire life the way they were born to
+T6	Claim 933 964	of taking that privilege away .
+T7	Claim 1010 1058	the animals at SeaWorld live longer in captivity
+T8	Claim 1061 1085	that is very incorrect .
+T9	Claim 1245 1322	claims by marine park animal trainers about an extended lifespan in captivity
+T10	Claim 1345 1370	their lives are cut short
+T11	Claim 2653 2695	belong in a terrible place like SeaWorld .
+T12	Claim 2697 2715	SeaWorld never has
+T13	Claim 2731 2751	be safe for anyone .
+T14	Claim 3290 3341	Dawn Brancheau was a very talented and safe trainer
+T15	Claim 3346 3379	what happened was not her fault .
+T16	Claim 3434 3458	nobody can change that .
+T17	Claim 3952 4014	Animals at SeaWorld unfairly have to suffer from their actions
+T18	Claim 4098 4129	SeaWorld is n't safe for anyone
+T19	Claim 4145 4207	be able to continue business in the United States and beyond .
+T20	Claim 4381 4395	be shut down .
+T21	Claim 4463 4502	SeaWorld is a very wrong way to do so .
+T22	Claim 4992 5035	Kind hearted people must save these animals
+T24	Premise 1373 1450	with the majority having died by the age of 25 , most commonly from infection
+R2	Support Arg1:T24 Arg2:T10
+T25	Premise 4209 4363	SeaWorld is holding wild animals in constant captivity , treating living creatures cruelly and is not considering the safety of its visitors and residents
+R3	Support Arg1:T25 Arg2:T20
+T23	Premise 662 701	it is keeping wild animals in captivity
+R1	Support Arg1:T23 Arg2:T1	

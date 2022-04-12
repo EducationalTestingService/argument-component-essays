@@ -1,0 +1,29 @@
+T1	Claim 154 197	we use this to help the many people in need
+T2	Claim 226 282	What makes someone American is n't just blood or birth .
+T3	Claim 283 422	It is their allegiance to our founding principles and faith in the idea that anyone from anywhere can write the next chapter of our story .
+T4	Claim 423 502	Central Americans should be allowed to legally immigrate into the United States
+T5	Claim 645 759	These laws that will take place will greatly help and affect the lives of the many immigrants and their families .
+T6	Claim 760 865	It would clearly mean a lot to the people of Central America and for the wellbeing of the United States .
+T7	Claim 867 956	Giving the immigrants this chance will create a better lifestyle and an asylum for them .
+T8	Claim 1594 1607	cause trouble
+T9	Claim 1632 1654	better their lifestyle
+T10	Claim 1755 1824	give these desperate people a chance for a new and better lifestyle .
+T11	Claim 1826 1925	The immigrants can create increased amounts of workforce within the United States and its economy .
+T12	Claim 2014 2086	not help people get away from this so they can enhance their lifestyle .
+T13	Claim 2299 2358	how important the immigrants from Central America will be .
+T14	Claim 2359 2433	Our economy and workforce are in need of these willing and helpful hands .
+T15	Claim 2604 2639	it is inhumane to separate families
+T16	Claim 3310 3352	These people do not deserve this treatment
+T17	Claim 3419 3566	It clearly matters to the people of Central America about how these laws take place and why it could separate their families in the years to come .
+T18	Claim 3568 3659	The Central Americans should clearly be allowed to legally immigrate to the United States .
+T20	Claim 3741 3861	If this tire - kicking becomes a trend , it will compromise America 's ability to remain a global leader in technology .
+T21	Claim 3895 4013	this would create more work force and these people are coming to get a job and education so they can succeed in life .
+T23	Claim 4028 4151	we show what it means to the immigrants , how it creates jobs and gives opportunity with second chances to those who need .
+T19	Premise 511 642	it will create a new and better lifestyle for central americans , it will also create workforce within the united States of America
+R1	Support Arg1:T19 Arg2:T4	
+T22	Premise 1671 1716	they create very good and hard working people
+R2	Support Arg1:T22 Arg2:T9	
+T24	Premise 2640 2700	because of where they where they were born or their heritage
+R3	Support Arg1:T24 Arg2:T15	
+T25	Premise 3378 3416	they are healthy for the United States
+R4	Support Arg1:T25 Arg2:T16	

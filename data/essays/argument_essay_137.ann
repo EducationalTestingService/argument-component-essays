@@ -1,0 +1,35 @@
+T1	Claim 51 136	Children and adolescents should do 60 minutes or more of physical activity each day .
+T2	Claim 402 520	kids are suffering from obesity and many other health conditions that could easily be prevented by just being active .
+T3	Claim 521 567	Physical Education class helps get kids active
+T4	Claim 572 608	it has many other helpful benefits .
+T5	Claim 757 817	Physical education is just as important as any other class .
+T6	Claim 818 859	Schools should have a gym class every day
+T7	Claim 937 977	it improves mental and physical strength
+T8	Claim 984 1023	it also improves academic performance .
+T9	Claim 1025 1125	Physical Education ( PE ) class teaches students important life lessons not found in other classes .
+T10	Claim 1126 1236	In gym class , students learn skills such as teamwork , leadership , and integrity through games and lessons .
+T11	Claim 1519 1580	These life lessons are not typically found in other classes .
+T12	Claim 1751 1812	These are valuable skills to be learned at such a young age .
+T13	Claim 1813 1943	Gym class teaches students these lessons and the effects of having these lessons taught to students every day would be humongous .
+T14	Claim 1945 2008	Physical Education also improves physical and mental strength .
+T15	Claim 2009 2091	By working out every day or just simply being active people are getting stronger .
+T16	Claim 2671 2757	Exercising in class everyday helps students get stronger and physically and mentally .
+T17	Claim 2759 2880	Physical education also improves academic performance and the ability to contemplate things better and be more creative .
+T18	Claim 2881 2994	Being active , even for a short time can help student 's brains make more connections and to ponder differently .
+T19	Claim 3412 3470	more time spent in class will improve academic performance
+T20	Claim 3590 3690	every school had their students exercising every day in gym class their academic scores would soar .
+T22	Claim 3691 3769	Physical education class improves students academic performance considerably .
+T23	Claim 3771 3840	Students and schools should have physical education classes every day
+T24	Claim 3949 4000	Gym class is just as important as any other class .
+T25	Claim 4026 4103	gym class can be hard and embarrassing for students when forced to work out .
+T26	Claim 4134 4200	gym class is not effective at teaching children important things .
+T27	Claim 4225 4274	students should learn to push through hard things
+T28	Claim 4299 4350	Physical education class teaches lifelong lessons .
+T29	Claim 4351 4446	By having gym class every day we are improving the health of students and generations to come .
+T30	Claim 4447 4534	This will make students smarter , stronger , and less prone to have health conditions .
+T21	Premise 868 934	the class teaches valuable life lessons not found in other classes
+R1	Support Arg1:T21 Arg2:T6	
+T31	Premise 3477 3549	studies indicate that regular exercise actually heightens brain function
+R2	Attack Arg1:T31 Arg2:T19	
+T32	Premise 3849 3946	it teaches important lessons , it strengthens their mind and body , and it makes students smarter
+R3	Support Arg1:T32 Arg2:T23	

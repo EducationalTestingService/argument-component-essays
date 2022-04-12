@@ -1,0 +1,10 @@
+T1	Claim 623 663	All shark killings must come to an end .
+T2	Claim 665 717	There are way too many sharks being killed each year
+T3	Claim 759 785	sharks as a serious danger
+T4	Claim 1731 1811	to kill sharks just for their fins and then to throw out the rest of the shark .
+T5	Claim 2828 2864	Sharks are very important to the see
+T6	Claim 3009 3102	the illegal hunting of sharks does not stop we could end up losing some of our shark breeds .
+T7	Premise 848 892	they are afraid of being attacked by a shark
+R1	Support Arg1:T7 Arg2:T3
+T8	Premise 2865 2913	they help keep the fish in the normal population
+R2	Support Arg1:T8 Arg2:T5

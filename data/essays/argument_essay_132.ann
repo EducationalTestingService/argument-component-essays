@@ -1,0 +1,38 @@
+T1	Claim 35 87	Schools should not require students to wear uniforms
+T2	Claim 135 272	causes outside bullying and violence / harassment , decreases self - esteem and individuality and causes free education to be expensive .
+T3	Claim 290 396	many school - age girls that are required to wear a uniform find themselves targets of sexual harassment .
+T4	Claim 962 1104	schools are going to be using school uniforms they need to be making sure that the students are safe and are not getting bullied or harassed .
+T6	Claim 1198 1250	young women are being targeted for sexual harassment
+T7	Claim 1547 1668	girls as young as 12 are being wolf - whistled at in public , touched against their will , stared at , or even followed .
+T8	Claim 1806 1866	This disgraceful behavior needs to be called out and stopped
+T9	Claim 2446 2593	girls , many of whom are clearly of school age because they are in uniform , are being targeted and sexually harassed by perpetrators in the street
+T10	Claim 2723 2802	School uniforms are decreasing self - esteem and individuality among students .
+T11	Claim 2803 2850	Boys and girls have an unfair amount of options
+T12	Claim 3019 3084	compelling girls to wear skirts in discrimination against girls .
+T13	Claim 3304 3456	By not allowing kids to show their individuality through the way they dress , they may feel oppressed and discouraged to develop their own personality .
+T14	Claim 3720 3831	School uniforms take away the first amendment rights for taking away the students right to express themselves .
+T15	Claim 3833 3906	School uniforms cause free education to be expensive and not truly free .
+T16	Claim 3914 4048	the school or government will sponsor the cost of the uniforms , it will be the students ' families who need to shoulder the expense .
+T18	Claim 4049 4092	This contradicts the idea of free education
+T19	Premise 4099 4172	public schools are supposed to provide education at non cost to parents .
+T20	Claim 5291 5344	Benefits of school uniforms , however , are unclear .
+T21	Claim 6054 6075	Better sense of unity
+T22	Premise 6084 6148	everyone will wear the same clothes and have a single identity .
+T23	Claim 6154 6277	there will be less competition among children about who has more expensive outfits or who looks better / more fashionable .
+T24	Claim 7025 7077	schools should not require students to wear uniforms
+T26	Premise 96 130	it may stop bullying in the school
+R1	Support Arg1:T26 Arg2:T1
+T27	Premise 425 502	Girls in Britain states their school uniforms make them targets of harassment
+R2	Support Arg1:T27 Arg2:T3
+T28	Premise 824 940	Two - thirds of the children questioned in the survey said they have experienced unwanted sexual attention in public
+R3	Support Arg1:T28 Arg2:T4
+T29	Premise 1344 1397	their school uniforms make them targets of harassment
+R4	Support Arg1:T29 Arg2:T6
+T30	Premise 2851 2979	girls often get to choose between skirts or dresses or at some places shorts where boys are always just polos and shorts / pants
+R5	Support Arg1:T30 Arg2:T11
+R6	Support Arg1:T19 Arg2:T18
+T31	Premise 5397 5497	there really is no difference between students who are forced to wear uniforms and those who are not
+R7	Support Arg1:T31 Arg2:T20
+R8	Support Arg1:T22 Arg2:T21
+T32	Premise 7086 7260	it may stop bullying in the school but causes outside bullying and violence / harassment , decreases self - esteem and individuality and causes free education to be expensive
+R9	Support Arg1:T32 Arg2:T24

@@ -1,0 +1,41 @@
+T1	Claim 114 124	That world
+T2	Claim 152 186	veganism is not how to get there .
+T3	Claim 269 316	people would sacrifice themselves for animals .
+T4	Claim 325 389	they knew the minor to no beneficial impact of their sacrifice .
+T5	Claim 450 547	they will use their common sense and say no to veganism like they have , thousands of years ago .
+T6	Claim 548 645	Veganism is not as healthy , economically beneficial , and environmentally friendly as it seems .
+T7	Claim 713 783	Veganism typically does not provide the proper nutrients humans need .
+T8	Claim 1211 1313	although a vegan diet may be healthy for some people it is not a one size fits all kind of situation .
+T9	Claim 1952 2022	it is extremely difficult for human bodies to adjust to a vegan diet .
+T10	Claim 2098 2150	If everyone became vegan the economy would plummet .
+T11	Claim 2171 2225	vegan diets support ability is lower than meat diets .
+T12	Claim 2307 2355	incorporating about 20 to 40 % meat in your diet
+T13	Claim 2750 2799	for the world to have a larger variety of foods .
+T14	Claim 2800 2887	Without the need to raise livestock many people around the world will lose their jobs .
+T15	Claim 3224 3301	A massive amount of citizens would lose their jobs if veganism were to expand
+T17	Claim 3310 3359	would result in the economy completely crashing .
+T18	Claim 3361 3461	Veganism thought it seems like it would help the world , causes chaos , and unbalances the economy .
+T19	Claim 3554 3589	the lack of research they conduct .
+T20	Claim 3590 3635	Vegans and vegetarians are not saving animals
+T21	Claim 3638 3673	they may actually be killing them .
+T22	Claim 3834 4031	vegetarians needed to take responsibility for the deaths and that shifting to a diet heavier in range - fed beef and kangaroo would be the ethical and responsible for vegetarians and vegans to do .
+T25	Claim 4032 4178	Vegans are killing more animals clearing space for crops , and taking away crops for animals , than red meat farming is doing in the first place .
+T26	Claim 4228 4329	the vegan environmentalists dream of converting all the land currently occupied by animal agriculture
+T29	Claim 4368 4523	if this were to be attempted people would find themselves in a position in where they have an abundance of waste products , of which some could be burned .
+T30	Claim 4534 4571	it would come at a high carbon impact
+T31	Claim 4574 4660	which would be burned inefficiently with higher emissions impact in terms of methane .
+T32	Claim 4664 4691	they could let it decompose
+T33	Claim 4694 4750	which would produce still greater emissions of methane .
+T34	Claim 4775 4813	vegans get frustrated with meat eaters
+T35	Claim 4877 4958	without animal farming , there would be high levels of methane from burning waste
+T36	Claim 4974 5011	normally animals could take care of .
+T38	Claim 5117 5211	Veganism is not as healthy , economically sound , and environmentally beneficial as it seems .
+T39	Claim 5250 5301	they are saving the environment by saving animals .
+T40	Claim 5515 5615	by forcing animal farmers to stop farming animals millions if not more people will lose their jobs .
+T41	Claim 5637 5755	a vegan diet is very hard to stay healthy with and some people are physically incapable of surviving on a vegan diet .
+T16	Premise 398 447	humankind nurtures the environment and themselves
+R1	Support Arg1:T16 Arg2:T5	
+T23	Premise 1922 1949	the body has specific needs
+R2	Support Arg1:T23 Arg2:T9	
+T24	Premise 4829 4866	large amount of methane cows give off
+R3	Support Arg1:T24 Arg2:T34	

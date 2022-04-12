@@ -1,0 +1,31 @@
+T1	Claim 59 108	Eating organic foods can add years to your life .
+T2	Claim 109 159	Organic foods are extremely good for your health .
+T3	Claim 160 187	Organic foods are healthier
+T4	Claim 299 318	buying organic food
+T5	Claim 327 369	it is better for the natural environment .
+T6	Claim 421 454	they are better for your health .
+T7	Claim 456 502	Organic foods are better for the environment .
+T8	Claim 655 709	Organic foods are better for the natural environment .
+T9	Claim 1038 1080	Organic foods are better for your health .
+T11	Claim 1451 1500	organic foods are indeed better for your health .
+T12	Claim 1502 1542	Organic food can help prevent diseases .
+T13	Claim 1561 1639	eating organic foods can lower your chances of getting heart and lung cancer .
+T14	Claim 1907 1958	Eating organic foods can add years to your health .
+T15	Claim 2175 2195	it should not matter
+T16	Claim 2196 2232	your health should come before money
+T17	Claim 2281 2335	they should be purchased instead of non organic food .
+T18	Claim 2336 2388	Organic foods will add multiple years to your health
+T19	Claim 2389 2447	so the money should not matter because time is priceless .
+T20	Premise 196 270	they contain no chemicals also , organic foods help prevent heart diseases
+R1	Support Arg1:T20 Arg2:T3
+R2	Support Arg1:T21 Arg2:T10
+T22	Premise 710 784	Organic foods are grown without chemicals and are not genetically modified
+R3	Support Arg1:T22 Arg2:T8
+T23	Premise 1081 1144	Organic foods have a higher nutritional value than normal foods
+R4	Support Arg1:T23 Arg2:T9
+T24	Premise 1338 1424	Studies show that there is a significant decrease in toxic metals within organic foods
+R5	Support Arg1:T24 Arg2:T11
+T25	Premise 1977 2009	organic foods are more expensive
+R6	Attack Arg1:T25 Arg2:T16
+T26	Premise 2243 2278	organic foods help prevent diseases
+R7	Support Arg1:T26 Arg2:T17

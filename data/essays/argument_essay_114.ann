@@ -1,0 +1,18 @@
+T1	Claim 126 226	Obese children 's learning is affected through memory and self esteem which affects everyday classes
+T2	Claim 230 359	Michigan must be required to teach health classes that include nutrition due to the negative impact on obese children 's learning
+T3	Claim 362 485	Obesity can also affect children 's academic learning in a class such as mathematics , language and literature , or science
+T4	Claim 549 587	they need more classes on that subject
+T5	Claim 599 708	they need a class that will teach them how to live a healthy lifestyle or a gym teacher to keep them in shape
+T6	Claim 849 961	Michigan does n't help the future generations now , they may not be who our state needs them to be in the future
+T7	Claim 1344 1416	Michigan ca n't teach a health class they might as well not teach at all
+T8	Claim 1446 1494	we teach a health class to our future generation
+T9	Claim 2409 2456	self - esteem affect obese children 's learning
+T10	Claim 2463 2497	obesity can affect your memory too
+T11	Claim 2637 2707	Being overweight can contribute to inflammation through the whole body
+T12	Claim 2817 2880	Being obese as a child may affect the child 's life long memory
+T13	Claim 3167 3236	A simple health class may improve the lives of so many young children
+T14	Claim 3240 3315	The state of Michigan must be required to teach a health class on nutrition
+T15	Claim 3498 3585	our schools can not afford to teach another class or have the resources for a classroom
+T16	Claim 3662 3794	state of Michigan needs to teach our current generation , and the next generation ahead the importance of keeping our bodies healthy
+T17	Premise 973 1037	we did n't teach them how to live a healthy lifestyle as a child
+R1	Support Arg1:T17 Arg2:T6	

@@ -1,0 +1,11 @@
+T1	Claim 14 69	The sinking of Indianapolis could have been prevented .
+T3	Claim 152 201	the more sharks know the more of a shark frenzy .
+T4	Claim 202 246	There has to be the blood of swift movements
+T5	Claim 337 374	there 's blood flowing they 'll eat .
+T6	Claim 606 641	it was the sharks who killed them .
+T7	Claim 738 759	Sharks ca n't help it
+T8	Claim 894 925	Shark attacks can not be solved
+T9	Premise 255 327	it will the hard bones , not like fishbone where fish bones are flexible
+R1	Support Arg1:T9 Arg2:T4
+T10	Premise 556 601	People were blaming the deaths on the captain
+R2	Attack Arg1:T10 Arg2:T6

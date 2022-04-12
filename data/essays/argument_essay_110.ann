@@ -1,0 +1,4 @@
+T1	Claim 977 1041	 Some should kill their shadow - agent , blow up police stations
+T2	Claim 1044 1068	others will rob a bank .
+T3	Premise 860 913	Russia was struggling with the threat of a revolution
+R1	Support Arg1:T3 Arg2:T1

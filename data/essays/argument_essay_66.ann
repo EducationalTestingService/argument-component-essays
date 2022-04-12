@@ -1,0 +1,17 @@
+T1	Claim 364 399	While it is easier to go buy a tree
+T2	Claim 401 460	 the experience of going and cutting it down is wonderful .
+T3	Claim 527 630	Artificial trees are dangerous towards humans , a fire hazard , and are unhealthy for the environment .
+T5	Claim 1458 1511	Artificial Christmas trees are dangerous for humans .
+T7	Claim 2411 2434	they should be banned .
+T8	Claim 2436 2495	Artificial Christmas trees are harmful to the environment .
+T9	Claim 3905 3990	Plant - related pollen allergies can sometimes be triggered by real Christmas trees .
+T10	Claim 4123 4191	most people with pollen allergies will not be bothered by real trees
+T11	Claim 4715 4771	The plastics in artificial trees are harmful to humans .
+T12	Claim 4909 4946	they are harmful to the environment .
+T13	Claim 4985 5030	artificial Christmas trees should be banned .
+T4	Premise 1513 1559	Artificial Christmas trees are a fire hazard .
+R1	Support Arg1:T4 Arg2:T5
+T6	Premise 2358 2408	Since artificial Christmas trees are a fire hazard
+R2	Support Arg1:T6 Arg2:T7
+T14	Premise 3991 4104	But by late November and early December , when such trees are harvested , pollen production has long since ceased
+R3	Support Arg1:T14 Arg2:T10

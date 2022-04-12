@@ -1,0 +1,14 @@
+T1	Claim 241 379	the photographs we see of models in magazines and on billboards are usually digitally - enhanced is a societal norm we have come to accept
+T2	Claim 694 804	you are a photographer and photoshopping is banned , you can not produce those amazing images for NatGeoTravel
+T3	Claim 807 889	your images will look like the bland and boring images that does not appeal people
+T4	Claim 935 1067	you want to attract clients and directors on your website , you photograph the image and make it nice so your business will work out
+T5	Claim 1070 1114	By the way photoshopping makes images better
+T6	Claim 1119 1188	some clients may want you to remove his or her pimples on their faces
+T7	Claim 1191 1228	without photoshop you can not do that
+T8	Claim 1671 1734	magazine pictures influenced their idea of a perfect body shape
+T9	Claim 1513 1585	47 percent of girls in the grades 5 - 12 reported wanting to lose weight
+T10	Premise 1594 1670	of magazine pictures and 69 percent of girls in that age range reported that
+R1	Support Arg1:T10 Arg2:T9	
+T11	Claim 1969 2077	this is the ideal body , and that they should strive to be this way , but that image they see is unrealistic
+T12	Claim 2080 2127	So trying to look that way will be so unhealthy
+T13	Claim 2138 2214	you compare yourself to those models it significantly lowers self confidence

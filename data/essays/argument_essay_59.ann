@@ -1,0 +1,9 @@
+T1	Claim 234 254	We can not not fight
+T2	Claim 308 376	We need war to help us regain our title of greatest species on earth
+T3	Claim 380 407	War is part of human nature
+T5	Claim 1466 1531	we did n't have war we would have never evolved as much as we did
+T6	Premise 205 231	It 's in your human nature
+R1	Support Arg1:T6 Arg2:T1	
+T7	Premise 1352 1420	We need war to help us regain our title of greatest species on earth
+T8	Claim 1423 1446	Others think war is bad
+R2	Attack Arg1:T7 Arg2:T8	

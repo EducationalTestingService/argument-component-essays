@@ -1,0 +1,19 @@
+T1	Claim 120 238	employers should require their workers to participate in a wellness program to better their performance as employees .
+T2	Claim 440 518	Employee wellness programs will not only help to better the lives of Americans
+T3	Claim 524 575	 can also result in a far more productive society .
+T4	Claim 758 870	An increased amount of happiness could make the workplace a more enjoyable and brighter place to get work done .
+T5	Claim 1139 1207	Physical activity will help to refine the environment of employees .
+T6	Claim 1559 1643	Depression can cause employees to lose enthusiasm to come to work and do their job .
+T7	Claim 1802 1940	An increase in medical costs could cause employees to use up their savings or to get another part - time job to help to cover their rent .
+T8	Claim 2017 2130	With the help of employee wellness programs , America could reduce the risk of obesity and higher medical costs .
+T9	Claim 2132 2242	Increased amounts of physical activity can reduce the risk of developing serious life - threatening diseases .
+T10	Claim 2684 2773	Employers should not risk their employees dying just because of a preventable condition .
+T11	Claim 2795 2871	employees may not have time or energy to participate in a wellness program .
+T12	Claim 2902 2975	the benefits of daily or weekly exercise far outweigh the disadvantages .
+T13	Claim 3426 3510	employees are not willing to better their performance , they should not have a job .
+T14	Claim 3620 3739	For this reason , it should be a requirement for employees to participate in a wellness program to improve their work .
+T15	Claim 3861 3929	Having employee wellness programs would greatly help in this cause .
+T16	Premise 0 107	Increased amounts of physical activity have the ability to change lives and help people to inspire others .
+R1	Support Arg1:T16 Arg2:T1
+T17	Premise 3522 3617	There is no denying that physical fitness had the power to enhance and reform the lives of many
+R2	Support Arg1:T17 Arg2:T14

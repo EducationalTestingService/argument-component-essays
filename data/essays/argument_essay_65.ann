@@ -1,0 +1,39 @@
+T1	Claim 98 203	Together , as a nation , need to work together to move on from what happened and get rid of true racism .
+T2	Claim 204 266	Using the race card is not a successful way to work together .
+T3	Claim 286 342	our nation uses fake racism / the race card as an excuse
+T4	Claim 354 393	our nation drifts apart from each other
+T5	Claim 460 512	When a nation works together , it becomes stronger .
+T6	Claim 687 863	a man did not say something racist and was just arguing with you because he disagrees with your opinion , not your race , he is , therefore , not racist until he is proven so .
+T7	Claim 916 968	there will always be some sort of form of all evil .
+T8	Claim 1175 1373	racism is thinking that one specific race is superior above the rest based on physical traits like skin colour , eye colour , hair colour and other physical traits that only apply to certain races .
+T9	Claim 1374 1443	This is the true definition of racism and an example of fake racism .
+T10	Claim 1560 1652	people have forgotten that being white is a race and therefore , racism applies to them to .
+T11	Claim 1789 1863	no matter what you have a race and that racism can and does apply to you .
+T13	Claim 1925 1999	fake racism is used as an excuse and continues to drive our nation apart .
+T14	Claim 2010 2041	Racism can come from everyone .
+T15	Claim 2042 2097	Minorities are the most racist people I have ever met .
+T16	Claim 2117 2167	bring on the war already let 's get this settled .
+T17	Claim 2221 2288	This is a prime example of how our nation should not act together .
+T18	Claim 2289 2313	Every race can be racist
+T19	Claim 2318 2353	every race can suffer from racism .
+T20	Claim 2355 2412	A lot of our problems as a nation come from past racism .
+T21	Claim 2413 2653	Like what was said about a million times now ( but is still very true ) , our nation as one needs to acknowledge the past , fix it , and move on to work together to protect our future generations from the evil that once haunted our nation .
+T23	Claim 2667 2708	some black people use racism as an excuse
+T24	Claim 2719 2775	all people need to move on and stop living in the past .
+T26	Claim 2776 2837	Ppl need to be judged by their character not their color . ..
+T27	Claim 2913 2966	it 's not all black people , majority of it is though
+T28	Claim 2969 3064	our nation needs to move on from past racism and move on to defeat racism that is present now .
+T31	Claim 3295 3331	racism may be difficult to eradicate
+T32	Claim 3784 3809	they ca n't do it alone .
+T33	Claim 3826 3910	racism is a problem for all races and our nation is trying to defeat this great evil
+T34	Claim 3917 3957	their attempts are fetale without help .
+T35	Claim 3959 4042	Our country needs to put the past behind us and move on to become a united nation .
+T36	Claim 4070 4139	reverse racism is a myth and that our country is fine just as it is .
+T37	Claim 4147 4172	that simply is not true .
+T38	Claim 4421 4516	we recognize the problem , fix it , and move on , then , will we truly become a united nation .
+T40	Premise 405 457	we get separated by race and become a divided nation
+R1	Support Arg1:T40 Arg2:T4
+T41	Premise 3134 3186	race is linked to physical differences among peoples
+R2	Support Arg1:T41 Arg2:T31
+T42	Premise 4173 4297	There are people everywhere that are too scared to express their opinion , for fear being called racist and losing their job
+R3	Attack Arg1:T42 Arg2:T36

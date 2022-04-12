@@ -1,0 +1,33 @@
+T1	Claim 0 67	The Holocaust is one of the best examples of injustice in history .
+T2	Claim 486 595	The author writes this book in a way to make readers feel her pain and experience what she 's going through .
+T3	Claim 596 642	Readers feel sadness and sympathize with her .
+T4	Claim 643 787	Feeling the emotion of sadness makes readers wish that the Holocaust never happened , which makes people want to stop injustice from happening .
+T5	Claim 994 1016	This makes readers sad
+T6	Claim 1099 1205	Kids need to exercise , play , and receive the proper amount of food and water to be healthy and survive .
+T7	Claim 2736 2810	This quote makes readers feel sad about what Piri and Iboya went through .
+T9	Claim 3327 3455	This makes readers have sympathy for Piri and Iboya which in return makes readers stop injustices from happening in the future .
+T10	Claim 4845 5020	No one else noticed them , ( Siegal , 152 ) symbolizes that they are approaching the end and that those memories are fading away slowly as their future fades away slowly too .
+T11	Claim 5021 5177	This injustice makes readers wish that the Germans never did this to the Jews which conclusively makes readers want to stop injustice from happening again .
+T14	Claim 5879 5923	Readers feel sadness and give her sympathy .
+T18	Claim 8016 8088	This quote makes readers feel sad for what Piri and Iboya went through .
+T19	Claim 2811 2873	It proves that since Iboya and Piri were doing nothing wrong .
+T22	Claim 10463 10535	Readers of Upon the Head of the Goat wish the Holocaust had not happened
+T23	Claim 10538 10564	and want to stop injustice
+T24	Claim 10593 10690	Some words in the book like crying and trembling make readers truly feel the emotion of sadness .
+T25	Claim 10855 10964	The Holocaust and other events currently going on in the world , truly makes readers feel sad and emotional ;
+T26	Claim 10965 11039	which again makes readers learn not to repeat this same , horrible event .
+T30	Claim 11425 11530	The Holocaust and other events currently going on in the world truly makes readers feel sad and emotional
+T32	Premise 1025 1096	Joli and Sandor are young kids who are malnourished and not very active
+R1	Support Arg1:T32 Arg2:T5
+T33	Premise 68 173	The Holocaust was the mass slaughter of Jews and other unwanted people by the Germans during World War II
+R2	Support Arg1:T33 Arg2:T1
+T34	Premise 216 292	Aranka Siegal relates her personal experiences through the character of Piri
+R3	Support Arg1:T34 Arg2:T2
+T35	Premise 2874 2956	They simply told the boys to stop vandalizing and hurting the men in the synagogue
+R4	Support Arg1:T35 Arg2:T19
+T36	Premise 5924 6007	Feeling the emotion of sadness makes readers wish that the Holocaust never happened
+R5	Support Arg1:T36 Arg2:T14
+T37	Premise 10573 10590	they feel sadness
+R6	Support Arg1:T37 Arg2:T23
+T38	Premise 10767 10852	Millions of Jews across Europe suffered this same type of horrible treatment and fate
+R7	Support Arg1:T38 Arg2:T30

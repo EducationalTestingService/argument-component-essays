@@ -1,0 +1,14 @@
+T1	Claim 185 273	our military had better PTSD preparation it would help them handle it better after war .
+T2	Claim 918 955	military training is very important .
+T3	Claim 956 1015	This disorder can affect more than just military Veterans .
+T4	Claim 1303 1418	The majority of people exposed to such events experience some symptoms of distress ( sleep problems , jumpiness ) .
+T5	Claim 1419 1464	Most fully recover in a few weeks or months .
+T6	Claim 1681 1739	PTSD preparation can prevent these things from happening .
+T7	Claim 3171 3293	their loved ones know about some of the symptoms of PTSD , they could help the men and women seek help when they need it .
+T8	Claim 3897 3932	isolation can make you feel worse .
+T9	Claim 4350 4411	PTSD is a very serious disorder that can use more attention .
+T10	Claim 4415 4486	there is more PTSD training , it could help people with this disorder .
+T11	Claim 4567 4610	there is already enough training for PTSD .
+T12	Claim 4621 4663	there needs to be more PTSD pre - training
+T13	Premise 4487 4541	They may know what to look for and when to seek help .
+R1	Support Arg1:T13 Arg2:T10

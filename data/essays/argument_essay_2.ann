@@ -1,0 +1,14 @@
+T1	Claim 87 112	this is hurting our state
+T2	Claim 117 152	we must reverse this legalization .
+T3	Claim 160 250	we reverse this problem , people are going to continue to use marijuana and cause issues .
+T4	Claim 264 364	nothing is done than this problem , will continue to cause injuries and unfortunate health effects .
+T5	Claim 365 429	Marijuana can cause problems in people that do n't even use it .
+T6	Claim 430 477	Breathing in marijuana smoke may harm someone .
+T7	Claim 478 520	Marijuana can cause harm to human health .
+T8	Claim 725 794	Many accidents can happen if citizens have marijuana in their hands .
+T9	Claim 2991 3034	Michigan must turn this legalization around
+T10	Claim 3278 3300	marijuana is excellent
+T11	Claim 3383 3456	marijuana can cause car accidents , and can cause numerous health effects
+T12	Claim 3486 3536	The side effects of marijuana are not reasonable .
+T13	Premise 3309 3336	it can relieve chronic pain
+R1	Support Arg1:T13 Arg2:T10	

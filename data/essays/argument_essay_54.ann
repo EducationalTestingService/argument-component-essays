@@ -1,0 +1,31 @@
+T1	Claim 18 76	Secondhand smoking is a monumental issue across Michigan .
+T2	Claim 322 386	A bountiful amount of people take secondhand smoke for granted .
+T3	Claim 387 440	Secondhand smoke is not something to take for granted
+T4	Claim 443 469	it is severe and harmful .
+T5	Claim 582 657	Secondhand smoke is a serious problem and must come to a halt in Michigan .
+T6	Claim 1487 1609	Since an abundant amount of animals are at risk , people across Michigan need to come to a standstill with their smoking .
+T7	Claim 1610 1657	The side effects of secondhand smoke are unreal
+T8	Claim 1667 1679	be stopped .
+T9	Claim 1681 1740	Secondhand smoke must stop in public places across Michigan
+T10	Claim 2062 2158	to fully protect nonsmokers is to eliminate all smoking in homes , worksites , and public places
+T11	Claim 2709 2807	The effect of smoking around children is a serious problem that must come to a close in Michigan .
+T12	Claim 3126 3197	Children should not be breathing the same chemicals that smokers inhale
+T13	Claim 3798 3822	it must come to a halt .
+T14	Claim 3824 3872	Secondhand smoke is a colossal issue in Michigan
+T15	Claim 3877 3893	it must layoff .
+T16	Claim 3915 3964	secondhand smoke does n't harm anyone or anything
+T17	Claim 3969 3994	it shall not be stopped .
+T18	Claim 4073 4140	Michigan is a state that ca n't have the harm of secondhand smoke .
+T19	Claim 4236 4278	Public places need to be safe for everyone
+T20	Claim 4290 4336	have the lingering fumes of secondhand smoke .
+T21	Claim 4361 4461	over 3,000 deaths have been caused because of lung cancer , which was a result of secondhand smoke .
+T22	Claim 4524 4542	it must be stopped
+T24	Claim 4671 4704	come to a close in Michigan now .
+T27	Premise 3715 3781	Children are in danger across Michigan because of secondhand smoke
+R3	Support Arg1:T27 Arg2:T13
+T23	Premise 1749 1796	adults are breathing in extra unfortunate fumes
+R1	Support Arg1:T23 Arg2:T9	
+T25	Premise 3219 3255	they do n't have any control over it
+R2	Support Arg1:T25 Arg2:T12	
+T26	Premise 4551 4622	there have been deadly diseases and many deaths due to secondhand smoke
+R4	Support Arg1:T26 Arg2:T22	

@@ -1,0 +1,9 @@
+T1	Claim 0 50	Vaccinations should be mandated in all 50 states .
+T2	Claim 1066 1145	The best way to protect someone against a disease is to vaccinate them directly
+T3	Claim 1219 1332	someone who is unvaccinated does meet the germ responsible for that disease they will be completely susceptible .
+T5	Claim 1515 1636	It does n't take much of a drop in the number of people vaccinated in a population for herd immunity to be less effective
+T6	Claim 1641 1696	this is n't then a reliable way of protecting a child .
+T7	Premise 51 189	Preventable diseases with vaccines such as , measles , whooping cough , and mumps have been making a comeback thanks to the Anti - Vaxxers
+R1	Support Arg1:T7 Arg2:T1
+T8	Premise 1168 1213	` indirect ' protection through herd immunity
+R2	Attack Arg1:T8 Arg2:T2

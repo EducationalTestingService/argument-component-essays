@@ -1,0 +1,38 @@
+T1	Claim 45 135	Thousands of veterans coming back from war are having trouble fitting back in with society
+T2	Claim 138 223	We live in a place where you could pass someone that been in the war almost every day
+T3	Claim 236 294	up to 18.2 million veterans that live in the United States
+T4	Claim 297 365	Most people might think that veterans can just fit back into society
+T5	Premise 370 454	a good majority of vets have problems they have to sort out when they come back home
+R1	Attack Arg1:T5 Arg2:T4	
+T6	Claim 457 546	Veterans should get more help after the war for there physically , financial , and mental
+T7	Claim 550 636	Many war veterans that come back from the war have to deal with a disordered call PTSD
+T8	Claim 639 675	Many people do not know what PTSD is
+T9	Claim 680 726	they do not know how it affects the human mind
+T10	Claim 891 958	the Veteran believes his / her life or others ' lives are in danger
+T11	Claim 1016 1052	PTSD can form from a traumatic event
+T12	Claim 1154 1212	Many people deal with PTSD and a big majority are veterans
+T13	Claim 1418 1497	about 15 % of every 100 Vietnam veterans is dealing with this terrible disorder
+T14	Claim 1512 1555	veterans should get more help after the war
+T15	Claim 1560 1605	TSD is not the only thing veterans deals with
+T16	Claim 1606 1639	they also have financial problems
+T17	Claim 1642 1702	People might not think that the veteran has financial people
+T18	Claim 1707 1721	it is not true
+T19	Claim 1923 2031	people that have served in the military are more likely to worry about money than people who have not served
+T20	Claim 2034 2116	When veterans come home from war they probably do not even think of financial debt
+T21	Claim 2365 2441	when Iraq and Afghanistan come back from the war they have to deal with debt
+T22	Claim 2456 2495	veterans should get more financial help
+T23	Claim 2499 2548	One of the last things you want to lose is a limb
+T24	Claim 2790 2869	Losing a limb can change your drastically and so people can never feel the same
+T25	Claim 3086 3118	1 , 558 will never live the same
+T26	Premise 3130 3169	their major limb amputations in the war
+R2	Support Arg1:T26 Arg2:T25	
+T27	Claim 3231 3274	Veterans should get more help after the war
+T28	Claim 3277 3336	Some people say that veterans do not need help after the wa
+T29	Premise 3346 3400	they are more than capable to do day to day activities
+R3	Support Arg1:T29 Arg2:T28	
+T30	Claim 3403 3475	Some people also say we do not have enough money to give to the veterans
+T31	Opinion 3529 3553	Even so , they are wrong
+T32	Claim 3632 3730	Veterans might need financial , physical , or even mental help that could harm their everyday life
+T33	Claim 3554 3575	veterans do need help
+T34	Premise 3587 3629	all the stuff they went through in the war
+R4	Support Arg1:T34 Arg2:T33	

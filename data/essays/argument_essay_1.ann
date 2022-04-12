@@ -1,0 +1,25 @@
+T1	Claim 646 679	to solve conflict is to stay calm
+T2	Claim 849 944	When trying to resolve conflict , staying calm can ensure that the problem will not get worse .
+T3	Claim 1462 1570	the husband and wife did n't put themselves in danger or make things worse by trying to get to there house .
+T5	Claim 1694 1761	Staying calm to solve conflict can be done in many different ways .
+T6	Claim 2292 2369	you stay calm and not act on the problem , it ca n't make the problem worse .
+T8	Claim 2371 2465	Thinking of a positive situation , or a way to fix the problem could help make things better .
+T9	Claim 2466 2585	When you remember an old situation when you had conflict , it could help you think of new ways to resolve the problem .
+T10	Claim 3500 3609	when you think of situations to make the problem better , their is a good chance that things will be better .
+T13	Claim 3635 3687	staying calm is n't the best way to solve conflict .
+T15	Claim 3688 3830	A way of solving conflict by staying calm , is to not force things to happen , and to wait patiently even though it could be a bad situation .
+T16	Claim 4293 4358	they were to leave , they would have a chance of getting caught .
+T18	Claim 4439 4514	Staying calm and being patient is important especially in a bad situation .
+T19	Claim 4615 4657	stay calm and not force things to happen .
+T20	Claim 4659 4712	When you staying calm , can help you solve conflict .
+T21	Claim 4713 4757	It could help you not make the problem worse
+T22	Claim 4760 4803	it helps you think of positive situations ,
+T23	Claim 4806 4884	 it could even help you be more patient so you do n't force things to happen .
+T24	Claim 4980 5100	The main character or characters all had conflict in their stories , but they all figured out how to solve the problem .
+T25	Claim 5807 5839	think of ways to fix the problem
+T26	Claim 5850 5927	it could help you relax and be patient so you do n't force things to happen .
+T4	Premise 688 727	it helps you not make the problem worse
+R1	Support Arg1:T4 Arg2:T1	
+T7	Claim 5447 5493	she was standing up for her right of education
+T11	Premise 5426 5438	she was shot
+R2	Support Arg1:T11 Arg2:T7	

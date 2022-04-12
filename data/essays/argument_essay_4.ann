@@ -1,0 +1,31 @@
+T1	Claim 321 386	The idea of having your parent choose who you marry is terrible .
+T2	Claim 403 456	having your parents arrange your marriage is terrible
+T3	Premise 468 505	some parents are really irresponsible
+T4	Claim 510 567	should not be qualified to choose who their child marries
+T5	Claim 578 628	parents arrange marriages some people could suffer
+T7	Claim 638 729	parents arrange the marriage then there is way more of a possibility of the marriage ending
+T8	Claim 777 823	parents arranging marriages is a terrible idea
+T9	Claim 837 939	some parents are really irresponsible and should not be qualified to choose who their children marries
+T10	Claim 1216 1289	some parents should not be qualified to choose who their children marry .
+T11	Claim 1564 1616	parents should not choose who their children marry .
+T12	Claim 1640 1694	parents should not arrange their children 's marriages
+T14	Claim 2551 2604	parents should not arrange who their children marry .
+T15	Claim 2670 2765	parents arrange who their children marry then there is a higher chance of the marriage ending .
+T16	Claim 2883 2965	because the marriages were arranged the couple might not have anything in common .
+T17	Claim 2966 3062	This could also mean that because the marriage is arranged that the couple might not get along .
+T19	Claim 3063 3135	This could also mean that the couple might not know each other that well
+T21	Claim 3136 3184	so that could be why the marriage did n't last .
+T22	Claim 3188 3261	parents did n't arrange their children 's marriage it might last longer .
+T26	Claim 3360 3410	marriages have way more of a possibility of ending
+T27	Claim 3425 3490	 parents not arranging their children 's marriages is important .
+T28	Claim 3491 3564	The decision to marry someone is a very big deal that has a huge effect .
+T29	Claim 3565 3674	When parents arrange their children 's marriages they are opening them up to a life of frustration and pain .
+T30	Claim 3684 3764	the children have their own choice in who they marry they could be way happier .
+T32	Claim 3765 3805	Some parents are also very irresponsible
+T33	Claim 3816 3859	choose who their children marry incorrectly
+T34	Claim 3880 3982	the child could be very responsible and intelligent and choose a way better option of who they marry .
+T35	Premise 1706 1729	some people will suffer
+R1	Support Arg1:T35 Arg2:T13
+R2	Support Arg1:T3 Arg2:T2
+T36	Premise 2790 2843	The global divorce rate for arranged marriages is 6 %
+R3	Support Arg1:T36 Arg2:T15

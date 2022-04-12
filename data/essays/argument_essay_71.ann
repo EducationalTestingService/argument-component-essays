@@ -1,0 +1,27 @@
+T1	Claim 71 88	It would be crazy
+T2	Claim 91 116	The food chain would fall
+T3	Premise 125 164	sharks are at the top of the food chain
+R1	Support Arg1:T3 Arg2:T2	
+T4	Claim 170 228	sharks were gone , the ocean would never be the same again
+T5	Claim 430 470	Sharks help keep the food chain in place
+T6	Claim 282 316	it is healthy for the smaller fish
+T7	Claim 231 277	Sharks help keep the food chain in the process
+T8	Claim 473 516	Without sharks the ocean will be unbalanced
+T9	Claim 641 684	Populations of other fish could go down too
+T10	Claim 925 959	Sharks also keep the ocean healthy
+T11	Claim 1423 1474	For these reasons sharks are important to our world
+T12	Claim 1478 1512	Sharks can also help cure diseases
+T13	Claim 1515 1575	Some things sharks have on their bodies can help cure people
+T14	Premise 1578 1649	Shark tissue appears to have anticoagulant and antibacterial properties
+R2	Support Arg1:T14 Arg2:T13	
+T15	Premise 1681 1754	Sharks tissue goes against bad bacteria and helps get rid of bad diseases
+R3	Support Arg1:T15 Arg2:T13	
+T16	Claim 1981 2054	they find treatments for people , this will make people so much healthier
+T17	Claim 2057 2077	Sharks are important
+T18	Premise 2086 2108	they can cure diseases
+R4	Support Arg1:T18 Arg2:T17	
+T19	Claim 2112 2193	Sharks help keep the food chain in process and it is healthy for the smaller fish
+T20	Claim 2562 2599	Sharks do not deserve to be put aside
+T21	Premise 2608 2635	they do matter to our world
+R5	Support Arg1:T21 Arg2:T20	
+T22	Claim 2638 2697	Imagine if sharks were gone things would be a lot different

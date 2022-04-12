@@ -1,0 +1,24 @@
+T1	Claim 89 137	no matter how strict or vague , they were broken
+T2	Claim 142 162	people had to suffer
+T3	Claim 165 237	There must be stricter punishments to countries or people who break them
+T4	Claim 240 279	Trying to keep war is human is not easy
+T5	Claim 282 302	War is always brutal
+T6	Claim 309 359	this will at least reduce the number of casualties
+T7	Claim 365 446	we could prevent war crimes , then many more people would live through a conflict
+T8	Claim 449 604	Specific weapons being banned for reasons like massive property damage , unhuman deaths , can seriously injure someone , uncontainable , and uncontrollable
+T9	Claim 608 628	The land will suffer
+T10	Claim 742 772	enemies would be easier to see
+T11	Claim 804 867	plant and animal life for kilometers were completely devastated
+T12	Claim 1138 1187	A big concern is civilians dying in the crossfire
+T13	Claim 1190 1302	A good example is WW2 when a lot of civilians died in bombings , ground invasions , sea battles , and executions
+T14	Claim 1426 1458	Most of which were Jewish people
+T15	Claim 1520 1584	Certain weapons can affect crops , livestock , and water sources
+T16	Claim 1631 1654	War I was most damaging
+T17	Premise 1668 1710	landscape changes caused by trench warfare
+R1	Support Arg1:T17 Arg2:T16	
+T18	Claim 1923 1989	Chemical weapons can incredibly be devastating , like Agent Orange
+T19	Claim 1992 2059	It can get into bodies of water polluting them for a very long time
+T20	Claim 2062 2161	Napalm or flamethrower can wipe out entire forests or villages , killing many people in the process
+T21	Claim 2168 2210	if not that then leaving them with nothing
+T22	Premise 707 738	The gas was used to kill plants
+R2	Support Arg1:T22 Arg2:T10	

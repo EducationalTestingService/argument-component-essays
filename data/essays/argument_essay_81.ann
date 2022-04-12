@@ -1,0 +1,51 @@
+T1	Claim 144 170	therapy would be helpful .
+T3	Claim 186 253	with therapy I could grow as a person and learn more about myself .
+T5	Claim 254 299	Most teens who need therapy do not realize it
+T6	Claim 302 321	or do not want it .
+T7	Claim 335 405	being a teen who is asking to go is more of a reason I should get it .
+T9	Claim 421 522	I will be able to listen and use the ideas a therapist can come up with to help me with my problems .
+T10	Claim 531 605	I am unable to fix my problems myself and that I need the help I deserve .
+T11	Claim 769 854	Therapy could help me move on from the bad times and look forward to the good times .
+T12	Claim 917 988	Therapy could teach me coping mechanisms to push through these issues .
+T13	Claim 1090 1212	A therapist could tell me ways to deal with these situations and situations like this that come about throughout my life .
+T14	Claim 1321 1345	I should go to therapy .
+T15	Claim 1347 1388	Sometimes friends can help with my issues
+T16	Claim 1395 1474	a professional could help me for my specific needs from their years of training
+T17	Claim 2115 2172	therapists can help people with ADHD , anxiety , trauma .
+T18	Claim 2173 2257	They can also help people with school problems and people going through hard times .
+T19	Claim 2271 2336	A professional therapist would not judge me or make me feel bad .
+T20	Claim 2337 2429	They would validate my feelings and help me find ways to cope with what I am going through .
+T21	Claim 2697 2743	there is a real fire than I could be in danger
+T22	Claim 2747 2761	I can not move
+T23	Claim 2971 3011	I need help on how to get past my trauma
+T24	Claim 3016 3056	that is something I can not do by myself
+T25	Claim 3085 3115	I need help to get past this .
+T26	Claim 1256 1267	I need help
+T27	Claim 4144 4246	part of the 70 % of teens not receiving needed treatment is due to the fact that they do not want it .
+T28	Claim 4264 4281	be in this 70 % .
+T29	Claim 4289 4317	the treatment that I deserve
+T30	Claim 4320 4384	I deserve it even more for the fact that a lot of teens do not .
+T33	Claim 5547 5580	Not wanting to send me to therapy
+T34	Claim 5636 5709	a reason that I should not go to therapy is because it is too expensive .
+T36	Claim 5710 5736	That problem can be solved
+T37	Claim 5816 5830	I need therapy
+T38	Claim 5919 5970	my parents knowing all my deepest darkest secrets .
+T39	Claim 5978 6078	sometimes talking to a stranger about your problems is easier than talking to someone close to you .
+T40	Claim 6105 6149	I could talk to my friends about my issues .
+T41	Claim 6257 6310	going to therapy will get in the way of my schoolwork
+T43	Claim 6424 6457	In the beginning I might struggle
+T44	Claim 6464 6507	as I go on I will do better than I am now .
+T45	Claim 6512 6707	my parents think I can learn to control myself and control my ADHD , think I can find other ways to cope , and think that I do not always need to get what I want then I should not go to therapy .
+T47	Claim 6717 6956	my parents do not want me to struggle anymore , do not want me to cry myself to sleep practically every night , do not want me to shut down in a life - threatening situation , or do not want me to doubt myself then I should go to therapy .
+T49	Claim 7209 7242	they want it they should get it .
+T2	Premise 2773 2791	my scarring memory
+R1	Support Arg1:T2 Arg2:T22	
+T4	Claim 2582 2676	every time an alarm of any sort goes off my heart drops and I freeze going back to that moment
+T8	Premise 2549 2579	fire that happened in my house
+R5	Support Arg1:T8 Arg2:T4	
+T31	Premise 3065 3082	I do not know how
+R2	Support Arg1:T31 Arg2:T24	
+T32	Premise 5745 5769	insurance covers therapy
+R3	Support Arg1:T32 Arg2:T36	
+T35	Premise 5839 5864	I have supportive parents
+R4	Support Arg1:T35 Arg2:T37	

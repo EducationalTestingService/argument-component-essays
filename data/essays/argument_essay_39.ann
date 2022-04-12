@@ -1,0 +1,41 @@
+T1	Claim 437 484	Joining the war will affect college education .
+T2	Claim 485 600	By joining the war at age eighteen that means people will skip college and go straight to the war after high school
+T3	Claim 613 698	after the war , there wo n't be good job opportunities until after going to college .
+T4	Claim 702 799	people ca n't drink until they are twenty - one then they should n't be allowed to join the war .
+T6	Claim 877 942	they be able to put their life at danger at the age of eighteen .
+T7	Claim 943 1015	It should be illegal for men and women to join the war at age eighteen .
+T8	Claim 1017 1081	People at the age of eighteen should not be able to join the war
+T9	Claim 1447 1553	Eighteen years of age is a bad age to remove someone from their environment and stick them with the adults
+T10	Claim 1605 1682	The war needs mature , strong men and women around the age of twenty - five .
+T11	Claim 1742 1794	the law should be joining the war at twenty - five .
+T12	Claim 1839 1896	After their service they wo n't be able to get a good job
+T13	Claim 1968 2012	be illegal to join the war at age eighteen .
+T14	Claim 2017 2111	people can join the military at age eighteen , then they wo n't get a proper college education
+T16	Claim 2354 2462	people do n't go to college before they join the war then it will be harder for them to find good jobs after
+T18	Claim 2465 2584	It is very difficult to be considered a serious candidate without either a high school diploma or accepted credential .
+T19	Claim 2599 2655	staying in school is important for entering the military
+T20	Claim 2703 2810	people are able to join the war at age eighteen , then they could drop out of high school to join the war .
+T22	Claim 2811 2870	The legal age to join the war , should be age twenty - five
+T23	Claim 2937 3017	The law should state that a college education should be needed to join the war .
+T24	Claim 3095 3139	they be able to join the war at age eighteen
+T25	Claim 3443 3524	people can put themselves in risk of dying , but they ca n't even drink legally .
+T26	Claim 3790 3841	the age should be raised to at least twenty - one .
+T27	Claim 3843 3906	It should be illegal for people to join the war at age eighteen
+T30	Claim 4022 4104	people at the age of eighteen are just not mature enough mentally and physically .
+T31	Claim 4179 4257	they should not have the right to sign up for war and put their life at risk .
+T32	Claim 4258 4318	People at the age of eighteen should be able to join the war
+T33	Claim 4417 4474	People should not be able to join the war at age eighteen
+T34	Claim 4520 4563	strong , mature men and women for the war .
+T35	Claim 4564 4711	As Americans we need to realize that we need strong , mature men and women that are willing to fight our freedom , and eighteen is just too young .
+T39	Premise 2130 2348	kids who join the military but do not go through a specific college program , such as ROTC or an academy , ca n't count on getting college aid for the time being ( Pros and Cons About Going Military After High School )
+R3	Support Arg1:T39 Arg2:T14
+T5	Premise 1090 1145	they might not be mature enough mentally and physically
+R1	Support Arg1:T5 Arg2:T8	
+T15	Premise 1803 1836	they do n't have a full education
+R2	Support Arg1:T15 Arg2:T11	
+T17	Premise 2879 2934	then high school will be over and some years of college
+R4	Support Arg1:T17 Arg2:T22	
+T21	Premise 4327 4350	they are legally adults
+R5	Support Arg1:T21 Arg2:T32	
+T28	Premise 4483 4509	they are not mature enough
+R6	Support Arg1:T28 Arg2:T33	

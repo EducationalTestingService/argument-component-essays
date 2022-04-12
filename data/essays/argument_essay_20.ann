@@ -1,0 +1,30 @@
+T1	Claim 123 188	Social media is used so much today that it has become a problem .
+T2	Claim 300 352	Social Media can turn teens lives into trainwrecks .
+T3	Claim 363 402	social media should be limited to teens
+T4	Claim 946 1024	we may even be learning to read likes and shares instead of facial expressions
+T5	Claim 1038 1182	This affects teens because in the future their social skills may be reduced to only reading positive aspects of reality than facial expression .
+T6	Claim 1194 1215	this can affect teens
+T7	Claim 1230 1411	they only read positives of reality , they will have a very hard time dealing with problems that occur in their life until they learn how to deal with the negative aspects of life .
+T9	Claim 1436 1476	social media helps build social skills .
+T10	Claim 1758 1791	the chances are too risky to take
+T11	Claim 1878 1942	There are many more negative effects that come with social media
+T12	Claim 1972 2024	Social media has been a center for unwanted problems
+T13	Claim 2031 2085	the next negative effect it has caused is depression .
+T14	Claim 2568 2675	social media can make teens feel worse about themselves by making them feel like people that they are not .
+T15	Claim 2747 2832	for people to fully understand the risks they are taking by going onto social media .
+T16	Claim 2865 2911	social media can help fight against depression
+T18	Claim 3173 3223	social media might help fight against depression .
+T19	Claim 3228 3297	the risks people take by going on social media are too costly to take
+T20	Claim 3310 3370	it should be limited to only the people that can handle it .
+T21	Claim 3388 3447	the impacts of social media are more negative than positive
+T22	Claim 3453 3480	it should have it 's limits
+T23	Claim 3483 3547	Social media should be limited to people that know how to use it
+T24	Claim 3608 3656	People are blinded of the risks social media has
+T27	Premise 2676 2717	Depression may eventually lead to suicide
+R3	Support Arg1:T27 Arg2:T15
+T8	Premise 410 511	several detrimental impacts it can have such as the inability to develop social skills and depression
+R1	Support Arg1:T8 Arg2:T3	
+T17	Premise 1799 1875	the fact that it may be putting someone 's social development skills to risk
+R2	Support Arg1:T17 Arg2:T10	
+T25	Premise 3563 3605	many problems it has brought along with it
+R4	Support Arg1:T25 Arg2:T23	

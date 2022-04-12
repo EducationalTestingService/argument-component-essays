@@ -1,0 +1,31 @@
+T1	Claim 210 260	not a lot of people know the veterans ' problems .
+T2	Claim 261 301	Veterans have to adjust to civilian life
+T3	Claim 306 348	they do not know how getting a job works .
+T4	Claim 349 410	When veterans come back from war they most likely have PTSD .
+T5	Claim 411 492	Veterans should have mental health and doctor visits paid for by the government .
+T6	Claim 584 629	Veterans should have help with paying bills .
+T7	Claim 748 787	veterans have hard times getting jobs .
+T8	Claim 788 840	Vets most likely do not know how to set up resumes .
+T9	Claim 1017 1086	way too many vets living in this world having trouble getting a job .
+T10	Claim 1221 1306	Many of the veterans interviewed talked about a lack of preparation for civilian life
+T11	Claim 1426 1464	Veterans should get help getting a job
+T12	Claim 1656 1835	Veteran mental health services are essential in order to help our returning vets recover from their combat experiences and mental health issues related to their military service .
+T13	Claim 1895 2007	enough is not being done and that many of our veterans are not receiving the care that they deserve in this area
+T14	Claim 2444 2480	Veterans should get free health care
+T15	Claim 2699 2759	Service members are more likely to have financial troubles .
+T16	Claim 3032 3092	veterans are not able to pay off debt while in the service .
+T17	Claim 3093 3226	When service members return from active duty , they 're more likely to face severe financial challenges than civilians ( Fottrell ) .
+T18	Claim 3503 3549	Coming out of war can be stressful for a vet .
+T19	Claim 3550 3627	People that come out of the war have to try and get back into civilian life .
+T20	Claim 3628 3752	The hardest part of adjusting back to the real world is having mental problems like PTSD or Post Traumatic Stress Disorder .
+T21	Claim 3753 3789	Doctor visits nowadays are expensive
+T22	Claim 3793 3857	 veterans do not have a whole lot of money coming out of a war .
+T23	Claim 4001 4054	we can do is help donate to a military organization .
+T24	Claim 4080 4105	helping veterans is wrong
+T25	Claim 4348 4393	Veterans are good people trying to do goods .
+T26	Premise 1473 1553	they were in the war for so long and do not remember much from the civilian life
+R1	Support Arg1:T26 Arg2:T11	
+T27	Premise 2487 2538	they have been out of civilian life for a long time
+R2	Support Arg1:T27 Arg2:T14	
+T28	Premise 4114 4180	they say they killed people and that would mean they are murderers
+R3	Support Arg1:T28 Arg2:T24	

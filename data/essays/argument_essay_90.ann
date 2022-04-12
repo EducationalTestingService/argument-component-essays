@@ -1,0 +1,14 @@
+T1	Claim 0 117	Some defining traits of a hero are daring , bold , willing , logical , brave , smart , cunning , courageous , noble .
+T2	Claim 118 168	These are some of many traits that define a hero .
+T3	Claim 169 247	Wesley from the Princesses Bride is more heroic than Odysseus from the Odyssey
+T4	Claim 381 421	Wesley shows himself to be the true hero
+T5	Claim 851 887	he is more of a hero than Odysseus .
+T6	Claim 888 924	Wesley is more cunning than Odysseus
+T7	Premise 256 304	Wesley is more logical and cunning than Odysseus
+R1	Support Arg1:T7 Arg2:T3
+T8	Premise 430 517	he has an increased amount of observation skills and logical sense compared to Odysseus
+R2	Support Arg1:T8 Arg2:T4
+T9	Premise 818 838	Wesley being cunning
+R3	Support Arg1:T9 Arg2:T5
+T10	Premise 927 998	he shows more skill on how to wield the blade and saving innocent lives
+R4	Support Arg1:T10 Arg2:T6

@@ -1,0 +1,46 @@
+T1	Claim 420 450	These students need movement .
+T2	Claim 451 556	All students in the United States should be required to take physical education every year of high school
+T3	Premise 565 669	by including physical activity in their everyday routines will increase their chances of being healthier
+T4	Premise 672 727	students academic performance and behavior will improve
+T5	Premise 734 768	their mental health will benefit .
+T6	Claim 770 946	When students are required to take a P.E. class in high school their chances of staying healthy during the school year are greater than when they are not participating in one .
+T7	Claim 947 1022	Physical education contributes to keeping teens and young adults in shape .
+T8	Claim 1411 1470	physical activity can help with a students overall health .
+T10	Claim 1471 1534	Movement and exercise are the best way to get the brain ready .
+T11	Claim 1848 1934	all students should be required to take physical education every year of high school .
+T12	Claim 2006 2188	Learning and progressing within their school work , as well as staying on task during the school day can be maintained by exercising and being physically active on a daily schedule .
+T13	Claim 2508 2568	They will have a better chance in succeeding later in life .
+T14	Claim 3212 3302	it should be mandatory for students to take physical education every year of high school .
+T15	Claim 3304 3411	Every teen at some point in their school career has experienced stress , mental strain or even depression .
+T16	Claim 3412 3474	Exercising and movement are components to help relieve these .
+T17	Claim 3697 3767	Even just getting up and moving the body can help with mental strain .
+T18	Claim 3768 3814	Physical education can boost self confidence .
+T19	Claim 4105 4183	It should be a requirement for students to take P.E. all through high school .
+T20	Claim 4185 4342	Physical education provides many health benefits , students academic work and progress will increase and , their mental health is being affected positively .
+T21	Claim 4361 4429	students should be required to take P.E. every year of high school .
+T22	Claim 4439 4477	physical education is the right choice
+T23	Claim 4719 4769	in this situation the positive exceed the negative
+T24	Claim 4775 4804	 students will benefit more .
+R1	Support Arg1:T3 Arg2:T2
+R2	Support Arg1:T4 Arg2:T2
+R3	Support Arg1:T5 Arg2:T2
+T25	Premise 1083 1280	Regular physical activity can help children and adolescents improve cardiorespiratory fitness , build strong bones and muscles , control weight , and reduce the risk of developing health conditions
+R4	Support Arg1:T25 Arg2:T7
+T26	Premise 1548 1650	physical activity has shown to , boost energy levels , help with relaxation and a better sleep quality
+R5	Support Arg1:T26 Arg2:T10
+T27	Premise 1797 1837	The health benefits of physical activity
+R6	Support Arg1:T27 Arg2:T11
+T28	Premise 2189 2300	A total of 26 studies has confirmed physical education improved behavior in classrooms and academic achievement
+R7	Support Arg1:T28 Arg2:T12
+T29	Premise 2461 2505	their skills continue to grow and get better
+R8	Support Arg1:T29 Arg2:T13
+T30	Premise 3155 3191	their learning skills are increasing
+R9	Support Arg1:T30 Arg2:T14
+T31	Premise 3555 3651	running for 15 minutes a day or walking for an hour reduces the risk of major depression by 26 %
+R10	Support Arg1:T31 Arg2:T17
+T32	Premise 3815 3957	The participation in physical education in high school provides a positive influence on a student 's personality , character and self - esteem
+R11	Support Arg1:T32 Arg2:T18
+T33	Premise 4012 4102	Physical education gives a student the chance to change the way they feel about themselves
+R12	Support Arg1:T33 Arg2:T19
+T34	Premise 4625 4706	the school and teachers may not have the time to squeeze P.E. into their schedule
+R13	Attack Arg1:T34 Arg2:T22

@@ -1,0 +1,49 @@
+T38	Claim 196 264	Being too attached to technology can have many negative side effects
+T39	Claim 267 338	Technology can affect both mental and physical health if used too often
+T40	Claim 400 466	it can be damaging to people and can lead to unwanted side effects
+T41	Premise 347 397	technology affects both mental and physical health
+R9	Support Arg1:T41 Arg2:T40	
+T42	Claim 469 553	Yet these issues can be prevented by spending a limited amount of time on technology
+T43	Claim 568 685	middle schools and high schools in the United States must limit time on technology to half of a student 's class time
+T44	Premise 694 770	too much technology causes depression , obesity , physical and mental issues
+R10	Support Arg1:T44 Arg2:T43	
+T45	Claim 879 943	Many students in recent years have become addicted to technology
+T46	Claim 971 1033	Kids ages eight to 18 are becoming more addicted to technology
+T47	Claim 1040 1184	it is leading to negative consequences , such as the need for instant gratification , poor face - to - face interaction , and risk of depression
+T48	Claim 1190 1252	As it appears technology is causing many negative side effects
+T49	Claim 1259 1315	students should not have to deal with these side effects
+T50	Claim 1709 1811	middle schools and high schools must limit their time on technology to half of a student 's class time
+T51	Premise 1678 1706	technology causes depression
+R11	Support Arg1:T51 Arg2:T50	
+T52	Claim 1870 1961	it is not the only effect another effect is that it causes people to be overweight or obese
+T53	Premise 1821 1867	depression is an effect of too much technology
+R12	Support Arg1:T53 Arg2:T52	
+T54	Claim 1964 2006	Too much time on technology causes obesity
+T55	Premise 2015 2088	when people are on technology they are usually not being active or moving
+R13	Support Arg1:T55 Arg2:T54	
+T56	Claim 2233 2314	when people are on technology for too long , they are more likely to become obese
+T57	Premise 2323 2369	they are not releasing the energy they take in
+R14	Support Arg1:T57 Arg2:T56	
+T58	Claim 2375 2485	students are on technology for too long , then they will have an increased chance of being overweight or obese
+T59	Claim 2682 2789	children who use technology for too long will become obese or overweight due to a lack of physical movement
+T60	Claim 2828 2956	time on technology must be limited to half of the student 's class time for middle schools and high schools in the United States
+T61	Premise 2800 2825	technology causes obesity
+R15	Support Arg1:T61 Arg2:T60	
+T62	Matter_of_fact 3051 3152	Recently it has been proven that technology has many negative physical and mental effects on children
+T63	Claim 3623 3691	Limiting a student 's time on technology would prove to be beneficia
+T64	Premise 3701 3757	these side effects are damaging to students and must end
+R16	Support Arg1:T64 Arg2:T63	
+T65	Claim 3913 3978	students are being affected by having too much time on technology
+T66	Claim 4036 4162	middle schools and high schools in the United States must limit students to only using technology for half of their class time
+T67	Premise 3989 4033	technology causes mental and physical issues
+R17	Support Arg1:T67 Arg2:T66	
+T68	Claim 4166 4291	Time on technology must be limited to half of a student 's class time in middle schools and high schools in the United States
+T69	Premise 4300 4390	too much time on technology causes depression , obesity , and physical , and mental issues
+R18	Support Arg1:T69 Arg2:T68	
+T70	Claim 4630 4672	time on technology should still be limited
+T71	Premise 4681 4766	it is important that students do not suffer from depression social issues and obesity
+R19	Support Arg1:T71 Arg2:T70	
+T72	Claim 4415 4463	technology has negative effects if used too long
+T73	Claim 4781 4910	students in middle schools and high schools in the United States must be limited to using technology for half of their class time
+T74	Premise 2517 2643	Increased time spent on viewing television and using computers was associated with an increased prevalence of being overweight
+R20	Support Arg1:T74 Arg2:T58	

@@ -1,0 +1,13 @@
+T1	Claim 17 86	The past has always defined the present and the future of the world .
+T2	Claim 87 145	The past impact the decisions we make today as a country .
+T3	Claim 249 272	The past is never death
+T4	Claim 275 335	the past is always helpful when making important decisions .
+T5	Claim 336 388	The present has been impacted by the past situations
+T6	Claim 391 490	the country learns from situations that occurred in the past , defining the decisions we make now .
+T7	Claim 2652 2746	Migrant farm workers wages and working conditions are still far away from what they need to be
+T8	Claim 2769 2865	we should look back at the past and not forget the awful conditions these workers were working .
+T9	Claim 3204 3323	We should always take a look back at the past and see how we can improve for the future of the people and the country .
+T10	Premise 176 246	we develop a decision for a situation that impacts the people 's lives
+R1	Support Arg1:T10 Arg2:T2
+T11	Premise 3095 3201	These past protest and movements have helped people be protected and not discriminate or abused in any way
+R2	Support Arg1:T11 Arg2:T9

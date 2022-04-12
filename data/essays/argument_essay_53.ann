@@ -1,0 +1,38 @@
+T1	Claim 46 74	Football is an honest game .
+T2	Claim 125 150	Football is a team game .
+T3	Claim 178 242	no sharing is involved in life , nobody will get anything done .
+T4	Claim 243 303	They will gain rewards such as teamwork , or social skills .
+T5	Claim 304 385	Football will help with health problems such as heart disease , due to exercise .
+T6	Claim 386 467	Football allows children to get off their devices , and get outside to exercise .
+T7	Claim 468 501	Youth football must not be banned
+T8	Claim 598 670	Football helps kids with social skills and introduces them to teamwork .
+T9	Claim 671 722	Football makes kids evolve around their teammates .
+T10	Claim 726 803	they pass the ball and their teammate scores , they will feel proud ( AAP ) .
+T11	Claim 882 918	Working together makes life easier .
+T12	Claim 988 1036	to score a touchdown if the football is passed .
+T14	Claim 1132 1177	Youth football promotes a healthy lifestyle .
+T15	Claim 1459 1515	When kids participate in football , it will prevent them
+T16	Claim 1527 1575	and help them from receiving chronic illnesses .
+T17	Claim 1576 1616	Football will increase stamina in kids .
+T18	Claim 1787 1822	to breathe while playing football .
+T19	Claim 1823 1886	Youth football must not be banned due to reduced health risks .
+T20	Claim 1888 1942	Football allows children to get outside and exercise .
+T21	Claim 1943 2002	Children need to go outside and enjoy what is around them .
+T22	Claim 2085 2148	Football is a way to get outside and breathe in the fresh air .
+T23	Claim 2149 2220	Not letting children play sports may open gateways to health problems .
+T24	Claim 2224 2284	kids do n't get outside , they will have other health issues
+T25	Claim 2324 2374	Exercising is the key to stopping those problems .
+T26	Claim 2436 2471	youth football must not be banned .
+T27	Claim 2473 2506	Banning youth football is useless
+T28	Claim 2608 2675	tackle football can cause concussions in developing kids ' brains .
+T29	Claim 2737 2838	we did not have football as a sport , people would have a lack of social skills and sharing abilities
+T30	Claim 2860 2890	people would not be exercising
+T31	Claim 2932 2991	If football would be removed , how would our society look ?
+T33	Premise 1178 1245	It helps with working away chronic diseases such as heart disease .
+R2	Support Arg1:T33 Arg2:T14
+T34	Premise 2375 2421	Exercising is a way to prevent health problems
+R3	Support Arg1:T34 Arg2:T26
+T13	Premise 510 594	it helps with team working skills , health problems , and exercising within children
+R1	Support Arg1:T13 Arg2:T7	
+T32	Premise 2515 2589	it helps with social skills , health problems , and exercising within kids
+R4	Support Arg1:T32 Arg2:T27	

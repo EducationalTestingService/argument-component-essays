@@ -1,0 +1,45 @@
+T1	Claim 192 215	these games are all fun
+T2	Claim 222 284	there is also a bad side to them that many people do n't see .
+T3	Claim 285 331	Parents need to limit screen time for children
+T4	Claim 469 596	Children who have unlimited screen time or obsessive amounts of screen time are more likely to have depression and or anxiety .
+T5	Claim 967 1025	Parents should be limiting screen time from their children
+T6	Claim 1163 1304	Children who are not used to limited time on their phones may experience withdrawal symptoms or anxiety where they are without their phones .
+T7	Claim 1641 1721	certain forms of smartphone use could cause or worsen symptoms of mental illness
+T8	Claim 1737 1840	Children and teens are most likely experiencing anxiety at a younger age compared to many decades ago .
+T9	Claim 1851 1903	parents should be limiting children 's screen time .
+T10	Claim 1984 2014	it is hard to not get drawn in
+T11	Claim 2071 2132	One thing that technology may cause is nature disconnection .
+T12	Claim 2368 2453	Children and adults becoming obsessed with technology has caused nature disconnection
+T13	Claim 2528 2599	Technology is n't the only reason why nature disconnection has occurred
+T14	Claim 2604 2625	it is the main reason
+T15	Claim 2688 2727	people are spending less time in nature
+T16	Claim 3075 3167	Many places such as work , school , and play are do not encourage outside activities as much
+T17	Claim 3316 3354	it has enriched learning and working .
+T18	Claim 3356 3470	The current generation in school has been the guinea pigs to everything that has been experimented in technology .
+T19	Claim 3913 3955	continue to go up as technology advances .
+T20	Claim 3956 4044	As more and hours pile up many children are more likely to have anxiety and depression .
+T21	Claim 4366 4523	As the number of screen time hours goes up it is very common that the develop unhealthy eating habits and become overweight due to more hours on the screen .
+T22	Claim 4534 4566	parents should limit screen time
+T23	Claim 4615 4655	in school , technology is very important
+T24	Claim 4993 5032	it can still be terrible for children .
+T25	Claim 5036 5204	students are starting to early with technology , there is a greater risk of children getting in trouble in school with technology and with weight and unhealthy eating .
+T26	Claim 5531 5575	the type of program also influences snacking
+T27	Claim 5590 5731	With schools using technology many schoolchildren can become overweight or obese , even if they are only using it just for educational uses .
+T28	Claim 5733 5783	Parents should be limiting children 's screen time
+T29	Claim 5803 5943	People who do not limit screen time can an increased chance of unhealthy eating , depression and anxiety , and a disconnection from nature .
+T30	Claim 5944 6014	Parents should be limiting screen time for these reasons and many more
+T34	Premise 2454 2527	because technology has become such a distraction and rewires our brains .
+T32	Premise 340 465	it cause depression and anxiety , a disconnection from nature , and puts them at risk for obesity and unhealthy eating habits
+R1	Support Arg1:T32 Arg2:T3	
+T33	Premise 1043 1160	it is highly correlated with depression and anxiety , especially now that children are getting phones at younger ages
+R2	Support Arg1:T33 Arg2:T5	
+T35	Premise 2736 2936	places where they work , live , and go to school generally do not encourage contact with the natural world and because myriad competing priorities and activities push experiences in nature to the side
+R3	Support Arg1:T35 Arg2:T15	
+T36	Premise 3176 3256	technology has taking over and outside work and school have been less encouraged
+R4	Support Arg1:T36 Arg2:T16	
+T37	Premise 3262 3285	technology has advanced
+R5	Support Arg1:T37 Arg2:T17	
+T38	Premise 4961 4992	technology is used in education
+R6	Attack Arg1:T38 Arg2:T24	
+T31	Premise 6023 6070	it is important as technology is still evolving
+R7	Support Arg1:T31 Arg2:T30	

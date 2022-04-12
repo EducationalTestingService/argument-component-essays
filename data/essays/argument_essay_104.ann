@@ -1,0 +1,20 @@
+T1	Claim 81 133	It was not the Captain 's fault that the ship sank .
+T2	Claim 195 247	visibility is low that it is not necessary to zigzag
+T3	Claim 316 347	It was not the captain 's fault
+T4	Claim 350 411	zigzagging was not necessary when the visibility was so low .
+T5	Claim 450 477	captain McVay is innocent .
+T6	Claim 745 759	zigzag anymore
+T8	Claim 1150 1247	all of the blame was put on captains McVay 's hands , and it haunted him till he killed himself .
+T9	Claim 1260 1293	it was not captain McVay 's fault
+T10	Claim 1389 1448	they should have had enough life jackets for every sailor .
+T11	Claim 2094 2164	the ship had enough life jackets their would of had been less deaths .
+T12	Claim 2169 2254	more people knew about the mission it would not of took them four days to find them .
+T14	Claim 3056 3109	It is not captain McVay 's fault that the ship sank .
+T15	Claim 3137 3216	it is entirely Captain McVay 's fault that the ship was spotted and destroyed .
+T16	Claim 3220 3330	Captain McVay had been zigzagging the chance of his ship being hit by the torpedo would be greatly decreased .
+T17	Claim 3331 3418	That is wrong because , the visibility was low so it was not worth the time to zigzag .
+T7	Premise 770 794	their was low visibility
+R1	Support Arg1:T7 Arg2:T6	
+T13	Claim 868 918	Navy secretary James Forrestal lifted the sentence
+T18	Premise 930 983	Captain McVay 's bravery in combat before the sinking
+R2	Support Arg1:T18 Arg2:T13	

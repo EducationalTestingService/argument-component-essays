@@ -1,0 +1,14 @@
+T2	Claim 58 85	Sometimes we must interfere
+T3	Claim 88 212	When human lives are endangered , when human dignity is in jeopardy , national borders and sensitivities become irrelevant .
+T4	Claim 252 370	countries around the world should always be there to fight for each other when there is persecution in another country
+T7	Claim 378 477	a country should always take action if there is another part of the world that is facing oppression
+T8	Claim 480 525	Wiesel 's statement is both right and wrong .
+T9	Claim 526 572	Most people would automatically agree with him
+T10	Claim 635 764	giving a homeless person your spare change is a lot easier for people to do than it is for a whole country to fight for another .
+T12	Claim 765 826	Persecution is a horrible thing that should always be stopped
+T13	Claim 833 918	interfering with foreign affairs is not always the safest thing for a country to do .
+T14	Claim 1037 1106	at times it has been for the better , but other times for the worse .
+T15	Claim 1107 1188	It is expected of a country to interfere if it is beneficial to everyone involved
+T16	Claim 1198 1327	interfering will hurt the country trying to help , they ca n't be expected to risk their security for another country 's safety .
+T18	Premise 581 628	the idea of helping others is always encouraged
+R1	Support Arg1:T18 Arg2:T9

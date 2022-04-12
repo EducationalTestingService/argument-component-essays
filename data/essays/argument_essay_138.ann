@@ -1,0 +1,44 @@
+T1	Claim 166 228	getting angry at a videogame can help with stress in real life
+T2	Claim 231 276	Violence in video games do not cause violence
+T3	Claim 291 337	Video game violence can help violence decrease
+T4	Claim 338 370	video games have health benefits
+T5	Claim 340 372	video games have health benefits
+T6	Claim 379 426	Violent video games do not cause mass shootings
+T7	Claim 459 500	violent video games do not cause violence
+T8	Claim 504 566	Violence in videogames can help decrease violence in real life
+T9	Claim 619 702	Boys use videogames to cope with real life annoying things such as stress and anger
+T10	Claim 788 867	This can young children with anger and stress and reduce their violent outcomes
+T11	Claim 898 944	violent video games help me forget my problems
+T12	Claim 969 1018	violent video games help them get their anger out
+T13	Claim 1021 1132	Again violent video games help people who have a tendency with anger to calm down and not have violent outburst
+T14	Claim 1278 1338	Violence in video games helps teach morals not to be violent
+T15	Claim 1342 1429	Playing video games have health benefits which will help with violence and learn skills
+T16	Claim 1599 1682	those type of games with constantly changing environment that require intense focus
+T17	Claim 1685 1746	Video games can help with disabilities and not cause violence
+T18	Claim 1749 1792	Video games are a great source of education
+T19	Claim 1795 1860	Many people use technology and video games to help children learn
+T20	Claim 1863 1943	Most of these skills they want them to achieve for cognitive and creative skills
+T21	Claim 1950 2010	having good cognitive skills can help prevent angry outcomes
+T22	Claim 2031 2075	video games can help with your social skills
+T23	Premise 2137 2176	you can talk with new people or friends
+R1	Support Arg1:T23 Arg2:T22	
+T24	Claim 2179 2241	These can allow to converse and maybe make new friends as well
+T25	Claim 2244 2307	Talking with people can help explain reasons of anger or stress
+T26	Claim 2312 2386	talking with somebody can be the number one way help with anger and stress
+T27	Claim 2406 2455	play violent video games can cause mass shootings
+T28	Claim 2495 2574	video games including guns and shooting are accounted for this kind of behavior
+T29	Claim 2713 2800	The presidents logic that people see violence and they put to a mass shooting is absurd
+T30	Claim 2828 2918	violence in video games is the main reason for these shootings is a terrible thing to show
+T31	Premise 2927 2970	so much research proves this claim is false
+R2	Support Arg1:T31 Arg2:T30	
+T32	Claim 3385 3431	violent video games do cause slight aggression
+T33	Claim 3438 3499	This does not connect to criminal things like a mass shooting
+T34	Claim 3502 3592	There is violence but not significant amount to effect in a ever changing way in real life
+T35	Claim 3610 3733	violence in video games will cause small amounts of anger but not too much to affect you permanently in real life situation
+T36	Claim 3736 3794	Mass shootings do not accor because of violent video games
+T37	Claim 3797 3833	Video games are healthy in some ways
+T38	Premise 3834 3913	it can help your learning skills , and some violent video games are educational
+R3	Support Arg1:T38 Arg2:T37	
+T39	Claim 3925 4021	videogames can decrease the amount of violence and stress in the real world with the video games
+T40	Premise 706 782	they are in their own world but distinct enough not to be led into real life
+R4	Support Arg1:T40 Arg2:T9	

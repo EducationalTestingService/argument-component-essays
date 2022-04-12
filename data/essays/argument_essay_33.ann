@@ -1,0 +1,58 @@
+T1	Claim 349 428	school started later , my time to help my family would decrease significantly .
+T3	Claim 429 475	I would n't be able to help as much as I can .
+T4	Claim 489 522	the school should n't start later
+T5	Claim 663 713	Schools should not change the start time in school
+T6	Claim 944 996	students have a busy schedule in and out of school .
+T7	Claim 1010 1052	schools should not change their start time
+T9	Claim 1102 1205	Students like George would have less time in the afternoons to complete their busy everyday schedules .
+T10	Claim 1206 1274	Things like homework would end up being rushed and finished poorly .
+T11	Claim 1483 1564	student - athletes or club members will have even less time for afternoon plans .
+T12	Claim 1589 1665	changing the school start time would affect some students more than others .
+T13	Claim 1669 1872	an athlete or club member already had a worked out schedule to fit all their needs or plans in the afternoon , reducing the time would cause some events or plans to cancel to make time for better needs .
+T16	Claim 1892 1934	schools should n't give start school later
+T17	Claim 2017 2057	School start time should remain the same
+T18	Claim 2310 2357	students can use their time however they want .
+T19	Claim 2380 2413	school should keep the start time
+T20	Claim 2422 2595	pushing the time later could encourage students to use their phones even more in the afternoon or at night if they can catch up the hours of sleep they miss in the morning .
+T22	Claim 2776 2861	students do not have a reason to wake up early they will go to sleep later at night .
+T24	Claim 2879 2956	pushing the start time can encourage a student 's choice in staying up late .
+T25	Claim 3078 3130	It is important for schools to keep their start time
+T26	Claim 3215 3259	The time school starts should not be changed
+T27	Claim 3520 3553	a school should not start later .
+T28	Claim 3565 3681	school starts later it will end later causing some students to stay up later in the night to finish their homework .
+T30	Claim 3682 3745	Which then would cause them to gain even less sleep than before
+T31	Claim 3748 3807	which could make a person irritable or affect their moods .
+T32	Claim 3808 3866	Students who get these effects may be rude to their family
+T33	Claim 3867 3926	which could cause some family problems within the household
+T34	Claim 4109 4155	delayed school - time can effect communities .
+T35	Claim 4156 4229	The Statement proves delaying school start time should not be processed .
+T36	Claim 4233 4380	school ended later then teens who provided childcare to younger siblings would not be present unless the entire district changed all school times .
+T38	Claim 4381 4423	Wich could then put an impact on parents .
+T39	Claim 4427 4560	a parent usually picks up their child in a schedule that works with their work hours then the schedule for parents must also change .
+T41	Claim 4561 4626	It is crucial schools do not change the beginning times of school
+T43	Claim 4724 4753	school should not begin later
+T44	Claim 4762 4804	doing so reduces afternoon activities time
+T45	Claim 566 604	students may use extra time negatively
+T46	Claim 4852 4911	families as well as communities could be impacted as well .
+T47	Claim 4912 4957	Students need the afternoon time after school
+T48	Claim 5052 5137	Keeping the start time could discourage students from staying up later in the night .
+T49	Claim 5142 5229	Without a changed start time in school families and communities would not be affected .
+T50	Claim 5242 5273	school should not begin later .
+T52	Premise 531 563	it reduces time in the afternoon
+R1	Support Arg1:T52 Arg2:T4
+T53	Premise 722 771	there would be less time for afternoon activities
+R2	Support Arg1:T53 Arg2:T5
+T54	Premise 1952 2013	would give the less necessary time to do afternoon activities
+R3	Support Arg1:T54 Arg2:T16
+T55	Premise 2066 2116	putting school later could affect students choices
+R4	Support Arg1:T55 Arg2:T17
+T56	Premise 3134 3211	students will not be encouraged to make negative choices with their rest time
+R5	Support Arg1:T56 Arg2:T25
+T57	Premise 3268 3304	pushing the time could affect others
+R6	Support Arg1:T57 Arg2:T26
+T58	Premise 3457 3493	most students do not get a full rest
+R7	Support Arg1:T58 Arg2:T27
+T59	Premise 4630 4704	families and communities can stick to their schedules and are not impacted
+R8	Support Arg1:T59 Arg2:T41
+T60	Premise 4971 5049	they can finish their homework properly and have the time for sports and clubs
+R9	Support Arg1:T60 Arg2:T47

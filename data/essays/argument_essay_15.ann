@@ -1,0 +1,23 @@
+T1	Claim 59 72	War is needed
+T2	Claim 120 137	war is inevitable
+T3	Claim 276 398	the people do n't think that they are being treated fairly , then they have the right to fight for what they feel is right
+T4	Claim 671 741	War is needed for nationalism , more territory and for personal rights
+T5	Claim 1603 1741	someone or something really wants something and thinks that they deserve that then they should fight and show that they deserve that thing
+T6	Claim 4000 4033	War is not needed for any of that
+T8	Claim 4242 4280	War is needed and used for many things
+T9	Premise 81 115	talking works to an certain extent
+R1	Support Arg1:T9 Arg2:T1
+T10	Premise 144 182	talking and socializing only slows war
+R2	Support Arg1:T10 Arg2:T2
+T11	Premise 185 270	War is used to find out who deserves more territory , personal rights and the Revenge
+R3	Support Arg1:T11 Arg2:T3
+T12	Premise 779 807	people being treated equally
+R4	Support Arg1:T12 Arg2:T4
+T13	Premise 1581 1597	territorial gain
+R5	Support Arg1:T13 Arg2:T4
+T14	Premise 2862 2899	Territorial gain is a big part of war
+R6	Support Arg1:T14 Arg2:T5
+T15	Premise 4039 4125	Matured people we can socialize , and get through the problems that us as a whole face
+R7	Support Arg1:T15 Arg2:T6
+T16	Premise 4184 4217	Talking works to a certain extent
+R8	Attack Arg1:T16 Arg2:T8

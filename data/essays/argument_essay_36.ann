@@ -1,0 +1,27 @@
+T1	Claim 111 191	The army could have taken the precautions to ensure the safety of the passengers
+T2	Claim 214 371	The marines that served on the U.S.S indianapolis as it went down could have been saved if the army had kept communication with the ship during its journey .
+T3	Claim 372 552	The U.S.S indianapolis would have been able to save hundreds of passengers from death by having a supporter ship trailing along it to ensure the safety of the ship and passengers .
+T4	Claim 673 731	they were not doing a zig zag pattern to avoid torpedoes .
+T5	Claim 779 879	how the U.S.S indianapolis could have been prevented if the army had taken the correct precautions .
+T6	Claim 881 1000	The U.S.S indianapolis could have been prevented by having a ship trail behind to ensure the safety of the passengers .
+T7	Claim 1034 1062	it was not possible to do so
+T8	Claim 1124 1230	 the secrecy of the mission the following ship would have helped to give protection the marines on board .
+T9	Claim 1231 1369	The following ship would have been able to pick up the marines that were able to get into the water and save them from the shark attacks .
+T10	Claim 1370 1548	The following ship could have picked up the main cargo if the big ship had been attacked before the arrival to the army base the following ship could have completed the mission .
+T11	Claim 1549 1656	The army should have given the ship a following ship as they went to the base after dropping off the bomb .
+T12	Claim 1657 1755	The ship would have been able to ensure the protection of the bomb if the main ship was attacked .
+T13	Claim 1756 1849	The following ship would have been able to save many from loved and lost family and friends .
+T14	Claim 1861 1873	many critics
+T15	Claim 1899 1980	 many families that had a relative survive and lose a part of their personality .
+T16	Claim 2107 2157	The army failed to keep the location of the ship .
+T17	Claim 2158 2176	The navy failed to
+T18	Claim 2188 2237	 the indianapolis was overdue at its port of call
+T20	Claim 2388 2456	in some cases tracking the object instead of the ship can be helpful
+T21	Premise 2464 2501	 the army can fulfill their mission .
+T22	Claim 2680 2773	they could have not put the tracker on the ship because of he secreasy of the ships mission .
+T23	Claim 2784 2889	many reasons why the U.S.S indianapolis tragedy should n't have happened and this is another reason why .
+T24	Premise 556 618	the ships tragedy could have been prevented by various reasons
+R1	Support Arg1:T24 Arg2:T3
+T25	Premise 1074 1108	the secret mission the crew was on
+R2	Support Arg1:T25 Arg2:T7
+R3	Support Arg1:T21 Arg2:T20

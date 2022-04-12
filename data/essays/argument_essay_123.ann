@@ -1,0 +1,31 @@
+T1	Claim 122 176	social media overuse is bad for teenagers and children
+T2	Claim 865 899	social media is harmful to society
+T3	Claim 903 939	Social media can affect school grade
+T4	Claim 1413 1492	kids are on their phones while studying more than likely their grades will drop
+T5	Claim 1509 1599	people with a passing grade can drop to a failing grade just because of social media usage
+T6	Claim 1624 1683	phones are not near the kids when they are doing their work
+T7	Claim 1776 1856	it is near them kids constantly check social media which can harm their grades .
+T8	Claim 1872 1938	social media is harmful and has a tremendous effect on kids grades
+T9	Claim 2097 2152	sleeping issues can result from overuse of social media
+T10	Claim 2273 2364	the more time kids spent on social media the more likely they would develop sleeping issues
+T11	Claim 2720 2811	the more time people spent on social media , the more problems with sleeping they will have
+T12	Claim 2827 2903	kids have problems with sleeping , then their grades can be affected as well
+T13	Claim 2932 3009	kids do not use their phone right before bed their sleep will not be affected
+T14	Claim 3132 3168	This could cause the sleeping issues
+T15	Claim 3188 3258	constantly being on cell phones before bed can cause sleeping problems
+T16	Claim 3295 3352	to get good grades and get a good night sleep every night
+T17	Claim 3358 3426	using social media every day for multiple hours is not the best idea
+T18	Claim 3464 3479	grades can drop
+T19	Claim 3484 3512	sleeping problems can appear
+T20	Premise 180 218	parents are wondering if it is healthy
+R1	Support Arg1:T20 Arg2:T1
+T21	Premise 795 862	social media can affect school grades and can cause sleeping issues
+R2	Support Arg1:T21 Arg2:T2
+T22	Premise 944 1002	people may want to consider how much time they spend on it
+R3	Support Arg1:T22 Arg2:T3
+T23	Premise 1706 1736	kids can not leave their phone
+R4	Attack Arg1:T23 Arg2:T6
+T24	Premise 1951 2027	kids that want to do well in school should not constantly be on social media
+R5	Support Arg1:T24 Arg2:T8
+T25	Premise 3069 3129	kids find a way to look at their phone before they go to bed
+R6	Support Arg1:T25 Arg2:T14

@@ -1,0 +1,16 @@
+T1	Claim 524 590	This could result in forgetfulness , depression , and bad grades .
+T2	Claim 609 648	homework is more harmful than helpful .
+T3	Claim 938 1052	This can cause the students to stay up until one or two in the morning doing their homework , bad grades at school
+T4	Claim 1109 1170	Teens and even kids can be stressed out because of homework .
+T5	Claim 1332 1364	That does n't sound good to me .
+T6	Claim 1413 1466	You can be up all night worrying about homework too .
+T7	Claim 1467 1533	That can result in drowsiness , unkind behavior , and bad grades .
+T8	Claim 1904 2036	your scared to go up to the teacher and ask for help because you are drowning in homework , just through your homework off a cliff .
+T9	Claim 2053 2060	do that
+T10	Claim 2073 2143	ask your teacher if they think they are giving out too much homework .
+T11	Premise 495 521	the stay up doing homework
+R1	Support Arg1:T11 Arg2:T1
+T12	Premise 650 691	Many students have bad sleeping schedules
+R2	Support Arg1:T12 Arg2:T2
+T13	Premise 1061 1105	they are tired , making kids unhappy or rude
+R3	Support Arg1:T13 Arg2:T3

@@ -1,0 +1,7 @@
+T1	Claim 33 72	Schools must allow cell phones in class
+T2	Claim 142 211	Allowing student phones will have many benefits at their fingertips .
+T3	Claim 687 741	this would imencly help students study and do research
+T4	Premise 81 139	they are a tool to help students keep on track of learning
+R1	Support Arg1:T4 Arg2:T1
+T5	Premise 212 295	Cell phones , tablets , and other devices open up a world to access facts and ideas
+R2	Support Arg1:T5 Arg2:T2

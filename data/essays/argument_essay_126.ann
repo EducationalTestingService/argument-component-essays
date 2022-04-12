@@ -1,0 +1,27 @@
+T1	Claim 125 184	People do not understand what they gave up going into war .
+T2	Claim 328 355	they must be treated better
+T3	Claim 653 734	Veterans must be treated with respect before , during , and after their service .
+T4	Claim 798 827	veterans were forced into war
+T5	Claim 1289 1375	America would not be how it is today if those veterans did not fight for our country .
+T6	Claim 1546 1599	Veterans have given up their lives for this country .
+T7	Claim 1919 1970	our safety and freedom came first before anything .
+T8	Claim 2235 2319	they should have more than just a holiday , and special sales at Walmart and Kohls .
+T9	Claim 2399 2485	they may later develop symptoms of infectious diseases that were contracted overseas .
+T10	Claim 2486 2524	Veterans can get a disease called PTSD
+T11	Claim 2662 2748	PTSD can last for three months , six months , years , or even the rest of their life .
+T12	Claim 2749 2819	PTSD is common for veterans that have been exposed to war and combat .
+T13	Claim 2855 2951	Symptoms may include nightmares or unwanted memories of the truma , depression , anxiety , etc .
+T14	Claim 2952 3022	PTSD can be dangerous to other people and to the person who has PTSD .
+T15	Claim 3023 3082	Veterans also can have many other diseases ( UnityPoint ) .
+T16	Claim 3383 3425	That 's why we need to show that we care .
+T17	Claim 3427 3495	Veterans should be treated with so much more respect than they get .
+T18	Claim 3496 3533	They did n't all join for our country
+T19	Claim 3536 3572	some just wanted to play with guns .
+T20	Claim 3761 3832	No only a hero will be courageous enough to give up everything for us .
+T21	Claim 3833 3891	Everyday veterans are still being judged and made fun of .
+T22	Claim 3892 3918	This must come to an end .
+T23	Claim 3919 3967	They must be treated with kindness and respect .
+T25	Premise 736 772	Veterans have fought for our country
+R2	Support Arg1:T25 Arg2:T3
+T24	Premise 364 427	they fought for our country , they sacrificed everything for us
+R1	Support Arg1:T24 Arg2:T2	

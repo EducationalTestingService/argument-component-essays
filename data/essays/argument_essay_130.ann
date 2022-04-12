@@ -1,0 +1,13 @@
+T1	Claim 1261 1331	African Americans had to be very safe when engaging in public activity
+T2	Claim 1336 1387	any white person would try and put them in prison .
+T3	Claim 1392 1428	race did n't just shape prisons then
+T4	Claim 1431 1498	even now race defines every aspect of our criminal justice system .
+T5	Claim 1620 1709	Discrimination appears where you may not think it would , and for all the wrong reasons .
+T6	Claim 2025 2114	People clearly needed some sort of way to punish people and still get something out of it
+T7	Claim 2885 2949	violence was a strong suit when it came to punishing prisoners .
+T8	Premise 1499 1607	African - American men between the ages of 20 and 39 account for nearly one third of all sentenced prisoners
+R1	Support Arg1:T8 Arg2:T5
+T9	Premise 2120 2181	they created the chain gangs for their own purposes and needs
+R2	Support Arg1:T9 Arg2:T6
+T10	Premise 2703 2850	Brutalities , corporal punishments ( beatings with a leather strap , thumpings with rifle butts and clubs ) and outright torture , were commonplace
+R3	Support Arg1:T10 Arg2:T7

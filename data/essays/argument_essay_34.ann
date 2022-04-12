@@ -1,0 +1,26 @@
+T1	Claim 433 471	Capital punishment should be legalized
+T2	Claim 608 680	The death penalty will intimidate criminals into not committing crimes .
+T3	Claim 971 1083	criminals do care about the punishment they receive and consider that especially if carrying out a planned crime
+T4	Claim 1097 1186	criminals will plan a crime such as this one and know the potential consequences going in
+T5	Claim 1192 1294	the death penalty was legal criminals would have to think about the punishment when planning a crime .
+T6	Claim 1303 1448	the death penalty would prevent the chance of a parole board deciding to let a criminal go after serving a potion of the time they were sentenced
+T7	Claim 2037 2111	the death penalty was legalized Riemann would have been put on death row .
+T8	Claim 2236 2287	the death penalty goes against the eighth amendment
+T10	Claim 2518 2540	it should be abolished
+T11	Claim 2569 2611	the death penalty breaks the 8th amendment
+T12	Claim 2824 2944	as long as there are horrific murders , there should be a death penalty to appropriately and justly punish the criminals
+T13	Claim 3165 3225	capital punishment and the death penalty should be legalized
+T14	Claim 3492 3537	Killers should not be allowed a second chance
+T15	Claim 3542 3575	now is the time to do something .
+T16	Premise 333 430	cold - blooded killers have had a chance of being set free by a governor or parole board later on
+R1	Support Arg1:T16 Arg2:T1
+T17	Premise 1962 2015	he was let free by a parole board just 20 years later
+R2	Support Arg1:T17 Arg2:T7
+T18	Premise 774 952	Canadian Dmitry Smirnov followed his ex - girlfriend around and checked to see if the state that she lived in had the death penalty before brutally murdering her in a parking lot
+R3	Support Arg1:T18 Arg2:T3
+T19	Premise 2462 2510	putting someone to death violates this amendment
+R4	Support Arg1:T19 Arg2:T10
+T20	Premise 2631 2722	the people who are on death row more than likely have taken the life of an innocent citizen
+R5	Attack Arg1:T20 Arg2:T11
+T21	Premise 578 604	bring criminals to justice
+R6	Support Arg1:T21 Arg2:T13

@@ -1,0 +1,88 @@
+T1	Claim 30 90	Each year the shark population declines all around the world
+T2	Claim 94 127	 many reasons follow up to that .
+T4	Claim 211 240	sharks have a lot to live for
+T5	Claim 244 306	 they actually help with a lot of things like overpopulation .
+T6	Claim 393 424	sharks may be natural predators
+T7	Claim 544 568	Sharks are not murderers
+T8	Claim 667 698	Sharks keep the ocean healthy .
+T9	Claim 699 727	Apex predators are important
+T10	Claim 843 947	as apex predators sharks play an important role in the ecosystem by maintaining the species below them .
+T11	Claim 972 1039	without sharks our ecosystem would overpopulate with many species .
+T12	Claim 1084 1180	they are at the top of the food chain meaning they do more in the ecosystem than a normal fish .
+T13	Claim 1243 1327	sharks play an important role in the oceans in a way that an average fish does not .
+T14	Claim 1328 1394	Sharks are at the top of the food chain in virtually every ocean .
+T15	Claim 1493 1546	Clearly sharks are not murderers for bad in the world
+T16	Claim 1546 1580	 they are here for a good reason .
+T18	Claim 1678 1715	Sharks help maintain native species .
+T19	Claim 1716 1777	Native species are vital for our ecosystem to keep thriving .
+T20	Claim 1822 1901	the removal of an apex predator will result in an increase of smaller predators
+T21	Claim 1966 2076	the more people think sharks are killers the more humans actually are killers which messes up the food chain .
+T22	Claim 2077 2159	Without sharks our smaller species would increase rapidly with no control system .
+T23	Claim 2520 2594	shark population decreasing will lead to smaller species dying off quickly
+T24	Claim 2598 2638	 that will not be good for the ecosystem
+T26	Claim 2840 2882	Sharks help diminish diseases in the ocean
+T27	Claim 3363 3438	without our apex predators in general humans would have a lot of diseases .
+T28	Claim 3439 3517	Balancing our species is important in order to keep our Earth clean and safe .
+T29	Claim 3701 3752	without a balance the ecosystem would be off course
+T30	Claim 3756 3784	 it would not stay healthy .
+T32	Claim 4095 4115	sharks are murderers
+T33	Claim 4178 4225	People may die every year from shark encounters
+T34	Claim 4225 4341	 but deaths by sharks hold a low percentage of deaths each year and the positives of sharks outweigh the negatives .
+T35	Claim 4429 4502	humans have to accept the way they live instead of changing it for them .
+T3	Premise 429 491	really they help the human population more than they ruin it .
+R1	Attack Arg1:T3 Arg2:T6
+T25	Premise 577 663	they help diminish diseases maintain native species and they help keep the ocean clean
+R2	Support Arg1:T25 Arg2:T7
+T31	Premise 736 804	they help diminish diseases and keep them from spreading to humans .
+R3	Support Arg1:T31 Arg2:T9
+T36	Premise 2647 2744	a lot of the smaller species help keep the ocean clean healthy and the native species healthier .
+R4	Support Arg1:T36 Arg2:T24
+T37	Premise 2790 2836	they help maintain the oceans ' native species
+T38	Claim 159 183	sharks are not murderers
+R5	Support Arg1:T37 Arg2:T38
+T39	Premise 4124 4177	people die every year from shark - related injuries .
+R6	Support Arg1:T39 Arg2:T32
+T17	Premise 431 491	really they help the human population more than they ruin it
+R7	Support Arg1:T17 Arg2:T6	
+T40	Claim 673 702	Sharks keep the ocean healthy
+T41	Claim 705 733	Apex predators are important
+T42	Premise 742 808	they help diminish diseases and keep them from spreading to humans
+R8	Support Arg1:T42 Arg2:T41	
+T43	Claim 855 959	as apex predators , sharks play an important role in the ecosystem by maintaining the species below them
+T44	Claim 986 1051	without sharks our ecosystem would overpopulate with many species
+T45	Claim 1098 1192	they are at the top of the food chain meaning they do more in the ecosystem than a normal fish
+T46	Claim 1265 1347	sharks play an important role in the oceans in a way that an average fish does not
+T47	Claim 1350 1414	Sharks are at the top of the food chain in virtually every ocean
+T48	Claim 1626 1650	sharks are not murderers
+T49	Premise 1659 1700	they help maintain the natural food chain
+R9	Support Arg1:T49 Arg2:T48	
+T50	Claim 1706 1739	arks help maintain native species
+T51	Claim 1742 1801	Native species are vital for our ecosystem to keep thriving
+T52	Claim 1854 1933	the removal of an apex predator will result in an increase of smaller predators
+T53	Claim 2000 2108	the more people think sharks are killers the more humans actually are killers which messes up the food chain
+T54	Claim 2111 2193	Without sharks , our smaller species would increase rapidly with no control system
+T55	Claim 2342 2546	a major decrease in shark population -- or even extinction -- could trigger things like out - of - control algae or the extinction of smaller animals such as scallops rely on sharks to eat their predators
+T56	Premise 2288 2339	sharks play a vital role in the ocean 's food chain
+R10	Support Arg1:T56 Arg2:T55	
+T57	Claim 2566 2640	shark population decreasing will lead to smaller species dying off quickly
+T58	Claim 2645 2684	that will not be good for the ecosystem
+T59	Premise 2693 2790	a lot of the smaller species help keep the ocean clean , healthy and the native species healthier
+R11	Support Arg1:T59 Arg2:T58	
+T60	Claim 2793 2829	This proves sharks are not murderers
+T61	Premise 2838 2884	they help maintain the oceans ' native species
+R12	Support Arg1:T61 Arg2:T60	
+T62	Claim 2888 2930	Sharks help diminish diseases in the ocean
+T63	Claim 2970 3102	Without sharks all the sick and weak species spread the diseases they are dealing with to other fish which eventually lead to humans
+T64	Claim 3501 3577	Balancing our species is important in order to keep our Earth clean and safe
+T65	Claim 3423 3498	without our apex predators in general , humans would have a lot of diseases
+T66	Claim 3777 3828	without a balance the ecosystem would be off course
+T67	Claim 3833 3858	it would not stay healthy
+T68	Claim 4260 4307	People may die every year from shark encounters
+T69	Claim 4312 4421	deaths by sharks hold a low percentage of deaths each year and the positives of sharks outweigh the negatives
+T70	Claim 4513 4584	humans have to accept the way they live instead of changing it for them
+T71	Claim 546 570	Sharks are not murderers
+T72	Premise 579 669	they help diminish diseases , maintain native species , and they help keep the ocean clean
+R13	Support Arg1:T72 Arg2:T71	
+T73	Claim 4157 4197	Some people believe sharks are murderers
+T74	Premise 4206 4257	people die every year from shark - related injuries
+R14	Support Arg1:T74 Arg2:T73	

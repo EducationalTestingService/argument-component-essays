@@ -1,0 +1,23 @@
+T1	Claim 432 456	iPhone 's are the better
+T3	Claim 943 972	iPhones are the better phones
+T4	Claim 1069 1120	iPhones are much simpler to configure than androids
+T5	Claim 1793 1862	Android includes a better customizability that iPhones do not offer .
+T6	Claim 3252 3269	buying an android
+T7	Claim 3602 3630	spend a fortune on a phone .
+T8	Claim 3706 3779	it is much cheaper it is probably a lot slower and not the best quality .
+T9	Claim 3795 3828	the iphone is worth the price due
+T10	Claim 4313 4364	it is a good reason to spend a lot money on a phone
+T11	Premise 480 496	i am one of them
+R1	Support Arg1:T11 Arg2:T2
+T12	Premise 981 1050	they are simpler to use , have better software , and have better apps
+R2	Support Arg1:T12 Arg2:T3
+T13	Premise 1201 1282	you also get the option of uninstalling a few pre - installed system applications
+R3	Support Arg1:T13 Arg2:T4
+T14	Premise 3270 3303	being the cheap cost of the phone
+R4	Support Arg1:T14 Arg2:T6
+T15	Premise 3306 3397	To support , there are more than half a dozen good Android phones that cost less than $ 250
+R5	Support Arg1:T15 Arg2:T7
+T16	Premise 3832 3875	the much better software and better quality
+R6	Support Arg1:T16 Arg2:T9
+T17	Premise 4373 4471	you want the best quality of a phone and you want fast software without any crashing and bloatware
+R7	Support Arg1:T17 Arg2:T10

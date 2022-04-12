@@ -1,0 +1,33 @@
+T1	Claim 179 256	a superior entity chose the whole world 's course and this can not be changed
+T3	Claim 325 399	to live if no matter how intense you try , your existence will be the same
+T4	Claim 849 896	it 's not childish it 's * about * childishness
+T5	Claim 901 924	 the play is compelling
+T6	Claim 1052 1131	Personal choice has a greater impact on the characteristics in Romeo and Juliet
+T7	Claim 1132 1289	since most of their difficulties were a consequence of their actions , they had the power to solve their problems , and they were in control of their lives .
+T8	Claim 1328 1400	the situations of the play were a result of the characters ' decisions .
+T9	Claim 1509 1658	What readers should understand is that Juliet and Romeo asked the Nurse and Friar Lawrence to help them become husband and wife , and they accepted .
+T10	Claim 2260 2388	any man who marries the child she raised would be a lucky man since Juliet 's family , the Capulet , possessed a lot of riches .
+T11	Claim 2916 2959	personal choice drove them to their death .
+T12	Claim 3759 3822	they had the idea that if they died , they would save the day .
+T13	Claim 3933 4041	they were immature and this induced them to believe that they had no other option , but to kill themselves .
+T15	Claim 4315 4328	this position
+T16	Claim 5085 5154	their innocence and poor maturity was not the reason of their death .
+T17	Claim 5155 5172	It was their fate
+T18	Claim 5287 5309	This could be possible
+T19	Claim 5437 5510	personal choice was the main reason of the principal concepts of the play
+T20	Claim 5877 5926	they were in control of their actions and lives .
+T21	Claim 5944 6018	decisions and actions of the characters of the play defined the situations
+T22	Claim 6495 6568	they may have achieved their sacred purpose of bringing peace to Verona .
+T23	Claim 6569 6631	They were not controlled by something greater than life itself
+T2	Premise 933 967	it explains maturity and innocence
+R1	Support Arg1:T2 Arg2:T5	
+T14	Premise 5181 5284	they were the only hope for their natal city and for the enemy houses to be able to coexist efficiently
+R2	Support Arg1:T14 Arg2:T17	
+T24	Premise 5318 5368	their death unified and brought peace for the city
+R3	Support Arg1:T24 Arg2:T18	
+T25	Premise 5519 5623	they demonstrated that their actions were controlled by themselves and their emotions and not their fate
+R4	Support Arg1:T25 Arg2:T19	
+T26	Premise 6027 6056	they were facing consequences
+R5	Support Arg1:T26 Arg2:T21	
+T27	Premise 6642 6709	their actions demonstrated that they were in control of their lives
+R6	Support Arg1:T27 Arg2:T23	

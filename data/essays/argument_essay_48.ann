@@ -1,0 +1,53 @@
+T48	Claim 139 170	you will a couple minutes later
+T49	Claim 173 217	Technology is who we are in this day and age
+T50	Claim 224 274	there is almost no avoiding it as it is everywhere
+T51	Claim 277 393	Social media is one of the great ways in which all people interact with each other digitally , especially with teens
+T52	Claim 398 445	our need to feel popular and liked every minute
+T53	Claim 448 534	Most teens tend to use platforms such as Snapchat , Instagram , Twitter , and iMessage
+T54	Claim 537 708	Snapchat and Instagram are mainly used for showing what you are currently doing or what you were doing by using pictures and videos , while they do involve regular texting
+T55	Claim 835 877	social media is negatively affecting teens
+T56	Claim 889 935	social media can cause stalking and insecurity
+T57	Claim 963 994	social media is great for teens
+T58	Premise 1003 1054	they are able to explore their own interests freely
+R7	Support Arg1:T58 Arg2:T57	
+T59	Claim 1057 1106	In recent years , technology has greatly improved
+T60	Claim 1111 1161	ways to interact with each other has become easier
+T61	Claim 1164 1214	Ultimately , social media positively affects teens
+T62	Premise 1223 1322	they are able to gain access to resources and collaborate with others and create strong friendships
+R8	Support Arg1:T62 Arg2:T61	
+T63	Claim 1388 1462	collaboration is made millions of times easier by social media interaction
+T64	Claim 2189 2301	there is a huge risk of teens running into bad people - like stalkers and predators - during their collaboration
+T65	Claim 2304 2384	These people could ruin the teens future or harm the teen mentally or physically
+T66	Claim 2415 2480	it is extremely easy to avoid as many sites offer safety features
+T67	Claim 2753 2894	These safety features make collaboration safe and easy for all teens unless they were to go out of their way to make their environment unsafe
+T68	Claim 2897 2952	Social media is n't just a great tool for collaboration
+T69	Claim 2955 3007	it is also a great platform to get to know people on
+T70	Claim 3011 3047	Friends are what get us through life
+T71	Claim 3126 3200	social media is great for strengthening friendships and making new friends
+T72	Claim 3373 3470	Teens are able to do do much from making plans to go ice skating , to just texting and having fun
+T73	Claim 3634 3698	Some say that social media causes jealousy and friendship fights
+T74	Claim 3848 3917	this is bound to happen as most great things have a down side to them
+T75	Claim 3924 3952	social media is not to blame
+T76	Claim 3955 4038	Social media is just a platform to allow individuals to post and see what they want
+T77	Claim 4041 4085	that friend did n't need to post about party
+T78	Claim 4088 4137	nor did the other friend need to look at the post
+T79	Claim 4164 4193	it is not dangerous in itself
+T80	Claim 4196 4243	it is only dangerous if you let it be dangerous
+T81	Claim 4246 4298	social media is not to blame for someone 's activity
+T82	Claim 4304 4456	you do n't allow social media to be dangerous , it can be fantastic as you are able to chat , help , and get together with your friends easier than ever
+T83	Claim 4469 4578	social media greatly improves teens friendships by allowing them to get together and do activities as a group
+T84	Claim 4582 4696	Social media is extremely beneficial for teens as it allows them to collaborate with others and create friendships
+T85	Claim 4699 4804	Snapchat allows for collaboration with anyone around the world , which can lead to a wide spread of ideas
+T86	Claim 4936 5004	Social media can strengthen friendships and can make new friendships
+T87	Premise 5013 5069	they are able to plan what they would like to do at ease
+R9	Support Arg1:T87 Arg2:T86	
+T88	Claim 5158 5184	that the site is dangerous
+T89	Premise 5193 5251	people can follow you at random and see what you are doing
+R10	Support Arg1:T89 Arg2:T88	
+T90	Claim 5268 5281	this is wrong
+T91	Premise 5287 5367	safety features allow you to block people before they can see anything about you
+R11	Support Arg1:T91 Arg2:T90	
+T92	Claim 5386 5461	social media platforms are n't just beneficial for teens,  but for everyone
+T93	Claim 5468 5508	there is little to no danger to use them
+T94	Premise 3725 3835	someone might post a picture of themselves having a great time at a party that their friend was n't invited to
+R12	Support Arg1:T94 Arg2:T73	

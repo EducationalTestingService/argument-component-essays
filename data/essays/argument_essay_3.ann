@@ -1,0 +1,27 @@
+T1	Claim 188 289	a shark sees something that looks anything like an animal they will probably try to take a bite of it
+T2	Claim 292 361	Sharks might feel threatened if there are some other creatures around
+T3	Claim 364 401	Sharks do not like the taste of human
+T4	Claim 409 453	they are starving to death they will eat one
+T5	Claim 562 584	Sharks are not murders
+T6	Claim 702 788	sharks see a good sized or even a small animal they might just try to eat it for lunch
+T7	Claim 865 931	human swimming in the sea could look similar to a seal for a shark
+T8	Claim 1226 1248	Sharks are not killers
+T9	Claim 1298 1334	Sharks do not see humans as harmless
+T10	Claim 1996 2027	Sharks are not the real murders
+T12	Claim 2824 2902	sharks were not hunted for soup and other used , they would be more prosperous
+T13	Premise 26 70	Sharks are considered cold - blooded killers
+R1	Support Arg1:T13 Arg2:T1
+T14	Premise 587 632	their instinct is to kill and feed themselves
+R2	Support Arg1:T14 Arg2:T5
+T15	Premise 791 838	Just about any animal can be a meal for a shark
+R3	Support Arg1:T15 Arg2:T6
+T16	Premise 934 1023	Sharks , under the right conditions , might attack a human looking like an unknown figure
+R4	Support Arg1:T16 Arg2:T7
+T17	Premise 1251 1294	they have DNA to kill and feed on predators
+R5	Support Arg1:T17 Arg2:T8
+T18	Premise 1669 1749	When a shark is threatened by a something it will attack whatever threatening it
+R6	Support Arg1:T18 Arg2:T9
+T19	Premise 1953 1992	We kill sharks more than sharks kill us
+R7	Support Arg1:T19 Arg2:T10
+T20	Premise 2905 2937	People eat sharks in restaurants
+R8	Support Arg1:T20 Arg2:T12

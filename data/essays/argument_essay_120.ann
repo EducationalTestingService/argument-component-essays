@@ -1,0 +1,34 @@
+T1	Claim 281 312	Only having one parent is tough
+T2	Claim 459 570	Not having the guardian around that you bond well with can sometimes make children very unhappy and depressed .
+T3	Claim 592 709	they have a younger child and they have no other help they can not go to work , If no one is to stay and watch them .
+T4	Claim 714 788	to stay caught up on bills , food , and other child needs they must work .
+T5	Claim 789 854	Military families need extra help to maintain their daily needs .
+T6	Claim 855 948	All military families should get extra help with daycare , mental help , and financial help .
+T7	Claim 950 1013	Every single military parent needs to have extra daycare help .
+T8	Claim 1098 1190	nobody can watch their kids while the work they will not be able to support their families .
+T10	Claim 1708 1864	parents are working without worrying about their children , then they will be able to get lots of things done so they can earn money to support the family .
+T12	Claim 1865 1955	Because of this evidence , all military families need daycare help to support themselves .
+T13	Claim 2056 2103	someone is that sad they can do terrible things
+T15	Claim 2107 2163	they have no way to deal with the pain like counseling .
+T16	Claim 2298 2413	recognize the symptoms of depression and get the support and resources you need to get help for you or your Soldier
+T17	Claim 2838 2920	the child loses the parent they bond well with then they can need some mental help
+T19	Claim 2987 3104	we can change this then teen suicides could go down and they will learn to better control their bottled up feelings .
+T20	Claim 3485 3616	If they have to move around a lot with their family then they need special help to pay for all of the houses they need to pay for .
+T21	Claim 3894 3990	Single parents can not maintain bills and food for their children if they have low paying jobs .
+T23	Claim 3991 4085	Therefore single military parents need higher pay to maintain monthly bills and weekly needs .
+T24	Claim 4087 4130	Military families should n't get extra help
+T25	Claim 4210 4293	They will not learn to support themselves without help from special organizations .
+T26	Claim 4304 4366	Military families will not rely on those special organizations
+T27	Claim 4551 4597	they will still be doing things without help .
+T28	Claim 4757 4785	this extra help is necessary
+T29	Claim 4863 4895	help them maintain their needs .
+T30	Premise 2164 2264	Clinical depression , however , can potentially lead to more serious issues such as death or suicide
+R1	Support Arg1:T30 Arg2:T16
+T31	Premise 2924 2981	they can learn the proper way to deal with their emotions
+R2	Support Arg1:T31 Arg2:T17
+T32	Premise 4139 4209	once they have it , they will rely on the extra help all of the time .
+R3	Support Arg1:T32 Arg2:T24
+T33	Premise 4375 4471	they are still working hard to pay for everything that the special organizations can not pay for
+R4	Support Arg1:T33 Arg2:T26
+T9	Premise 4710 4756	military families will not be taking advantage
+R5	Support Arg1:T9 Arg2:T28	

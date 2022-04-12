@@ -1,0 +1,61 @@
+T1	Claim 0 60	American soldiers are only doing what there are told to do .
+T2	Claim 80 149	they went overseas to fight for not only our country also our lives .
+T3	Claim 201 255	they struggled to and could n't support the families .
+T4	Claim 256 313	Sometimes they could n't even sleep at night friends died
+T5	Claim 379 426	They Need to be recognised for staying strong .
+T6	Claim 427 486	They are able to go through traumatic and stressful times .
+T7	Claim 520 590	Men and women all over the country have to say bye to their families .
+T8	Claim 591 677	Our american vets need to be respected for everything they have done for our country .
+T9	Claim 679 741	These militar people are only doing what they are told to do .
+T10	Claim 882 948	They had to fight for our country while fighting for their lives .
+T11	Claim 1034 1061	we have to respect our vets
+T12	Claim 1061 1103	 or america would practically be nothing .
+T13	Claim 1130 1139	I believe
+T14	Claim 1140 1177	America 's veterans should be honored
+T15	Claim 1305 1368	We should also honor those that were in the Navy or Air Force .
+T16	Claim 1458 1502	They also have had dangerous tasks in battle
+T17	Claim 1552 1627	This means that the vets on the ground need backup from the air sometimes .
+T18	Claim 1660 1709	They also had to protect our troops on the ground
+T19	Claim 1765 1794	We should honor all of them .
+T20	Claim 1811 1855	we also needed backup from the air and water
+T21	Claim 1867 1906	 we must support and respect our vets .
+T22	Claim 1907 1968	Military families have to deal with the absence of a parent .
+T23	Claim 1969 2051	Military Families face a number of challenges before during and after deployment .
+T24	Claim 2092 2157	the our military families are negatively affected by going to war
+T25	Claim 2157 2224	 effects of war can extend far beyond the deployed service member .
+T26	Claim 2225 2316	Children and families can struggle with changes resulting from an absent parent or spouse .
+T27	Claim 2332 2437	 things like loneliness panic financial difficulties and more that can occur after they return from war .
+T28	Claim 2461 2487	we must respect our vets .
+T29	Claim 2489 2522	We should respect our vets more .
+T30	Claim 2902 3008	no matter when or where you served they are equally important and should be treated better than they are .
+T31	Claim 3070 3104	we do not treat them well at all .
+T32	Claim 3121 3173	why should we respect them they just killed people .
+T33	Claim 3174 3196	These people are wrong
+T34	Premise 1186 1233	they have helped to keep freedom in our country
+R1	Support Arg1:T34 Arg2:T14
+T35	Claim 381 426	They Need to be recognised for staying strong
+T36	Claim 429 486	They are able to go through traumatic and stressful times
+T37	Claim 522 590	Men and women all over the country have to say bye to their families
+T38	Claim 593 677	Our american vets need to be respected for everything they have done for our country
+T39	Claim 681 741	These militar people are only doing what they are told to do
+T40	Claim 888 954	They had to fight for our country , while fighting for their lives
+T41	Claim 1042 1069	we have to respect our vets
+T42	Claim 1070 1109	or america would practically be nothing
+T43	Claim 1138 1185	I believe America 's veterans should be honored
+T44	Premise 1194 1241	they have helped to keep freedom in our country
+R2	Support Arg1:T44 Arg2:T43	
+T45	Claim 1313 1374	We should also honor those that were in the Navy or Air Force
+T46	Claim 1470 1563	They also have had dangerous tasks in battle , helping our country to defeat our many enemies
+T47	Claim 1566 1639	This means that the vets on the ground need backup from the air sometimes
+T48	Claim 1679 1728	They also had to protect our troops on the ground
+T49	Claim 1787 1814	We should honor all of them
+T50	Claim 1833 1877	we also needed backup from the air and water
+T51	Claim 1993 2077	Military Families face a number of challenges before , during , and after deployment
+T52	Claim 2126 2187	our military families are negatively affected by going to war
+T53	Claim 2191 2255	effects of war can extend far beyond the deployed service member
+T54	Claim 2258 2347	Children and families can struggle with changes resulting from an absent parent or spouse
+T55	Claim 2369 2475	things like loneliness , panic , financial difficulties and more that can occur after they return from war
+T56	Claim 2501 2525	we must respect our vets
+T57	Claim 2529 2560	We should respect our vets more
+T58	Claim 2960 3064	no matter when or where you served they are equally important and should be treated better than they are
+T59	Claim 3089 3160	our vets have gone through so much and we do not treat them well at all

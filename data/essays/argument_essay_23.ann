@@ -1,0 +1,15 @@
+T1	Claim 352 404	The USS Indianapolis should have had more protection
+T2	Claim 410 501	they had better life boats the sharks would not have been as big as a factor as they were .
+T3	Claim 1137 1197	With better life boats this problem could have been solved .
+T4	Claim 1935 2018	The military should have told the people on the USS Indianapolis what the cargo was
+T5	Claim 2021 2108	 they could have been on the lookout for enemy ships or in this case anime submarines .
+T6	Claim 2552 2685	the men knew what was on the boat they could have been extra careful around it and would have been more aware of their surroundings .
+T7	Claim 3153 3234	The USS Indianapolis men should have known about the cargo for their own safety .
+T8	Claim 3236 3364	The military should have given the USS Indianapolis more protection in general considering what they were carrying on the ship .
+T9	Claim 4055 4187	The military should have gone the lengths to make sure that nothing happened to them at least had another boat out there with them .
+T10	Claim 4856 4928	The military should have done so much more for this boat to have made it
+T11	Claim 4932 4977	 all those veterans could have made it home .
+T12	Claim 5684 5741	The lifeboats should have been better and more accessible
+T13	Claim 5830 5944	Shark attacks they also should have had more protection in general they were out in the open and very vulnerable .
+T14	Premise 5750 5827	when they went overboard they needed shelter from the sharks and they did not
+R1	Support Arg1:T14 Arg2:T12	

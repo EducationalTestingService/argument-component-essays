@@ -1,0 +1,39 @@
+T1	Claim 53 189	Diet soda , sugar - free gum , and low - calorie sweeteners are what most people see as a way to sweeten up a day without the calories .
+T2	Claim 347 408	artificial sweeteners have multiple negative health effects .
+T3	Claim 559 610	these new replacements would benefit overall health
+T5	Claim 696 761	Artificial sweeteners have a huge impact on current day society .
+T7	Claim 1138 1176	they are banned in the United States .
+T8	Claim 1195 1231	artificial sweeteners must be banned
+T9	Claim 1969 2043	artificial sweeteners could have been the reason for metabolic disorders .
+T10	Claim 2156 2211	artificial sweeteners are banned in the United States .
+T11	Claim 2222 2285	artificial sweeteners are also thought to help with weight loss
+T12	Claim 2288 2320	they are promoting weight gain .
+T13	Claim 2958 3001	zero calories from sugar will reduce weight
+T14	Claim 3004 3082	weight is actually gained from the lack of calories and the urge to eat more .
+T16	Claim 3992 4057	the rate of cancer would decrease without artificial sweeteners .
+T18	Claim 4713 4760	artificial sweeteners have necessary benefits .
+T19	Claim 5031 5123	This provides an opportunity for people to eat sweet foods without stressing over calories .
+T20	Claim 5124 5217	Artificial sweeteners also give people with metabolic disease an easy alternative for sugar .
+T21	Claim 5580 5775	even though sugar substitutes can lower cravings and calories it is extremely unhealthy , damages gut bacteria , develops multiple diseases and deprives the human body of the nutrition it needs .
+T22	Claim 5776 5868	It would be healthier to eat a cup of sugar each day than the equivalent sugar replacement .
+T23	Claim 5869 5935	Artificial sweeteners clearly contain various negative conclusions
+T25	Claim 6024 6163	artificial sweeteners have been proven to have many unfavorable effects on human health and therefore must be banned in the United States .
+T26	Claim 6297 6327	avoiding artificial sweeteners
+T27	Claim 6342 6386	Artificial sweeteners are not the only issue
+T28	Claim 6389 6488	current day society is filled with processed substitutes that are tearing down this healthy world .
+T29	Claim 6489 6535	Not only are sugar replacements found at fault
+T30	Claim 6538 6591	but all packaged foods can negatively affect humans .
+T31	Premise 613 693	there are more negative effects on manufactured food than the food they replaced
+R1	Attack Arg1:T31 Arg2:T3
+T33	Premise 1240 1266	they weaken the intestines
+R3	Support Arg1:T33 Arg2:T8
+T36	Premise 2321 2392	Numerous studies have verified that artificial sweeteners cause obesity
+R6	Support Arg1:T36 Arg2:T12
+T37	Premise 6164 6251	Using sugar substitutes daily has devastating health effects and damages the human body
+R7	Support Arg1:T37 Arg2:T25
+T4	Premise 1059 1118	artificial sweeteners have multiple negative health effects
+R2	Support Arg1:T4 Arg2:T7	
+T6	Premise 1880 1966	people with glucose intolerance usually turn to artificial sweeteners instead of sugar
+R4	Support Arg1:T6 Arg2:T9	
+T15	Premise 2052 2133	artificial sweeteners are weakening the digestive system and destroying gut flora
+R5	Support Arg1:T15 Arg2:T10	

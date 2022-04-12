@@ -1,0 +1,33 @@
+T1	Claim 86 138	Life is unbelievably hard for veterans after the war
+T2	Claim 141 183	War changes a person way of life after war
+T3	Claim 184 247	veterans do not simply revert back to their life before the war
+T4	Claim 250 294	Their lives are never the same after the war
+T5	Claim 297 421	Veterans need a place they can go after the war if they need mental help , physical help or help with various other problems
+T6	Claim 436 472	rehabilitation facilities are needed
+T7	Claim 478 624	rehabilitation facilities are not provided , many of the nation 's men and women who have fought for the country will never get the help they need
+T8	Claim 627 678	We must have rehabilitation facilities for veterans
+T9	Claim 682 767	Rehabilitation helps with mental health , physical help and help with substance abuse
+T10	Claim 853 883	American heroes deserve a home
+T11	Claim 1181 1247	These sever brain disorders will affect veterans their whole lives
+T13	Claim 1404 1574	Veteran mental health services are essential in order to help our vets to recover from their combat experiences and mental health issues related to their military service
+T12	Claim 1281 1351	not treated the effects of these disorders will be negatively impacted
+T14	Claim 1365 1401	that the effects could lead to death
+T15	Claim 1578 1617	Some veterans may need physical therapy
+T16	Claim 1624 1680	benefits of physical therapy are tremendously beneficial
+T17	Premise 1681 1741	Physical therapy helps veterans adjust to the loss of a limb
+R1	Support Arg1:T17 Arg2:T16	
+T18	Claim 1772 1835	After losing a limb , a person 's life is significantly altered
+T19	Claim 1838 1885	Life will never be the same after losing a limb
+T20	Claim 2013 2096	After the loss of a limb , it is a lot of trouble to learn how to function normally
+T21	Claim 2099 2197	Physical therapy is a major player in helping veterans to learn how to function without their limb
+T22	Claim 2200 2282	With rehabilitation facilities , all veterans will get the physical help they need
+T23	Claim 2351 2488	Traumatic events such as combat exposure and multiple deployments can trigger drug and alcohol use , which all to often lead to addiction
+T24	Claim 2566 2625	Rehabilitation is key to help veterans with substance abuse
+T25	Claim 2631 2715	veterans don not get the substance abuse help they need , the outcome could be fatal
+T26	Claim 2891 2944	Exposure to war and battle have caused these symptoms
+T27	Claim 2959 3033	the hero 's who defend and have defended us need rehabilitation facilities
+T28	Claim 3037 3083	Veterans do not need rehabilitation facilities
+T29	Claim 3898 3983	he nation has tons of substance abuse rehabilitation facilities for that exact reason
+T30	Premise 4040 4104	The pros of creating rehabilitation facilities outweigh the cons
+T31	Claim 4115 4152	why we need rehabilitation facilities
+R2	Support Arg1:T30 Arg2:T31	

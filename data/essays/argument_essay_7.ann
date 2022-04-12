@@ -1,0 +1,22 @@
+T1	Claim 274 330	Parents must be able to teach politics to their children
+T2	Claim 578 621	it is wrong to teach your children politics
+T3	Claim 827 900	Parents do not usually tell their children what is happening in the world
+T4	Claim 961 1040	Telling your children what is happening will not have a negative effect on they
+T5	Claim 1040 1072	 it will make them more informed
+T6	Claim 1262 1323	the children might agree with whatever they 're parents say .
+T7	Claim 1324 1416	The children might not comprehend what the parents are saying and might think the opposite .
+T9	Claim 3209 3321	parent must imorfm their children fully about what is happening in the government or any other political topic .
+T10	Claim 4173 4293	you do not tell you children 100 % of what is happening they are going to find out and be more aware of the situations .
+T11	Claim 4295 4340	Children need to be more involved in politics
+T12	Claim 4856 4963	you do n't get your children more involved in politics they are going to worry more and feel more unaware .
+T13	Claim 5432 5503	children should be talking and solving the problems of the government .
+T14	Claim 5560 5641	Getting your children more involved with politics may help them in the long run .
+T15	Claim 5806 5834	politics is just adult topic
+T16	Claim 5985 6061	you can not tell children about what is happening in our government system .
+T17	Claim 6308 6391	Children should be able to be taught politics by their parents any what they want .
+T8	Premise 339 489	it might change their opinions it might make children more aware on what 's going on in the gov . It might make children get more involved in politics
+R1	Support Arg1:T8 Arg2:T1	
+T18	Premise 630 671	it might change their opinions negatively
+R2	Support Arg1:T18 Arg2:T2	
+T19	Premise 909 958	they think it will have a negative effect on them
+R3	Support Arg1:T19 Arg2:T3	

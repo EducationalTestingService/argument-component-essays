@@ -1,0 +1,16 @@
+T1	Claim 54 112	60 % of Americans feel we should have tuition free college
+T2	Claim 242 274	Education prices should be lower
+T3	Premise 283 333	everyone deserves to have some sort of education .
+T4	Claim 335 395	College is a natural extension of elementary and high school
+T5	Premise 418 497	Students with low - income can not afford 95 % of colleges in the United States
+T6	Claim 534 574	prices on college really need to improve
+T7	Claim 887 930	95 % of young adults can not afford college
+T8	Claim 1028 1066	The prices do not have to drop to zero
+T9	Claim 1069 1106	they just need a little negotiating .
+T10	Claim 1107 1189	In exchange for a reduction in tuition , students could perform services on campus
+T11	Claim 1485 1537	Our economy now requires a better educated workforce
+T13	Claim 1627 1737	 they are not going to be able to get a good job , with a reasonable pay to help support there future family .
+T14	Claim 1741 1879	students are willing to keep their grades up , help the professors and around campus , there should be a reduction in the price of tuition
+T16	Claim 1882 1963	The students will have to work hard and contribute more towards their education .
+R1	Support Arg1:T3 Arg2:T2
+R2	Support Arg1:T5 Arg2:T6

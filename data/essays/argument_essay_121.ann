@@ -1,0 +1,13 @@
+T1	Claim 206 220	that is true .
+T2	Claim 247 292	that does not mean they mean to harm people .
+T3	Claim 481 528	Sharks could have thought a person was a seal .
+T4	Claim 656 764	When people see a shark under them , if they are swimming or even in a boat , they most likely would panic .
+T5	Claim 765 874	The reason why a shark could be up close to someone is it could be trying to figure out what that person is .
+T6	Claim 875 943	Sharks would have probably not have been there unless there was fish
+T7	Claim 1849 1901	What is shown in that movie is untrue about sharks .
+T8	Premise 221 240	They are carnivores
+R1	Attack Arg1:T8 Arg2:T2
+T9	Premise 537 603	the motion of a human body swimming in the water looks like a seal
+R2	Support Arg1:T9 Arg2:T3
+T10	Premise 1796 1846	Sharks are shown as killers like in the movie JAWS
+R3	Attack Arg1:T10 Arg2:T7

@@ -1,0 +1,19 @@
+T1	Claim 108 163	they must see the hardships they must have gone through
+T2	Claim 237 305	All veterans with PTSD need help mentally physically and financially
+T3	Claim 307 338	Veterans need help getting jobs
+T4	Claim 1018 1085	Veterans need help with mental problems such as PTSD and depression
+T5	Claim 1792 1838	Veterans also need help with physical health .
+T6	Claim 1839 1897	` The wounds of war can go far beyond what meets the eye .
+T7	Claim 2489 2573	People must help and understand how the veterans that come back from war are damaged
+T8	Claim 2583 2597	they need help
+T9	Claim 2626 2676	they need help financially physically and mentally
+T10	Claim 2739 2806	veterans have fought for our country so they ca n't get enough help
+T11	Claim 2809 2862	Veterans need as much help as possible in war and out
+T12	Premise 347 389	PTSD makes it hard for veterans to get job
+R1	Support Arg1:T12 Arg2:T3
+T13	Premise 1315 1434	These three service - related disorders alone have an enormous impact on the demand for veteran mental health treatment
+R2	Support Arg1:T13 Arg2:T4
+T14	Premise 2001 2132	veterans face a multitude of health troubles either unique to their service or more frequent among them than the general population
+R3	Support Arg1:T14 Arg2:T6
+T15	Premise 2700 2720	they get enough help
+R4	Attack Arg1:T15 Arg2:T10

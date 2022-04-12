@@ -1,0 +1,18 @@
+T1	Claim 48 117	The average American diet is slowly destroying the American society .
+T2	Claim 606 646	The American diet is slowly killing us .
+T3	Claim 648 834	One of the main problems with the average diet is that Americans consume too much of what our body does n't need and not enough of what our body really needs to contain a healthy state .
+T4	Claim 1034 1086	Not only are we not getting enough natural nutrients
+T5	Claim 1089 1154	the American diet has gotten so much worse in the past 50 years .
+T6	Claim 1290 1397	we do n't start focusing on the way we eat , it could destroy the American culture , not just the society .
+T8	Claim 1398 1489	Cases mainly of diabetes and obesity will be surfacing more and more if we do n't act now .
+T10	Claim 1506 1541	the American diet is so bad for you
+T11	Claim 2303 2386	Due to the way most Americans eat , most of our country would be considered obese .
+T12	Claim 3630 3684	The American diet is destroying the American culture .
+T13	Claim 3733 3786	We do not eat enough of what our bodies really need .
+T14	Claim 3914 3988	America needs to start realizing that our diet is destroying our society .
+T15	Claim 3989 4035	Obesity is just going to get worse and worse .
+T16	Claim 4171 4205	Our diet is basically killing us .
+T17	Claim 4355 4375	We need to act now .
+T18	Claim 4379 4428	we do n't America will slowly drop its population
+T20	Premise 1546 1599	the dangerous diseases that come from eating that way
+R1	Support Arg1:T20 Arg2:T10

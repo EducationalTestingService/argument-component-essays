@@ -1,0 +1,50 @@
+T1	Claim 31 96	The military does a lot more in our society than people realize .
+T2	Claim 97 259	In our country for most people you wake up on a normal day and usually go to school , work , or do something else with their day feeling safe and not threatened .
+T3	Claim 260 392	Our military is here to keep us safe from other countries and people are taught to idolize people in the military and respect them .
+T4	Claim 393 512	People never really think about what our military is doing outside of the country and how much power they really have .
+T5	Claim 513 640	With our military being this powerful , one has to wonder if it has come to a point where the military has become to powerful .
+T6	Claim 725 833	The military becoming too powerful negatively affects money , how our country is run , and our daily lives .
+T7	Claim 835 917	The military already has a lot of control in our country , especially with money .
+T8	Claim 986 1167	The amount of money that is put into the military seems like a lot , especially when the US does not have anyone attacking them , the United States is going to different countries .
+T9	Claim 1708 1734	The military need 's money
+T10	Claim 1741 1835	the billions and billions of dollars put towards the military could be used for other things .
+T11	Claim 1836 1910	The US is a powerhouse and no countries are going to decide to attack it .
+T12	Claim 2060 2183	the military became too powerful they could affect our daily lives like they affect the people in the different countries .
+T14	Claim 2185 2263	People in the United States have a lot of freedoms compared to everywhere else
+T15	Claim 2317 2379	everyone should be grateful for what they have in this country
+T16	Claim 2389 2478	the military were to powerful they could control us like they control like other people .
+T18	Claim 2621 2840	the military was affecting their daily lives with people not being able to out at night , them having guards around the town , and the guards have to shoot anyone that they see looks suspicious coming towards the town .
+T19	Claim 2844 2980	the government wanted to control the people to make them not be able to do anything , the military is powerful enough to let it happen .
+T20	Claim 2981 3035	People would not be able to live out their daily lives
+T21	Claim 3038 3130	they would most likely organized so that the citizens could only go outside at certain times
+T22	Claim 3135 3193	you would be only doing things that benefit the government
+T23	Claim 3196 3236	This would make a lot of people ignorant
+T24	Claim 3281 3331	with time this would change the country entirely .
+T25	Claim 3383 3420	they would be doing nothing for you .
+T26	Claim 3436 3513	with the military being to powerful that our country would be run different .
+T28	Claim 3518 3619	the military was to powerful and ran the country things would be run a lot different in our society .
+T30	Claim 3620 3684	Our leaders , laws , and the way we get daily items could change
+T31	Claim 4050 4189	the government wanted the military to take over the US and control the people so much that do not have any freedoms they definitely could .
+T33	Claim 4193 4290	the military took over , we would have different leaders , a lot of laws and things will change .
+T36	Claim 4291 4324	The military would run everything
+T37	Claim 4329 4376	you would have go through them to do everything
+T38	Claim 4383 4452	the government would probably control more than they already do now .
+T39	Claim 4453 4529	They would control food , roads , and waterways , and keep everyone confined
+T40	Claim 4689 4763	they wanted to do what they do to other countries in the US , they could .
+T42	Claim 4765 4871	The military becoming too powerful negatively affects money , how our country is ran and our daily lives .
+T43	Claim 4872 4953	The military is obviously here to help our country and keep us safe and help us .
+T44	Claim 4957 5075	they were too powerful and the government had their own attentions of taking control of the US they definitely could .
+T46	Claim 5076 5115	People do what they need to do each day
+T47	Claim 5118 5224	people do n't really think that the military could do anything to them that would affect them negatively .
+T48	Claim 5225 5312	The chances of the military becoming too powerful and overthrowing country could happen
+T49	Claim 5319 5370	it'it is not going to happen , at least right now .
+T50	Claim 5371 5434	The way the country is run is how the government wants it to be
+T52	Claim 5508 5627	they wanted to they could use the powerful military to get complete control over the people and do whatever they want .
+T54	Premise 918 983	The government gives the military a budget of 590 billion dollars
+R1	Support Arg1:T54 Arg2:T7
+T55	Premise 1168 1233	The budget of the military has increased significantly since 9/11
+R2	Support Arg1:T55 Arg2:T8
+T56	Premise 3245 3276	they are under military control
+R3	Support Arg1:T56 Arg2:T23
+T57	Premise 4582 4680	The military and the government run the country how they want to right now and have all the troops
+R4	Support Arg1:T57 Arg2:T40

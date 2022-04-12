@@ -1,0 +1,31 @@
+T1	Claim 125 173	many genres of music types that can make you sad
+T2	Claim 182 230	 others that can make you happy in a heartbeat .
+T3	Claim 234 329	you are feeling sad or depressed you should probably listen to music so it can make you happy .
+T4	Claim 482 511	music helps you communicate .
+T5	Claim 601 673	Music helps with depression lifts spirits and aids comunicacion issues .
+T6	Claim 675 710	Music can help through depression .
+T8	Claim 1249 1295	Music can change your emotions and mood swings
+T10	Claim 1945 2007	So music can help people describe people with their emotions .
+T11	Claim 2045 2064	people like music .
+T13	Claim 2144 2170	a lot of people can relate
+T14	Claim 2328 2369	music is boring distracting and worthless
+T15	Claim 2369 2417	 music is actually helpful for many situations .
+T16	Claim 2518 2554	Overall music is purely beneficial .
+T7	Premise 2179 2205	a lot of people love music
+R1	Support Arg1:T7 Arg2:T13
+T9	Claim 117 175	There are many genres of music types that can make you sad
+T12	Claim 185 230	others that can make you happy in a heartbeat
+T17	Claim 236 329	you are feeling sad or depressed you should probably listen to music so it can make you happy
+T18	Claim 484 511	music helps you communicate
+T19	Claim 603 673	Music helps with depression lifts spirits and aids comunicacion issues
+T20	Claim 677 710	Music can help through depression
+T21	Claim 1255 1301	Music can change your emotions and mood swings
+T22	Claim 1956 2013	music can help people describe people with their emotions
+T23	Claim 2044 2070	A lot of people like music
+T24	Claim 2528 2562	Overall music is purely beneficial
+T25	Claim 2152 2178	a lot of people can relate
+T26	Premise 2187 2213	a lot of people love music
+R2	Support Arg1:T26 Arg2:T25	
+T27	Premise 2099 2112	they enjoy it
+R3	Support Arg1:T27 Arg2:T23	
+T28	Claim 2380 2425	music is actually helpful for many situations

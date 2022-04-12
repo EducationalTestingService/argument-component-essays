@@ -1,0 +1,5 @@
+T1	Claim 274 357	they do start a shooting or something horrible like that , it is for another reason
+T2	Claim 383 436	There is no proof that the video games cause violence
+T3	Claim 649 675	it will not cause violence
+T4	Premise 439 467	people just blame it on them
+R1	Support Arg1:T4 Arg2:T2

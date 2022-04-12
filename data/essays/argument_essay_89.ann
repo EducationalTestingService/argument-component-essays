@@ -1,0 +1,35 @@
+T1	Claim 1791 1821	Rules are meant to be followed
+T2	Claim 1828 1899	they should never stop people from making certain decision or actions .
+T3	Claim 2413 2539	When people see an authoritative figure , and they do not think twice about them or how it affects their morals and identity .
+T4	Claim 2656 2717	they should sacrifice their morals with the fear their life .
+T6	Claim 3333 3364	Control and order are important
+T7	Claim 3368 3430	 no one should have the power to take away someone 's morals .
+T8	Claim 4221 4419	people must not let the demands of authoritative figures become their actions if they go against their own morals and values no matter their position in society or the consequences that may follow .
+T9	Claim 4473 4529	have order and obedience towards an authoritative figure
+T10	Claim 4536 4618	people should not have the power to control every aspect of someone else 's life .
+T11	Claim 4972 5050	In life no matter the situation , people will always have the power to step up
+T12	Claim 5055 5169	in most cases , they simply do nothing rather than face the consequences for standing up to what they believe in .
+T13	Claim 5182 5260	the higher ranked people in the camp always has a say in what they had to do .
+T14	Claim 5261 5338	No one should ever have the power to control every piece of someone 's life .
+T15	Claim 5726 5838	The submission to authority is one of the reasons that people allow themselves to have their morals taken away .
+T16	Claim 5840 5899	While it is critical to have order and obedience in society
+T17	Claim 5900 6015	it should never make anyone feel fearful of losing their lives , making them unwilling to stand up for themselves .
+T18	Claim 6016 6065	It is dangerous for people to have too much power
+T19	Claim 6219 6355	in this world , most people do not know the difference between telling people what to do and controlling every part of someone 's life .
+T20	Claim 6356 6390	People relate authority with order
+T21	Claim 6393 6470	we are always taught to listen and respect the person the is of higher rank .
+T22	Claim 6471 6599	This is a reminder that we should never allow ourselves to give in to anyone and allow for our identity and morals to be taken .
+T23	Premise 1709 1742	The prisoners ' were dehumanitzed
+R1	Support Arg1:T23 Arg2:T2
+T24	Premise 2540 2619	They instantly as the authority says disregarding their own morals and identity
+R2	Support Arg1:T24 Arg2:T3
+T25	Premise 2741 2794	the prisoners acquiesced to the higher ranking people
+R3	Support Arg1:T25 Arg2:T4
+T26	Premise 4094 4200	Once the guards felt a sense of power , they determined they had the sole power to do anything they wanted
+R4	Support Arg1:T26 Arg2:T7
+T27	Premise 6074 6206	as shown in the Holocaust and the Stanford Prison Experiment , that power is destructive to both themselves and to those around them
+R5	Support Arg1:T27 Arg2:T18
+T28	Premise 4910 4969	They just submitted themselves to the superiority of others
+R6	Support Arg1:T28 Arg2:T12
+T29	Premise 5652 5723	they sat in silence and received odious treatment from the other people
+R7	Support Arg1:T29 Arg2:T15

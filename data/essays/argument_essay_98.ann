@@ -1,0 +1,41 @@
+T1	Claim 1243 1380	For some to look at a sport that deserves their athletes to make a million dollars if any sport it should be a fighting sport like boxing
+T2	Claim 1387 1418	$ 100 m in one fight is to much
+T3	Claim 1419 1484	maybe anywhere from $ 800,000 - $ 1,000,000 would be fine with me
+T4	Claim 1542 1833	but people like Lionel Messi and Cristiano Ronaldo are guys who make money from playing a child 's sport , I will not take away from the hard work those two guys have put in to get where they 're at now or the hard work they put in now to stay in shape and keep playing the sport they love .
+T5	Claim 1862 1955	paying them millions of dollars is the way of thanking them for playing a sport like soccer .
+T6	Claim 1976 2004	I ca n't take away from them
+T7	Claim 2119 2167	some athletes do not take their career seriously
+T8	Claim 2183 2223	be doing what they 're doing right now .
+T9	Claim 2244 2305	they 're athletes who just throw their careers into the trash
+T10	Claim 2438 2457	To list any is easy
+T11	Claim 2824 2991	when you are paid millions of dollars to be a professional athletes you should n't have to take steroids or any performance enhancing drug to make you a better athlete
+T12	Claim 2992 3019	you should already be one .
+T13	Claim 3176 3244	all athletic vanished of the face of the Earth our world would mourn
+T15	Claim 3350 3372	Mr . Reed is not wrong
+T16	Claim 3380 3399	people would be sad
+T17	Claim 3404 3418	would be angry
+T18	Claim 3543 3722	Without recreational time for family and friends to get together and have an excuse to get drunk at your next superbowl party people would think that life is boring without sports
+T19	Claim 3729 3809	without sports it would open people 's eyes to what the real world actually is .
+T20	Claim 3810 3956	People would actually take time to sit down talk politics without getting offended , and actually just talking and being educated on the subject .
+T21	Claim 3961 4045	people would not get distracted and start talking about who 's sports team is better
+T22	Claim 4050 4229	without professional athletes making millions and potential billions for playing a game it could maybe just maybe get rid of some of the problems with joblessness in any country .
+T23	Claim 4242 4275	just get rid of sports in general
+T25	Claim 4296 4378	you start to pay the athletes less you could give that money to back to the people
+T27	Claim 4383 4575	the money given back to the people could be used to fund different types of organization based on finding people that are either homeless or jobless find a job to get them back on their feet .
+T28	Claim 4579 4677	also executed good it would could then raise the minimum wage in each state from where it is now .
+T31	Claim 4781 4936	Take a team that has multiple sporting and athletic events and/or teams that make a lot of money and then mostly keep it to themselves and their athletes .
+T33	Claim 4937 5149	The state would get money back if they completely lower some of the salaries of these professional athletes , then you then give that money back to the people to create jobs and aid in finding cures for disease .
+T34	Claim 5194 5313	whether your a student athlete or professional all the work you put in shows whether be on the field or the classroom .
+T35	Claim 5314 5348	You always have to put the work in
+T36	Claim 5440 5469	these athletes are paid a lot
+T37	Claim 5473 5506	they deserve every single million
+T38	Claim 5550 5557	they do
+T39	Claim 5583 5612	this is what they 're best at
+T40	Claim 5619 5658	it shows in the way they act and play .
+T41	Claim 5858 5917	professional athletes should not be paid the was they are .
+T43	Premise 2013 2092	most athletes do put in the work to keep their job or to get where they are now
+R1	Support Arg1:T43 Arg2:T6
+T44	Premise 4684 4778	right now the minimum wage range nationally is anywhere from $ 8.00 an hour to $ 13.00 an hour
+R2	Support Arg1:T44 Arg2:T28
+T45	Premise 5355 5433	a game only last for a certain amount of years but personality last a lifetime
+R3	Support Arg1:T45 Arg2:T35

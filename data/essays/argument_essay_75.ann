@@ -1,0 +1,21 @@
+T1	Claim 2 40	Social media can be , and is helpful .
+T2	Claim 88 218	the benefits overcome any down - sides with the ability to talk to friends close and far , and being able to develop social skills
+T3	Claim 301 349	we are a social species and need the interaction
+T4	Claim 586 642	Social media is only one of many ways to overcome this .
+T5	Claim 918 1016	phones ( including social media ) can only be good by allowing you to talk to friends near and far
+T6	Claim 1064 1141	you will come in contact with people that are mean and will make you feel bad
+T7	Claim 1476 1607	talking with people online , ( even by texting ) can develop social skills that you would n't otherwise be able to discover and use
+T8	Claim 1610 1706	Developing skills such as being able to talk to new people is really important in the real world
+T9	Claim 1715 1801	there is a way to establish this skill you must jump on the opportunity to progress it
+T11	Claim 1907 1938	it is actually really important
+T12	Claim 1987 2053	without these social skills then you will be really really awkward
+T13	Claim 2064 2177	with the social skills you will be able to be less awkward and more comfortable in strange or uncommon situations
+T14	Claim 2307 2422	the only issues that can be caused by social media are caused by other users which can easily be blocked or avoided
+T15	Premise 226 286	we get distracted sometimes and use it outside of moderation
+R1	Attack Arg1:T15 Arg2:T3
+T16	Premise 460 500	you have no connection with your friends
+R2	Support Arg1:T16 Arg2:T4
+T17	Premise 1810 1839	you can use it the real world
+R3	Support Arg1:T17 Arg2:T10
+T18	Premise 2488 2566	the only downsides are caused by other users or the way that the media is used
+R4	Support Arg1:T18 Arg2:T14

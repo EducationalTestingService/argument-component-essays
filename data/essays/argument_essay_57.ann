@@ -1,0 +1,28 @@
+T1	Claim 201 247	That is what college athletes face every day .
+T2	Claim 429 495	the athletes just make a slice of the money that the NCAA receives
+T3	Claim 498 637	If universities profit by selling merchandise with player 's names on it , they should be paying the players whose names are on the items .
+T4	Claim 638 673	College athletes deserve to be paid
+T5	Claim 912 940	the NCAA should pay athletes
+T6	Claim 1257 1373	When the NCAA is making billions a year , they should give some money to the people who perform to make that money .
+T7	Claim 1880 1951	If the NCAA makes billions every year , some should go to the players .
+T8	Claim 1972 1995	athletes should be paid
+T9	Claim 2113 2129	this viewpoint .
+T10	Claim 2323 2401	If an athlete is being used for profit , they should receive some of the pay .
+T11	Claim 2402 2465	They should also be able to make money off of their signature .
+T12	Claim 2492 2573	 They should receive a small portion of jersey sales with their name and number .
+T13	Claim 2581 2676	they should be allowed to sell autographed merchandise and make money off of their signatures .
+T14	Claim 2677 2762	Colleges making money off of athletes when they are risking their bodies to be famous
+T15	Claim 2779 2848	Colleges should pay players if they are using their names for money .
+T16	Claim 3535 3557	Players should be paid
+T17	Claim 3854 3883	college tuition is fair pay .
+T18	Claim 3884 3910	This is completely false .
+T19	Claim 4265 4348	Most athletes do not have time to choose classes that will give them a decent job .
+T20	Claim 4451 4491	The NCAA needs to pay college athletes .
+T22	Premise 949 997	it makes billions on television deals every year
+R2	Support Arg1:T22 Arg2:T5
+T23	Premise 2004 2085	the colleges can make money off of selling merchandise with player 's names on it
+R3	Support Arg1:T23 Arg2:T8
+T21	Premise 686 897	NCAA makes billions every year from television deals , the colleges receive money from selling merchandise with player 's names on it , and the athletes make the money but it goes to the coaches and universities
+R1	Support Arg1:T21 Arg2:T4	
+T24	Premise 3570 3623	coaches and universities make money from them playing
+R4	Support Arg1:T24 Arg2:T16	

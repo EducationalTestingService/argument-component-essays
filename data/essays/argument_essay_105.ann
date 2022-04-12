@@ -1,0 +1,34 @@
+T1	Claim 3 81	education has always been one of the most important parts of human development
+T2	Claim 140 322	Financial supports , human resources and convenience of access for many different groups of people , according to time and distance , are the ones that are easily felt to be needed .
+T3	Claim 348 498	the philosophy of education is not just about learning certain topics but also about having different experiences and coping with social circumstances
+T4	Claim 501 544	nowadays human life is far more complicated
+T5	Claim 547 673	performance , defined as amount of effective work in a certain amount of time is playing a great role in almost all activities
+T6	Claim 678 710	education is clearly one of them
+T7	Claim 714 843	Online education may can not provide students with some aspects of traditional classrooms and the experience of physical presence
+T8	Claim 850 962	it is giving them the ability to access what they need with more ease and provide them with more freedom of time
+T9	Claim 1113 1169	What students think of education is absolutely important
+T10	Claim 1177 1282	education can get easier by using online education , it can help them with what they feel about education
+T11	Claim 1327 1393	Some essential parts of education might need to remain traditional
+T12	Claim 1398 1510	many parts can just transform from some boring classes to more interactive classes with also more fresh students
+T13	Claim 1682 1799	online education as can be more effective might be a good solution for applying the same changes for education system
+T14	Claim 1833 1895	building new physical educational infrastructures is essential
+T15	Claim 1949 2034	Online education is a solution to make education demanding less physical requirements
+T16	Claim 2154 2253	it will have the ability to be provided less expensive for those who are also financially in demand
+T17	Claim 2257 2337	Online education is using technologies to spread information and it has benefits
+T18	Claim 2340 2434	Each online classroom can create content and media that can be easily and effectively accessed
+T19	Claim 2437 2532	Digital content is easier to store and access as you can have all you need one laptop or tablet
+T20	Claim 2537 2601	using such assets students can also have more joyful experiences
+T21	Claim 2664 2773	you want the highest quality you might need to travel thousands of kilometers to get access to that standards
+T22	Claim 2930 2997	it can be considered the most important feature of online education
+T23	Claim 3012 3080	traditional education can not once be replaced with online education
+T24	Claim 3085 3177	we can start with only applying some basic developments to benefit from mentioned advantages
+T25	Claim 3180 3254	We still can not replace face to face experiences with online interactions
+T26	Claim 3261 3322	we can at least make education more effective in many aspects
+T27	Premise 1057 1110	education is not changing many aspects of their lives
+R1	Support Arg1:T27 Arg2:T8	
+T28	Premise 975 1048	the commuting part is eliminated and now they might have a better feeling
+R2	Support Arg1:T28 Arg2:T8	
+T29	Premise 2605 2658	Education has different standards in different places
+R3	Support Arg1:T29 Arg2:T21	
+T30	Premise 2805 2924	online education has no geographic limits and almost everyone from every spot can access all kind of educational conten
+R4	Support Arg1:T30 Arg2:T22	

@@ -1,0 +1,43 @@
+T1	Claim 24 85	violent video games are a cause for violent acts in reality .
+T2	Claim 115 188	violent acts in reality are not regularly caused by violent video games .
+T3	Claim 262 287	it is a low probability .
+T4	Claim 288 347	Violent video games do not cause violent actions in reality
+T5	Claim 356 409	video games can not teach a person how to act violent
+T6	Claim 412 484	most violent people do not get their motivation from violent video games
+T7	Claim 491 528	video games do not promote violence .
+T8	Claim 544 638	violent video games can not teach someone how to act violent or use violent weapons in reality
+T9	Claim 693 762	any violent actions in reality will not be the same as in video games
+T10	Claim 777 814	be taught through violent video games
+T11	Claim 918 985	violent video games are outlets for people with aggressive behavior
+T12	Claim 988 1107	Video games for some people are a way to express and help with overwhelming emotions instead of acting out in reality .
+T13	Claim 1120 1213	it is less likely for violent people who act out to get motivation from violent video games .
+T14	Claim 1214 1351	People who act violent are more likely to have a reason such as hating someone , going through a hard time with family or friends , etc .
+T15	Claim 1376 1429	for violent people to get motivation from video games
+T16	Claim 1483 1634	people who act out to have one or multiple mental disorders or ethnic hatred because of their life or a traumatic experience they have had as a child .
+T17	Claim 1674 1771	for violent actions to happen because of lack of empathy and other socially desirable behaviors .
+T19	Claim 1951 2003	Technology does not cause people to become violent .
+T20	Claim 2281 2303	these outlets increase
+T21	Claim 2313 2339	violent actions decrease .
+T22	Claim 2353 2398	violent video games do not promote violence .
+T23	Claim 2511 2581	video games are not the first source that exposes people to violence .
+T24	Claim 2612 2724	studies show violent people to have played video games , and that this link 's video games and violent actions .
+T25	Claim 2749 2797	for violent video games and actions to be linked
+T26	Claim 2902 2954	video games do not promote nor cause violent actions
+T27	Claim 2961 3053	the people who commit crime are more likely to not be motivated by violence in video games .
+T28	Claim 3071 3140	violent video games are not the cause of violent actions in reality .
+T29	Claim 3141 3218	Violent video games do not cause people to become violent and commit crimes .
+T30	Claim 3339 3392	for video games to be the source of violent actions .
+T31	Claim 3513 3533	that is not the case
+T32	Claim 3540 3579	there are more ways violence is exposed
+T33	Claim 3582 3648	People can not be taught how to become violent through video games
+T34	Claim 3699 3790	People are more likely to use violent video games as an outlet than to use it as motivation
+T35	Premise 198 261	it is possible for video games to be the cause for violent acts
+R1	Attack Arg1:T35 Arg2:T3
+T36	Premise 865 909	violent video games have become more popular
+R2	Support Arg1:T36 Arg2:T11
+T37	Premise 2408 2504	video games do expose people to violence people are constantly exposed to violence in other ways
+R3	Attack Arg1:T37 Arg2:T23
+T38	Premise 3657 3696	video games are not the same as reality
+R4	Support Arg1:T38 Arg2:T33
+T39	Premise 3829 3922	those people do not want to commit crimes they need an outlet for their stress and aggression
+R5	Support Arg1:T39 Arg2:T34

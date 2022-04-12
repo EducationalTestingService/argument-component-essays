@@ -1,0 +1,21 @@
+T1	Claim 563 753	society need interactions , that they are social creatures , and having someone to lock eyes with , even if it 's just a stranger , can bring out that much more of happiness in individuals .
+T3	Claim 755 874	The first lesson learned from the movie Into the Wild , is self - reliance and its adverse effects that it could have .
+T4	Claim 1500 1636	Chris becoming so self - reliant allowed him the ability to do things and make decisions by himself , without needing help from others .
+T5	Claim 1696 1724	Society can learn from Chris
+T6	Claim 1734 1767	self - reliance is great at times
+T7	Claim 1777 1822	relying on others can help individuals grow .
+T8	Claim 1824 1929	The second lesson learned through the movie Into the Wild , was how to win friends and influence people .
+T9	Claim 2132 2150	is a bad influence
+T10	Claim 2375 2496	to understand that Chris fled society not because he could n't get along with others , but because he chose to be alone .
+T11	Claim 2887 2989	The final lesson learned from the movie Into the Wild , is that true happiness is shared with others .
+T12	Claim 3332 3414	surviving a day on your own by hunting can give you the opportunity of happiness .
+T13	Claim 3415 3508	But the hope of being able to share the moment with others is what makes moments worthwhile .
+T14	Claim 3676 3722	true solitude can not lead to true happiness .
+T16	Claim 3723 3743	It 's not possible .
+T17	Claim 3821 3877	he wo n't stay that way for long if he does n't share it
+T21	Claim 4118 4231	The lesson learned from the movie Into the Wild , is self - reliance and its adverse effects that it could have .
+T22	Premise 3186 3293	He seemed to recognize the importance of being able to share his happiness of killing the deer with someone
+R1	Support Arg1:T22 Arg2:T11
+T23	Premise 3509 3586	In Chris 's final moments he pictures his parents , being reunited with him .
+T23	Premise 3587 3622	His face filled with joy as he dies
+R2	Support Arg1:T23 Arg2:T13

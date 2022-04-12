@@ -1,0 +1,24 @@
+T1	Claim 29 63	College athletes need to be paid .
+T2	Claim 313 432	college athletes should be compensated for the hard work , dedication , and sacrifice they put towards their programs .
+T4	Claim 434 501	College athletes put their bodies on the line each game they play .
+T5	Claim 502 631	Every time they step out on the court / field they could potentially suffer an injury that could affect the rest of their lives .
+T6	Claim 1129 1231	These athletes are sacrificing their bodies and physical health at a chance to play a game they love .
+T7	Claim 1232 1310	That incredible sacrifice is definitely worthy of at least some compensation .
+T8	Claim 1312 1397	Paying college athletes would help to begin creating a sense of financial awareness .
+T10	Claim 1398 1571	Another benefit of paying college athletes could help cutback the number of professional athletes who have had to navigate very public financial struggles after retirement .
+T11	Claim 1985 2102	schools were to begin paying players , they could also help these students build a foundation of financial literacy .
+T13	Claim 2103 2184	This would allow them to become a lot more wiser with their money in the future .
+T14	Claim 3172 3196	what I have said is true
+T15	Claim 3222 3317	college is a place for people to obtain a degree and help jump start their career aspirations .
+T16	Claim 4132 4266	the amount of money that those same athletes are bringing definitely outweighs the full ride scholarship that is being given to them .
+T17	Claim 4330 4407	it 's seems totally unfair that these athletes are n't getting a cent of it .
+T18	Claim 4446 4483	student athletes deserve to be paid .
+T19	Premise 1054 1126	Other injuries have ended player 's careers before they even get started
+R1	Support Arg1:T19 Arg2:T5
+T20	Premise 1685 1753	around 60 % of NBA players are broke within five years of retirement
+R2	Support Arg1:T20 Arg2:T10
+T21	Premise 3043 3101	their commitment and dedication put towards their programs
+T22	Claim 3003 3038	college athletes deserve to be paid
+R3	Support Arg1:T21 Arg2:T22
+T23	Premise 4272 4329	the amount of money that is being made off these athletes
+R4	Support Arg1:T23 Arg2:T17

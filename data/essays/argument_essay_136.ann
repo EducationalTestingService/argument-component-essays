@@ -1,0 +1,38 @@
+T1	Claim 61 91	people just do n't notice it .
+T2	Claim 92 130	Sharks are not the threat humans are .
+T3	Claim 208 242	we just kill them for their fins .
+T4	Claim 243 270	Sharks should not be hunted
+T5	Claim 371 413	Many sharks help to keep our ocean healthy
+T6	Claim 32 60	Sharks are amazing creatures
+T7	Claim 558 582	 we just do n't see it .
+T8	Claim 601 631	when we call sharks the killer
+T9	Claim 874 952	we keep on killing some of these species of sharks in general can go extinct .
+T10	Claim 969 998	sharks would attack humans is
+T11	Claim 1092 1142	they would mistake us for what they normally eat .
+T12	Claim 1247 1262	they think food
+T13	Claim 1299 1315	they will attack
+T14	Claim 1320 1351	this normally does n't happen .
+T15	Claim 1451 1477	their fins will be cut off
+T16	Claim 1521 1546	Killing the sharks is bad
+T17	Premise 279 368	only about 3 people are attacked a year by sharks but 100 million sharks are killed by us
+R1	Support Arg1:T17 Arg2:T4
+T18	Premise 414 457	they normally target the weak and sick fish
+R2	Support Arg1:T18 Arg2:T5
+T19	Premise 1007 1087	we look like a seal or a turtle which both of them are two animals that they eat
+R3	Support Arg1:T19 Arg2:T10
+T20	Premise 1271 1295	they need to survive too
+R4	Support Arg1:T20 Arg2:T12
+T21	Premise 1555 1630	they help keep the ocean clean by killing all of the more old and sick fish
+R5	Support Arg1:T21 Arg2:T16
+T22	Claim 876 956	we keep on killing some of these species of sharks , in general , can go extinct
+T23	Claim 963 1004	only reason sharks would attack humans is
+T25	Claim 1527 1552	Killing the sharks is bad
+T26	Premise 1561 1636	they help keep the ocean clean by killing all of the more old and sick fish
+R7	Support Arg1:T26 Arg2:T25	
+T27	Claim 1253 1268	they think food
+T28	Premise 1277 1301	they need to survive too
+R8	Support Arg1:T28 Arg2:T27	
+T29	Claim 1417 1479	Once a shark is caught most of the time their fins will be cut
+T24	Premise 1013 1093	we look like a seal or a turtle which both of them are two animals that they eat
+T30	Claim 1098 1146	they would mistake us for what they normally eat
+R6	Support Arg1:T24 Arg2:T23	

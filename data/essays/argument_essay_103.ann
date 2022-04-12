@@ -1,0 +1,12 @@
+T1	Claim 296 320	Smoking should be banned
+T2	Claim 630 691	smoking is a major problem in the U.S. and around the world .
+T3	Claim 1409 1456	You can even get cancer from secondhand smoking
+T4	Claim 1581 1623	smoking relieves them from pain and stress
+T5	Claim 1788 1819	cigarettes are a type of drug ,
+T6	Claim 1965 2020	your brain would not be able to live without nicotine .
+T7	Claim 2033 2059	smoking should be banned .
+T8	Claim 2061 2095	Smoking clearly should be banned .
+T10	Premise 499 590	This is more than the deaths from car accidents , alcohol , and even illegal drugs combined
+R2	Support Arg1:T10 Arg2:T2
+T9	Premise 329 421	cigarettes kill millions of people , smoking causes many diseases , and it is very addictive
+R1	Support Arg1:T9 Arg2:T1	

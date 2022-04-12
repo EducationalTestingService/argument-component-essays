@@ -1,0 +1,38 @@
+T1	Claim 101 167	people in America must be able to speak aloud and protest freely .
+T2	Claim 266 312	Protesting in America brings the country chaos
+T3	Claim 315 381	whenever someone starts a protest it spreads throughout the states
+T4	Claim 386 410	it gets out of control .
+T5	Claim 411 488	People must be aloud to speak what s on their mind at anytime and any place .
+T6	Claim 489 526	Anyone must be able to protest freely
+T7	Claim 555 592	People must be able to speak freely .
+T8	Claim 594 626	Anyone should be able to protest
+T9	Claim 772 881	The right to join with fellow citizens in protest or peaceful assembly is critical to a functioning democracy
+T10	Claim 1005 1070	anyone should be able to protest with anyone whenever they want .
+T11	Claim 1071 1156	As american citizens anyone should be able to speak whenever and wherever they want .
+T12	Claim 1447 1517	while protesting , people deserve to be protected and not threatened .
+T13	Claim 1613 1660	Anyone should be able to protest about anything
+T14	Claim 1814 1879	people should let protesting ruin our country , let alone exist .
+T16	Claim 1889 1956	anyone should be able to protest freely if it does not create chaos
+T18	Claim 2122 2233	When people are protesting it could possibly get a little out of hand trying to get everyone on the same side .
+T19	Claim 2321 2347	Protesting is n't enough .
+T20	Claim 2348 2444	Protesters must to be organized in a way that lets them keep pushing for the movement 's goals .
+T21	Claim 2460 2534	in order to make a strong protest people have to know the full information
+T22	Claim 2539 2572	the protest has to be organized .
+T23	Claim 2573 2600	Protests can change opinion
+T24	Claim 2857 2968	the research they have been doing the past thirty years can most definitely change peoples minds and opinions .
+T25	Claim 2981 3019	people must be aloud to protest freely
+T26	Claim 3022 3094	it can change minds and there is such element as a non chaotic protest .
+T27	Claim 3236 3319	their kids involved with protesting and or politics depending on how old they are .
+T28	Claim 3728 3819	have been thrilled with their kid coming home saying how they were in a protest at school .
+T29	Claim 4444 4538	anyone must be able to protest freely also if kids parents are fine with their kids protesting
+T30	Claim 4542 4620	In America anyone must be able to protest when they want and where they want .
+T32	Claim 4651 4685	anyone should be able to protest .
+T33	Claim 4702 4771	they should be able to speak their minds and protest wherever they go
+T35	Claim 4857 4883	protesting must be illegal
+T36	Claim 4933 4997	Protesting must be stopped , protesting is ruining our country .
+T37	Claim 5154 5188	our rights can not be taken away .
+T38	Claim 5189 5268	People must be able to protest whenever they have time or anytime they desire .
+T15	Premise 638 675	freedom of speech , an american right
+R1	Support Arg1:T15 Arg2:T8	
+T17	Premise 1670 1772	some countries act act that protests are either an inconvenience to be a threat and to be extinguished
+R2	Attack Arg1:T17 Arg2:T13	

@@ -1,0 +1,24 @@
+T1	Claim 478 519	the effectiveness , safety , and dosage .
+T2	Claim 536 576	Antivaxxisim , Is dangerous and deadly .
+T3	Claim 577 631	Antivaxx logic is a large , and incorrect conspiracy .
+T4	Claim 632 685	All public vaccines are safe and have proper dosage .
+T5	Claim 1007 1049	the toxicity of an object lies in dosage .
+T6	Claim 1743 1807	Antivaxxers spread is over the number of vaccines administered .
+T7	Claim 1960 2011	The reality of the situation is much more calming .
+T8	Claim 2541 2601	72 vaccines is a grossly overinflated number to instill fear
+T9	Claim 2793 2888	one person contracts a disease , with herd immunity in place , it should n't jump to new people
+T12	Claim 2951 3045	as long as direct contact does n't occur to another unvaccinated , then they will be protected
+T13	Claim 3190 3232	herd immunity is becoming less effective .
+T14	Claim 3406 3513	The Ignorance of antivaxxers is increasing the risk of death on innocent people , causing indirect murder .
+T15	Claim 3947 3957	this claim
+T16	Claim 4495 4517	The antivaxx statement
+T17	Claim 4561 4669	a doctor , or a nurse should not contract Polio from a patient due to the sterile conditions in a hospital .
+T18	Claim 4670 4758	Family members wo n't contract polio from each other due to modern bathroom sanitation .
+T19	Claim 4779 4870	analysis at face value will often result in incorrect conclusion resulting in complications
+T21	Claim 4873 4938	these complications will cause death if not addressed immediately
+T23	Claim 5117 5207	Left unchanged this movement will bring back deadly diseases that were eradicated long ago
+T10	Premise 2913 2944	those new people are vaccinated
+R1	Support Arg1:T10 Arg2:T12	
+T11	Claim 4424 4492	direct contact with a person infected with the virus can cause polio
+T20	Premise 4399 4421	polio is so contagious
+R2	Support Arg1:T20 Arg2:T11	

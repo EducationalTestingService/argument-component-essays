@@ -1,0 +1,15 @@
+T1	Claim 314 360	It may be a good option for the western states
+T2	Claim 366 436	 it is a good option for Michigan and Great Lakes water basin states .
+T3	Claim 437 513	Water from the great lakes is valuable and should not be taken for granted .
+T4	Claim 767 833	an agreement would need to be established between both countries .
+T5	Claim 1169 1322	The western states must begin to address their water needs within their area of the country before asking for a diversion of water from the Great Lakes .
+T6	Claim 1747 1883	Both lawns and water fountains use volumes of water that could have been used for drinking water , household use , and crop irrigation .
+T7	Claim 1896 1976	western states must begin using water conservation efforts for crop irrigation .
+T8	Claim 2321 2430	the water crisis in the western states can only be solved through a diversion of water from the Great Lakes .
+T9	Claim 2665 2719	the western states can produce their own fresh water .
+T10	Claim 3020 3088	the western states could increase their annual precipitation rates .
+T11	Claim 3486 3547	exporting water from the Great Lakes is a beneficial option .
+T12	Claim 3721 3855	By diverting water from the Great Lakes , you are jeopardizing the economic stability of the state of Great Lakes water basin states .
+T13	Claim 4006 4092	It is in the best interest of the Great Lakes that this exception is not established .
+T14	Premise 2431 2537	However , western states have other options for obtaining that water without an exception to the compact .
+R1	Attack Arg1:T14 Arg2:T8

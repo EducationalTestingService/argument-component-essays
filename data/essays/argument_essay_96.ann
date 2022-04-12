@@ -1,0 +1,18 @@
+T1	Opinion 374 417	Dress codes can harm student 's self esteem
+T2	Claim 101 178	School dress code is a terrible concept causing lower self esteem in students
+T3	Premise 286 324	It also does n't allow self expression
+T4	Claim 337 370	school dress codes must be banned
+R1	Support Arg1:T3 Arg2:T4	
+T5	Premise 248 283	It totally objectifies girls bodies
+R2	Support Arg1:T5 Arg2:T4	
+T6	Claim 897 946	All of this can easily harm a girl 's self esteem
+T7	Claim 988 1026	students would be without a dress code
+T8	Claim 1357 1400	they should teach boys the correct behavior
+T9	Claim 1482 1572	boys ca n't control themselves or focus on their work when a girl is showing her shoulders
+T10	Claim 1724 1777	The dress code does n't teach anything logical at all
+T11	Claim 1917 1978	Dress codes are prohibiting freedom of expression in students
+T12	Claim 2820 2849	Dress codes need to be banned
+T13	Claim 1404 1459	The whole idea of dress codes is also offensive to boys
+T14	Premise 3144 3185	without it kids might dress inapropriatly
+T15	Claim 3083 3135	People do say that it is better to have a dress code
+R3	Support Arg1:T14 Arg2:T15	

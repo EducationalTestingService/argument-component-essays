@@ -1,0 +1,31 @@
+T1	Claim 2611 2684	being a Veterinarian is not a good decision for a career especially women
+T3	Claim 2833 2874	I will become a Veterinary Pharmacologist
+T5	Claim 3584 3702	The hard work put in for a veterinarian can be rewarding , especially when a vet sees a sick animal return to health .
+T6	Claim 3703 3846	To reach this point in their career veterinarians have to make many tough decisions on what part of medicine they would like to specialize in .
+T7	Claim 4486 4619	choosing the right career path should be based off of interest in the actual career rather than the salary that comes along with it .
+T9	Claim 4672 4790	you decide to become a veterinarian you will never grow rich but you will have a life of endless interests and variety
+T11	Claim 5090 5204	The best success in a career field is if you enjoy all aspects of the job that you are working towards to or for .
+T13	Claim 5322 5390	new diseases can aid with mutations through generations of animals .
+T14	Claim 9187 9244	The career of being a veterinary pharmacologist is for me
+T15	Premise 9268 9289	everything has a cure
+T16	Claim 9294 9467	through experimentation and observation many things that we fear today can be healed or be kept at low stable rates for the benefits of animals and even human civilization .
+T17	Claim 9513 9647	a specific drug does not help or aid a disorder a pharmacologist can take that drug back into the lab and modify it to fit its needs .
+T19	Claim 9867 9899	This career is ultimately for me
+T20	Claim 10273 10331	Veterinary Pharmacology is the ultimate career path for me
+T21	Claim 10638 10704	Others may pick the career that pays more salary every fiscal year
+T22	Claim 10724 10815	enjoy my job and feel as if I am not working every day rather than working for a paycheck .
+T23	Claim 11618 11757	Like the connection between a doctor and its patients there can be an unknown and even helpful connection between an animal and an inmate .
+T24	Claim 11823 11912	Pharmacology is like my glass slipper for working in a job field that I will soon enjoy .
+T25	Premise 2692 2790	large sick animals that may be hard to control and can cause damage to expensive medical equipment
+R1	Support Arg1:T25 Arg2:T1
+T26	Premise 2883 2973	I enjoy doing Chemistry for medicines like pharmaceuticals , toxicology , and therapeutics
+R2	Support Arg1:T26 Arg2:T3
+T27	Premise 4393 4469	Becoming a veterinarian there are many job options that may offer more money
+R3	Attack Arg1:T27 Arg2:T7
+T28	Premise 5464 5541	key mutations have been identified for 186 canine diseases 49 feline diseases
+R4	Support Arg1:T28 Arg2:T13
+R5	Support Arg1:T15 Arg2:T14
+T29	Premise 9908 10041	I want to be able to work hands on with the patients and also be able to work in the lab to formulate something specifically for them
+R6	Support Arg1:T29 Arg2:T19
+T30	Premise 10340 10460	I enjoy recording my findings and finding new ways to navigate a problem to cure it and modify it to help others succeed
+R7	Support Arg1:T30 Arg2:T20

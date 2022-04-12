@@ -1,0 +1,10 @@
+T1	Claim 104 144	Antidepressants should not be prescribed
+T2	Claim 372 490	reducing depression is not the only reason why antidepressants can increase the chances of a person committing suicide
+T3	Claim 708 789	a depressed adolescent on antidepressants is suicidal , that is not so surprising
+T4	Claim 799 975	someone who was not depressed and taking antidepressants for other reasons becomes suicidal , which has happened , that raises questions about the safety of these medications .
+T5	Claim 1001 1093	antidepressants could cause depression suicidal thoughts or violent actions in adolescents .
+T6	Claim 1094 1166	Knowing this , parents could not have their child take these medications
+T7	Premise 153 228	they still have a chance to worsen these feelings or actions in adolescents
+R1	Support Arg1:T7 Arg2:T1
+T8	Premise 496 589	antidepressants became more commonly prescribed for anxiety and obsessive compulsive disorder
+R2	Support Arg1:T8 Arg2:T2

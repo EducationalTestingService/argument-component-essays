@@ -1,0 +1,10 @@
+T1	Claim 134 174	Friends can change many things about you
+T2	Claim 248 342	You might do something that you would have never done but your friend persuaded you into doing
+T3	Claim 418 467	A friend can change you in good ways and bad ways
+T4	Claim 889 933	they can use this to change you in many ways
+T5	Premise 376 415	one friend can change your life forever
+R1	Support Arg1:T5 Arg2:T2
+T6	Premise 503 588	friends are the people that make good times better and hard times easier to deal with
+R2	Support Arg1:T6 Arg2:T3
+T7	Premise 823 875	People believe their friends no matter what they say
+R3	Support Arg1:T7 Arg2:T4

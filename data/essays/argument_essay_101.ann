@@ -1,0 +1,26 @@
+T1	Claim 176 230	Some of these wars are caused by the silliest things .
+T2	Claim 890 908	War is unnecessary
+T3	Claim 1029 1085	Equality is key to the beginning of a great relationship
+T4	Claim 1086 1125	it 's what makes peace between others .
+T5	Claim 93 94	.
+T6	Claim 1471 1541	we have more equality maybe we could not be at war as often as we do .
+T7	Claim 1934 1964	war is not necessary to have .
+T8	Claim 1966 1998	There are no benefits from a war
+T9	Claim 1998 2024	 it causes more problems .
+T10	Claim 3366 3454	Until we stop the wars that cause us to fall apart , there will be nothing left for us .
+T11	Claim 3515 3570	The damage war causes is another argument against war .
+T12	Claim 4599 4647	we do not need war as a necessity in the world .
+T13	Claim 4649 4661	War is great
+T14	Claim 5003 5094	we have a war we can make more organized societies that reduces the risk of violent death .
+T15	Claim 5181 5218	Even though war can resolve conflicts
+T16	Claim 5221 5250	it also makes more problems .
+T17	Claim 3493 3511	war is unnecessary
+T18	Claim 5282 5312	we do not need it in our lives
+T19	Claim 5421 5437	war is avoidable
+T20	Claim 5441 5506	 we can come up with many different ways to resolve the problem .
+T21	Premise 909 985	because of the peace we do not get , the benefits , and the damage it causes
+T22	Premise 1845 1921	there is no need to force others for peace there are other ways to get peace
+R2	Support Arg1:T22 Arg2:T7
+R1	Support Arg1:T21 Arg2:T2	
+T23	Premise 4670 4723	we can eliminate any of the threats that come our way
+R3	Support Arg1:T23 Arg2:T13	

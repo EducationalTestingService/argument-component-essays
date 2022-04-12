@@ -1,0 +1,6 @@
+T1	Claim 1534 1544	Boo did it
+T2	Claim 2779 2862	Mayella Ewell and her father , Bob Ewell were actually just attempting to get money
+T3	Claim 2980 3075	Tom ca n't use his left hand therefor how could he have hit her on the right side of her face .
+T4	Claim 3938 3983	they were trying to revolt from segregation .
+T5	Premise 2865 2910	everyone in Maycomb knows that they 're broke
+R1	Support Arg1:T5 Arg2:T2

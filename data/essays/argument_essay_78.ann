@@ -1,0 +1,27 @@
+T1	Claim 206 262	social media is used in ways that do n't harm the user .
+T2	Claim 288 347	social media is abused and is a way for bullying to start .
+T3	Claim 348 395	Social media has more positive impacts on teens
+T4	Claim 486 588	One way social media could have a positive impact on teens is by helping teens with mental disorders .
+T5	Premise 1056 1116	teens with mental illnesses can find support in social media
+T6	Claim 1128 1157	social media benefits teens .
+T7	Claim 1159 1220	Social media can help teens develop their own personalities .
+T8	Claim 1537 1599	children are creating their own identities with social media .
+T9	Claim 1784 1887	social media is making people remember what they like about themselves , creating their personalities .
+T10	Claim 1902 1945	teens are able to form their own identities
+T11	Claim 1957 1987	social media is a good thing .
+T13	Claim 2024 2060	it can make mental disorders worse .
+T15	Claim 2306 2367	social media is a bad thing for teens with mental disorders .
+T17	Claim 2624 2693	social media may help improve mental health by boosting self - esteem
+T20	Claim 2776 2815	social media is bad for mental health .
+T21	Claim 2817 2858	Positive impacts outway the bad impacts .
+T22	Claim 2859 2949	Social media can help young adults with mental disorders and teens develop personalities .
+T23	Claim 2950 2984	Social media might not be so bad .
+T24	Premise 404 482	it can help those with mental disorders and young adults develop personalities
+R1	Support Arg1:T24 Arg2:T3
+T25	Premise 667 796	Young adults with serious mental illness such as schizophrenia and bipolar disorder can also find social support via social media
+R2	Support Arg1:T25 Arg2:T4
+R3	Support Arg1:T5 Arg2:T6
+T26	Premise 1690 1741	users remember what they like best about themselves
+R4	Support Arg1:T26 Arg2:T9
+T27	Premise 1419 1506	children 's online worlds and friendships strongly resemble their relationships offline
+R5	Support Arg1:T27 Arg2:T7

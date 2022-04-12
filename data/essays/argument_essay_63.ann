@@ -1,0 +1,21 @@
+T1	Claim 0 40	Abortion it should be the woman 's choic
+T2	Claim 225 269	it is a terrible thing and should be illegal
+T3	Claim 276 313	Abortion should be allowed everywhere
+T4	Claim 413 461	Womens should have the rights to have a abortion
+T5	Claim 464 524	Abortion is a decision that all women should have a right to
+T6	Claim 527 617	Every woman , no matter where she lives , should have access to abortion when she needs it
+T7	Claim 944 981	abortion should be allowed everywhere
+T9	Claim 1117 1141	abortion should be legal
+T10	Claim 1374 1426	Abortion should be allowed everywhere in the U.S.A .
+T11	Claim 1922 1966	Abortion is not bad and it helps many people
+T13	Claim 2126 2154	abortion is a terrible thing
+T15	Premise 48 104	in some places a women do not get to make that decisions
+R1	Attack Arg1:T15 Arg2:T1
+T16	Premise 322 409	it is the woman decision , it is not bad , and the female might not be ready for a baby
+R2	Support Arg1:T16 Arg2:T3
+T17	Premise 1434 1470	The female might be ready for a baby
+R3	Support Arg1:T17 Arg2:T10
+T18	Premise 1793 1867	if the woman is a rape victim or maybe there not in good health for a baby
+R4	Support Arg1:T18 Arg2:T11
+T19	Premise 2163 2189	the woman is ending a life
+R5	Support Arg1:T19 Arg2:T13

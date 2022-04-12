@@ -1,0 +1,17 @@
+T1	Claim 495 541	Where someone grows up affects who they become
+T2	Claim 545 635	If an individual grows up in a violent neighborhood they are more likely to become violent
+T3	Claim 638 728	Children of domestic violence are three times more likely to repeat the cycle in adulthood
+T4	Claim 731 878	as growing up with domestic violence is the most significant predictor of weather or not someone will be engaged in domestic violence later in life
+T5	Claim 915 1002	the more time spent in a bad area or neighborhood can affect your actions later in life
+T6	Claim 1059 1231	The takeaway : the earlier a child moves to a good neighborhood , the better their long term outcomes will be , including how much they earn and whether they attend college
+T7	Claim 1261 1310	The earlier a family moved to a good neighborhood
+T8	Claim 1313 1357	the better the children 's long run outcomes
+T9	Claim 1504 1590	extra year of childhood exposure yields roughly the same change in longer run outcomes
+T10	Claim 1602 1657	beyond age twentythree , further exposure has no effect
+T11	Claim 1670 1795	what matters is not just the quality of your neighborhood , but also the number of childhood years that you are exposed to it
+T12	Claim 2500 2584	not all individuals that grow up in a good community do not end up being good people
+T13	Claim 2599 2713	violence and just the general area of where a person grew up is a big impact on who a person becomes later in life
+T14	Claim 2716 2757	For example Tarzan did not act like a ape
+T15	Premise 2773 2819	he wanted to , but because that 's all he knew
+R1	Support Arg1:T15 Arg2:T14	
+T16	Claim 2822 2885	In conclusion , where a person grows up affects who they become

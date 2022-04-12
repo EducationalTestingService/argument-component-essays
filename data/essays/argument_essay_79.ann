@@ -1,0 +1,43 @@
+T1	Claim 279 339	growing up can cause different types and amounts of stress .
+T2	Claim 350 375	gender that causes stress
+T3	Claim 384 403	everything but that
+T4	Claim 407 527	When hanging out with friends , kids of both male and female both have the possibility of being forced to do something .
+T5	Claim 528 613	Whether it 's bad or not , they 'll not want to look dumb in front of their friends .
+T6	Claim 668 688	people are like this
+T7	Claim 727 799	being pressured into doing something you do n't want to can cause stress
+T8	Claim 856 912	both girls and boys argue that they face more pressure .
+T9	Claim 914 1028	When growing up , kids get more and more responsibilities piled on them , causing stress to come to them as well .
+T10	Claim 1192 1293	All these different things going on in one person 's life , boy or girl , can cause a lot of stress .
+T11	Claim 1450 1497	boys may be more aggressive in a couple of ways
+T12	Claim 1523 1601	girls and boys go through fairly similar experiences when it comes to stress .
+T13	Claim 1602 1701	Girls and boys share many experiences together , whether they would like to acknowledge it or not .
+T14	Claim 1702 1796	Girls and boys both put up with the same types and consistencies of anxiety for the majority .
+T15	Claim 1797 1840	Girls and boys both share the same stress .
+T16	Claim 1934 1966	guys take more stress than girls
+T17	Claim 2040 2118	there was a special circumstance , that girls and boys face similar pressure .
+T18	Claim 2155 2179	girls face more pressure
+T20	Claim 2195 2302	they feel that they have to worry about their looks making them conscience which is true for a lot of girls
+T21	Claim 2309 2339	guys go through the same thing
+T22	Claim 2370 2404	meeting standards is easy for guys
+T23	Claim 2407 2451	they 're just as conscience as anyone else .
+T24	Claim 2468 2529	people who chose guys ' reason was because of relationships .
+T25	Claim 2583 2595	This is true
+T26	Claim 2598 2641	guys are expected more in this department .
+T27	Claim 2642 2720	People should remember that you do n't have to be a guy to make the first move
+T29	Claim 2724 2757	Gender is n't the cause of stress
+T30	Claim 2759 2785	 it 's anything but that .
+T31	Claim 2908 2975	Growing up is hard , whether your a girl , boy , or anything else .
+T32	Claim 2976 2996	There are exceptions
+T33	Claim 3003 3076	those people 's problems do n't usually have anything to do with gender .
+T34	Premise 231 276	it 's the process of growing into adolescence
+R1	Support Arg1:T34 Arg2:T1
+T35	Premise 696 720	ome have self confidence
+R2	Attack Arg1:T35 Arg2:T6
+T36	Premise 1029 1189	Finishing assignments , getting good grades , and on top of that , they might want to join extra curricular activities like basketball , theatre , and many more
+R3	Support Arg1:T36 Arg2:T9
+T37	Premise 1298 1405	with extra curriculars , they might not even get a break on the weekend to just rest for the following week
+R4	Support Arg1:T37 Arg2:T10
+T38	Premise 2530 2580	They say they feel expected to make the first move
+R5	Support Arg1:T38 Arg2:T24
+T39	Premise 2786 2905	From being peer pressured into doing things they do n't want to , keeping up with all their responsibilities , and more
+R6	Support Arg1:T39 Arg2:T29

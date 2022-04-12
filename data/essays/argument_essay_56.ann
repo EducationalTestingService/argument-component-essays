@@ -1,0 +1,23 @@
+T1	Claim 603 627	There is no need for war
+T2	Claim 630 704	we can solve our problems in much more humane ways that benefit everyone .
+T3	Claim 1265 1362	After coming home , changes can affect their relationships with family in many unfortunate ways .
+T4	Claim 1750 1767	war is unneeded .
+T5	Claim 2103 2202	we can completely avoid all violence by simple discussion between the countries the issue affects .
+T6	Claim 2203 2251	We can do this by having debates and arguments .
+T7	Claim 2252 2314	Countries would be better of with simply debate and discussion
+T8	Claim 2384 2442	There are more benefits to both sides through discussion .
+T9	Claim 2477 2527	to everyone to find other ways to solve problems .
+T11	Claim 3416 3502	war does nothing but tear nations apart and bring violence to innocent peoples homes .
+T12	Claim 3504 3562	Our problems can be solved in ways that benefit both sides
+T13	Claim 3567 3618	no one will suffer the loss of friends and family .
+T14	Claim 3644 3729	war and violence is the only way to solve the conflict between countries and states .
+T15	Claim 3733 3823	we simply had discussion and arguments no one would get hurt and no one will suffer losses
+T16	Claim 3826 3849	we would not need war .
+T17	Claim 3850 3893	War is not the only way to resolve conflict
+T18	Claim 3896 3976	we can simply have strong arguments and work out the issues through discussion .
+T19	Claim 2592 2636	Whole countries turn against each other just
+T10	Premise 2649 2698	government says they did something we do n't like
+R1	Support Arg1:T10 Arg2:T19	
+T20	Claim 1528 1584	Some men and woman that come back from war fall to piece
+T21	Premise 1597 1735	the torment they went through and need psychological help to recover from their experiences which changes the way their families must live
+R2	Support Arg1:T21 Arg2:T20	

@@ -1,0 +1,37 @@
+T1	Claim 211 263	Becoming vegan has many great effects on the world .
+T2	Claim 264 315	Eating meat and dairy is very harmful to our bodies
+T3	Claim 324 345	cause many diseases .
+T4	Claim 346 410	The risk of these diseases can be lowered if everyone goes vegan
+T6	Claim 420 487	the environment is extremely affected negatively by this industry .
+T7	Claim 502 546	animals are treated awful in this industry .
+T8	Claim 547 570	It is simply inhumane .
+T9	Claim 598 673	everyone must work harder to stop eating animal products and become vegan .
+T10	Claim 675 740	In the meat and dairy industry the animals are treated horribly .
+T11	Claim 1058 1072	This is insane
+T12	Claim 1082 1094	be stopped .
+T13	Claim 1095 1152	The way they treat animals in the meat and dairy industry
+T14	Claim 1631 1685	This is devastating and very stressful on the mother .
+T15	Claim 1687 1767	The production of meat and dairy has many atrocious effects on the environment .
+T16	Claim 2317 2337	This is unacceptable
+T17	Claim 2342 2365	is killing the planet .
+T18	Claim 2369 2498	everyone went vegan , a tremendous amount of water would be saved and the amount of fossil fuel usage would lessen dramatically .
+T21	Claim 2506 2575	pollution rates would drop hugley , making the Earth a better place .
+T22	Claim 2576 2632	The environment suffers so much because of this industry
+T23	Claim 2637 2747	it is completely outrageous how much money Americans spend to buy these products and support these companies .
+T24	Claim 3101 3157	humans should not continue having dairy in their diets .
+T25	Claim 3399 3436	we should not eat this kind of food .
+T26	Claim 3747 3793	very unnatural that humans drink cow 's milk .
+T27	Claim 3848 3888	we should not take that away from them .
+T28	Claim 3922 3969	you do not need it in your diet to be healthy .
+T29	Claim 3984 4064	you need meat to be strong and it is a main source of protein that you must have
+T32	Claim 4648 4718	go vegan and not support this industry of animal abuse and pollution .
+T33	Claim 4719 4783	Meat and dairy are harmful to human bodies and the environment .
+T34	Claim 4811 4880	America should go vegan as well as the rest of the human population .
+T35	Premise 741 807	They are kept in extremely small , crowded crates with no sunlight
+R1	Support Arg1:T35 Arg2:T10
+T36	Premise 2962 3051	Dairy can also cause Alzheimer 's disease and increase chances of obtaining breast cancer
+R2	Support Arg1:T36 Arg2:T24
+T37	Premise 3291 3338	eating meat increases the risk of heart disease
+R3	Support Arg1:T37 Arg2:T25
+T38	Premise 3538 3607	their body is not able to break down the enzymes found in cow 's milk
+R4	Support Arg1:T38 Arg2:T26

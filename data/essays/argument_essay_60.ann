@@ -1,0 +1,63 @@
+T1	Claim 0 64	Boxing should have significant changes to protect participants .
+T3	Claim 287 347	it is also a sport that can benefit the people who play it .
+T4	Claim 65 92	Boxing should not be banned
+T5	Claim 495 558	First of all boxing is beneficial for the participant 's health
+T6	Claim 565 611	allows them to work on their general fitness .
+T7	Claim 612 648	It is healthy for people to exercise
+T8	Claim 655 695	can make them overall a happier person .
+T9	Claim 696 812	Boxing specifically , helps people strengthen different muscles since boxing works on a range of different muscles .
+T10	Claim 813 920	Playing this sport can give participants a confidence boost and help their mental and emotional condition .
+T11	Claim 1025 1090	People who participate in boxing become overall a better person .
+T12	Claim 1091 1149	People are exposed to others that can be good influences .
+T13	Claim 1150 1200	They can also help people become a better person .
+T14	Claim 259 286	boxing is a dangerous sport
+T15	Claim 1240 1344	it can be more dangerous to drink , smoke , or partake in any drug usage while participating in boxing .
+T16	Claim 1345 1373	Boxing is a beneficial sport
+T17	Claim 1380 1410	is as dangerous as any sport .
+T18	Claim 1472 1522	boxing promotes women participating in the sport .
+T19	Claim 1523 1583	Boxing gives women a sport to influence and inspire others .
+T20	Claim 1667 1747	Women are able to follow their role models , and become role models themselves .
+T21	Claim 1748 1805	Women can become champions , and be given opportunities .
+T22	Claim 1806 1881	Female boxers have the opportunity to achieve more than they could before .
+T23	Claim 2120 2179	Women are pressured into looking and acting a certain way .
+T24	Claim 2314 2355	These gender stereotypes are being broken
+T25	Claim 2362 2418	women are not as expected to meet certain requirements .
+T26	Claim 2419 2513	Additionally , women are being more and more supported , and inspiring others to do the same .
+T27	Claim 2514 2653	Overall female boxers not having to fight to get out of the shadows , and having more opportunities open to them sends a positive message .
+T28	Claim 2655 2715	Next boxing is able to assist people from poor backgrounds .
+T29	Claim 2716 2776	Boxing can change someone 's life mentally and financially .
+T30	Claim 2777 2875	People from poor backgrounds are able to use boxing as a way to work on their financial problems .
+T31	Claim 2876 3006	But poverty and other social disadvantages could be addressed directly by appropriate focused government social - welfare policies
+T32	Claim 3041 3100	The people with poor backgrounds could live a better life .
+T33	Claim 3121 3160	boxing also teaches self - discipline .
+T34	Claim 3161 3210	Training to be a boxer requires self - discipline
+T35	Claim 3219 3244	teach self - discipline .
+T36	Claim 3245 3303	The self - discipline that is taught benefits the boxers .
+T37	Claim 3304 3375	This can assist the boxers to not commit crimes throughout their life .
+T38	Claim 3376 3472	Boxers are able to make themselves financially secure , and avoid living their life with crime .
+T39	Claim 3473 3542	Boxing is a sport that can change someone 's life in a positive way .
+T40	Claim 3560 3639	boxing can also be a dangerous sport , and cause damage to the brain and body .
+T41	Claim 4021 4119	boxing is 83 times more deadly than high school football and 50 times more than college football .
+T42	Claim 4153 4213	boxing has produced fewer deaths than baseball or football .
+T43	Claim 4224 4272	boxing is not more deadly than any other sport .
+T44	Claim 4273 4425	It is possible for any participants in other sports , for example a higher impact sport like football , to be just as deadly , if not more than boxing .
+T45	Claim 4443 4470	boxing should not be banned
+T46	Claim 4479 4547	it can support people in helping their health and increasing fitness
+T47	Claim 4549 4630	 it promotes female boxing , and boxing can assist people with poor backgrounds .
+T48	Claim 4640 4717	boxing should have significant modifications designed to protect participants
+T49	Claim 4769 4840	modifications can prevent a significant amount of deaths and injuries .
+T51	Premise 4889 4938	this sport can assist in changing someone 's life
+T52	Claim 4945 5007	people who play this sport gain various benefits from boxing .
+T53	Claim 5020 5064	boxing should make significant modifications
+T54	Premise 95 164	It is a loved sport , and there are plenty of people who enjoy boxing
+R1	Support Arg1:T54 Arg2:T4
+T55	Premise 167 245	The participants who play this sport increase their general fitness and health
+R2	Support Arg1:T55 Arg2:T3
+T56	Premise 921 989	Training for boxing discourages drinking , smoking , and drug taking
+R3	Support Arg1:T56 Arg2:T11
+T57	Premise 1411 1461	Boxing is not a high impact sport such as football
+R4	Support Arg1:T57 Arg2:T17
+T58	Premise 3640 3715	Boxing could cause serious and permanent damage to the participant or death
+R5	Support Arg1:T58 Arg2:T40
+T59	Claim 4853 4880	boxing should not be banned
+R6	Support Arg1:T51 Arg2:T59

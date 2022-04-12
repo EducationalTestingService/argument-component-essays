@@ -1,0 +1,9 @@
+T1	Claim 528 679	The Seventh man should not forgive himself for failing to save his best friend / neighbor , which led to lifelong objective guilt for The Seventh Man .
+T2	Claim 749 887	Really , at the end of the day , the people who will save you , and the people who will help you , he added , they 're usually neighbors .
+T3	Claim 925 994	the people you live closest to will help you more than anybody else .
+T5	Claim 2259 2367	After The Seventh Man 's warning went unheard by K , his next move should have been to rush over and grab K.
+T6	Claim 3052 3163	The Seventh Man has Objective Guilt or accurate guilt which is caused by real wrongdoings and deliberate harm .
+T7	Claim 3745 3787	The Seventh Man should n't forgive himself
+T8	Claim 4126 4197	learn to face fear head - on , and think about others before yourself .
+T9	Premise 3796 3888	he failed to save his best friend / neighbor , which led to lifelong objective guilt for him
+R1	Support Arg1:T9 Arg2:T7

@@ -1,0 +1,22 @@
+T1	Claim 377 419	Everything must be feminine to be Barbie .
+T2	Claim 420 486	People have to change themselves to relate their looks to Barbie .
+T3	Claim 487 520	This is completely unacceptable .
+T4	Claim 1108 1216	Children will receive an impact on their body when they are older and want to relate their looks to Barbie .
+T5	Claim 1513 1542	Barbie dolls must be banned .
+T6	Claim 2016 2047	she should be an entrepreneur .
+T7	Claim 641 669	these dolls must be banned .
+T8	Claim 2766 2826	Self esteem can range from personality to body self esteem .
+T9	Claim 3326 3373	Low self esteem and confidence has been lowered
+T10	Claim 3377 3420	 consequently Barbie dolls must be banned .
+T11	Claim 3528 3581	she is not a role model that should be looked up to .
+T12	Claim 4286 4334	Barbie is not a positive role model for children
+T13	Claim 4366 4449	The generation of today will be covered in plastic surgeries and be considered fake
+T14	Claim 4458 4499	 people do something to help this cause .
+T15	Premise 521 628	Barbie wears an unattainable body , encourages girls to be feminine , and lowers self esteem and confidence
+R1	Support Arg1:T15 Arg2:T7
+T16	Premise 1406 1498	Girls wanting to change their looks by surgery or eating disorders could damage a girls life
+R2	Support Arg1:T16 Arg2:T5
+T17	Premise 1958 1991	Because of what Barbie is wearing
+R3	Attack Arg1:T17 Arg2:T6	
+T18	Premise 3430 3525	Barbie wears an unattainable body , encourages feminism , and lowers self esteem and confidence
+R4	Support Arg1:T18 Arg2:T11	

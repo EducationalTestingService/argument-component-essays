@@ -1,0 +1,33 @@
+T1	Claim 107 171	the Second Amendment claims the right to bear arms to protect us
+T2	Claim 173 215	 guns actually cause more harm than good .
+T3	Claim 216 286	Guns are the culprit in suicide , homicide , and accidentally injury .
+T4	Claim 329 445	The United States should put more restrictions on gun ownership to protect its people and make America great again .
+T5	Claim 447 505	Increasing gun control laws could lead to fewer suicides .
+T6	Claim 558 580	find ways to stop it .
+T7	Claim 873 972	suicide can be prevented by limiting access to certain means of committing suicide , such as guns .
+T8	Claim 1003 1038	gun control laws can change lives .
+T9	Claim 1181 1261	Gun control laws make suicide less of a threat , which helps us to live longer .
+T10	Claim 1263 1347	Restrictions on gun ownership could protect people from other gun - related deaths .
+T11	Claim 1428 1475	limit other ways that guns harm living things .
+T12	Claim 1852 1894	people can use them right or incorrectly .
+T13	Claim 2042 2177	American children under age 15 were nine times more likely to die of a gun accident than children in other advanced wealthy countries .
+T14	Claim 2283 2316	limiting gun use can save lives .
+T15	Claim 2417 2466	many people think that guns are needed for safety
+T16	Claim 2734 2811	the Second Amendment was meant for the military and not for everyday people .
+T17	Claim 2830 2873	they can protect themselves by owning a gun
+T18	Claim 2897 2938	 guns are rarely used in self - defense .
+T19	Claim 3072 3139	they need a gun to hunt in order to provide food for their family .
+T20	Claim 3318 3374	people are not really using guns to protect themselves .
+T21	Claim 3413 3478	The United States should put more restrictions on gun ownership .
+T22	Claim 3606 3697	Our Second Amendment right to bear arms was meant to protect us through a strong military .
+T23	Claim 3709 3756	protecting us , guns are shortening our lives .
+T25	Premise 1039 1174	Australia was able to decrease suicides by 35 % after enforcing stricter gun control laws when 35 people died in a 1996 mass shooting .
+R2	Support Arg1:T25 Arg2:T8
+T24	Premise 512 536	suicide is very horrible
+R1	Support Arg1:T24 Arg2:T6	
+T26	Premise 1356 1406	suicide is not the only risk of death by a firearm
+R3	Support Arg1:T26 Arg2:T11	
+T27	Premise 1783 1849	guns are a source of danger as much as they are a source of safety
+R4	Support Arg1:T27 Arg2:T12	
+T28	Premise 2326 2414	the Second Amendment of the United States Constitution protects individual gun ownership
+R5	Support Arg1:T28 Arg2:T15	
